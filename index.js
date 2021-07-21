@@ -1,6 +1,9 @@
-// Require the framework and instantiate it
-const fastify = require("fastify")({ logger: true });
-const db = require("./db.json");
+import { db } from "./db.js";
+import Fastify from "fastify";
+
+const fastify = Fastify({
+  logger: true,
+});
 
 fastify.route({
   method: "GET",

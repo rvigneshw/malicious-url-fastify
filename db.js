@@ -1,5 +1,5 @@
-{
-  "h12": [
+export const db = {
+  h12: [
     "hussein.shop",
     "holinamet.us",
     "htankds.info",
@@ -87,9 +87,9 @@
     "heatlyt.site",
     "helposys.com",
     "hindleys.com",
-    "hotissue.xyz"
+    "hotissue.xyz",
   ],
-  "f13": [
+  f13: [
     "fruizione.com",
     "factory.gifts",
     "fitnesclub.ru",
@@ -185,9 +185,9 @@
     "falisha.co.id",
     "fatmaesra.com",
     "finixgroup.tk",
-    "fuettern24.de"
+    "fuettern24.de",
   ],
-  "x12": [
+  x12: [
     "xerabytes.pw",
     "xinblasta.us",
     "xmjietuo.com",
@@ -204,9 +204,9 @@
     "xoomland.com",
     "xd.zapto.org",
     "xlraider.com",
-    "xyzeeeee.com"
+    "xyzeeeee.com",
   ],
-  "p16": [
+  p16: [
     "pakjapannews.com",
     "pure-line.com.pl",
     "projectkanor.bit",
@@ -317,9 +317,9 @@
     "parka-online.com",
     "pizzzalicious.ca",
     "panslimiterd.com",
-    "personalizar.net"
+    "personalizar.net",
   ],
-  "i12": [
+  i12: [
     "iwrtools.com",
     "icdsarch.com",
     "ishanvis.com",
@@ -405,9 +405,9 @@
     "infosors.com",
     "iem-send.com",
     "inagloss.com",
-    "ideale-ds.eu"
+    "ideale-ds.eu",
   ],
-  "e22": [
+  e22: [
     "etprimewomenawards.com",
     "expertswebservices.com",
     "everlastingcare.com.ng",
@@ -436,9 +436,9 @@
     "emirates-tradingcc.com",
     "everydaygoodforyou.com",
     "easymoneyfinance.co.uk",
-    "entrepreneurspider.com"
+    "entrepreneurspider.com",
   ],
-  "f27": [
+  f27: [
     "ffoqr3ug7m726zou.ukswcu.bid",
     "ffoqr3ug7m726zou.4tkb0d.top",
     "ffoqr3ug7m726zou.zu3fzc.bid",
@@ -543,9 +543,9 @@
     "ffoqr3ug7m726zou.lc1xfc.top",
     "ftoxmpdipwobp4qy.lxvmhm.top",
     "ffoqr3ug7m726zou.u9fcji.bid",
-    "ffoqr3ug7m726zou.xe1ws1.top"
+    "ffoqr3ug7m726zou.xe1ws1.top",
   ],
-  "j15": [
+  j15: [
     "judidomino.info",
     "japanesepdf.com",
     "jaysilverdp.com",
@@ -586,9 +586,9 @@
     "jesusonline.xyz",
     "jsplivenews.com",
     "just-say-yes.nl",
-    "junkoutpros.com"
+    "junkoutpros.com",
   ],
-  "c19": [
+  c19: [
     "careerplussatna.com",
     "celbelhabiben66.com",
     "comerciantspobla.es",
@@ -678,9 +678,9 @@
     "clinicanatur.com.br",
     "carollevorci.com.br",
     "cissi.brinomedia.se",
-    "crack4fun.hopto.org"
+    "crack4fun.hopto.org",
   ],
-  "n15": [
+  n15: [
     "nhadatquan2.xyz",
     "narendar.online",
     "nearlyrealty.us",
@@ -756,9 +756,9 @@
     "nabpayments.net",
     "nawarathome.com",
     "nnpcaids.com.ng",
-    "nvtrailmaps.com"
+    "nvtrailmaps.com",
   ],
-  "m14": [
+  m14: [
     "mizhibuluo.com",
     "maggycocoa.net",
     "microzoftt.com",
@@ -936,9 +936,9 @@
     "mintronick.com",
     "medi-beauty.eu",
     "moonday-v54.tk",
-    "mangohills.net"
+    "mangohills.net",
   ],
-  "a21": [
+  a21: [
     "aide-villages-togo.fr",
     "allesandradesigns.com",
     "amazingmakeuptips.com",
@@ -1013,9 +1013,9 @@
     "adminsrc.serveirc.com",
     "almahaconsultants.com",
     "ahsqbeospcdrngfv.info",
-    "automationsguiden.com"
+    "automationsguiden.com",
   ],
-  "w19": [
+  w19: [
     "www.meallservice.it",
     "www.izmirtente.info",
     "www.europegreen.org",
@@ -1121,9 +1121,9 @@
     "www.vidcampaign.com",
     "wolfsate4.hopto.org",
     "wa-producoes.com.br",
-    "www.resumebuddy.net"
+    "www.resumebuddy.net",
   ],
-  "s26": [
+  s26: [
     "strasnersuperstoreblog.com",
     "sharpvisionconsultants.com",
     "sixsigma-accreditation.org",
@@ -1150,9 +1150,9 @@
     "solini.bharatbioscience.in",
     "stop-dependances-tabac.com",
     "spunkyiopkslookup.ddns.net",
-    "sakhisuhaninarijeevika.com"
+    "sakhisuhaninarijeevika.com",
   ],
-  "w14": [
+  w14: [
     "www.automac.it",
     "wishesblog.com",
     "www.gruetzi.es",
@@ -1256,9 +1256,9 @@
     "webizytech.com",
     "wiselysoft.com",
     "wellyzimme.com",
-    "www.plancho.de"
+    "www.plancho.de",
   ],
-  "r20": [
+  r20: [
     "redakcia.gamewall.eu",
     "roads.stamperinc.org",
     "referral-casino.best",
@@ -1304,9 +1304,9 @@
     "rameshmendolabjp.com",
     "rostwa-engineers.com",
     "rosenfeldcapital.com",
-    "ragazzemessenger.com"
+    "ragazzemessenger.com",
   ],
-  "s15": [
+  s15: [
     "sfbotvinnik.icu",
     "sadsad.ddns.net",
     "skylinemasr.com",
@@ -1492,9 +1492,9 @@
     "stankostroy.com",
     "soulscooter.com",
     "sahakyanshn.com",
-    "spadeglobal.com"
+    "spadeglobal.com",
   ],
-  "w18": [
+  w18: [
     "www.a2zportals.com",
     "wiratamaenergi.com",
     "www.mhc-stables.be",
@@ -1596,9 +1596,9 @@
     "www.draaksteken.nl",
     "www.smartporua.com",
     "www.bullypedia.net",
-    "www.atiyka.home.ro"
+    "www.atiyka.home.ro",
   ],
-  "w15": [
+  w15: [
     "www.ferwerda.nu",
     "www.italius.com",
     "waresustem.info",
@@ -1714,9 +1714,9 @@
     "www.coudfil.net",
     "worldpackmx.com",
     "webhusethost.dk",
-    "www.russwat.org"
+    "www.russwat.org",
   ],
-  "w21": [
+  w21: [
     "www.fotosdelburgo.com",
     "www.lefaos.50webs.com",
     "www.stucchifedele.com",
@@ -1796,9 +1796,9 @@
     "www.vibrantlove.co.uk",
     "www.vishvagujarat.com",
     "www.agenterbaik88.com",
-    "www.moran10.karoo.net"
+    "www.moran10.karoo.net",
   ],
-  "x16": [
+  x16: [
     "xoxping.ddns.net",
     "xe-logistics.com",
     "xportfreight.com",
@@ -1807,9 +1807,9 @@
     "xlr8services.com",
     "xfe9w3f7yc2i.com",
     "xlightsfaces.com",
-    "xcgwjxkb7fcf.top"
+    "xcgwjxkb7fcf.top",
   ],
-  "s17": [
+  s17: [
     "sevvalsenturk.com",
     "supnewsportal.com",
     "stickersaigon.com",
@@ -1989,9 +1989,9 @@
     "sdstat597tp.world",
     "saahel00.ddns.net",
     "structecoship.com",
-    "solutionixinc.com"
+    "solutionixinc.com",
   ],
-  "o15": [
+  o15: [
     "oudheverlee.top",
     "ogkush.ddns.net",
     "occn-asecna.org",
@@ -2029,9 +2029,9 @@
     "otmess.ddns.net",
     "opcbgpharma.com",
     "ozeki.hopto.org",
-    "ozgursimsek.xyz"
+    "ozgursimsek.xyz",
   ],
-  "b25": [
+  b25: [
     "birthday-cards.50webs.com",
     "bizpromotefreebooster.com",
     "buynolvadexonlineshop.com",
@@ -2057,9 +2057,9 @@
     "baycitiesbiblecollege.org",
     "bietthuvinhomesgialam.xyz",
     "benzelcleaningsystems.com",
-    "brightervisionsites30.com"
+    "brightervisionsites30.com",
   ],
-  "p15": [
+  p15: [
     "photronlamp.com",
     "pleasebuy.co.uk",
     "polywaste.co.zw",
@@ -2167,9 +2167,9 @@
     "priusfans88.com",
     "pagosapower.com",
     "papercut.net.au",
-    "pandoracharm.ru"
+    "pandoracharm.ru",
   ],
-  "c22": [
+  c22: [
     "chwiladlaciebie.cba.pl",
     "casasdepasyterrenos.mx",
     "clubemultisaude.com.br",
@@ -2214,9 +2214,9 @@
     "customchopperstuff.com",
     "cancerford.duckdns.org",
     "crossoverscrubbers.com",
-    "copyprintduplicate.com"
+    "copyprintduplicate.com",
   ],
-  "c8": [
+  c8: [
     "cdbar.ir",
     "combi.nu",
     "cxacf.ru",
@@ -2234,16 +2234,16 @@
     "cubee.lt",
     "ctp1.xyz",
     "chiro.it",
-    "cetcf.cn"
+    "cetcf.cn",
   ],
-  "w39": [
+  w39: [
     "weichdsfiass201209xklsnxnso.duckdns.org",
     "www.royalcaribbeanbeddingcollection.com",
     "www.stefanopennacchiottigioielleria.com",
     "www.andyschwietzer.homepage.t-online.de",
-    "www.dbv-winterthur.homepage.t-online.de"
+    "www.dbv-winterthur.homepage.t-online.de",
   ],
-  "d16": [
+  d16: [
     "dubaifridays.com",
     "dongwooclean.com",
     "de-turckheim.net",
@@ -2375,9 +2375,9 @@
     "dev2.karisai.com",
     "dentistmomma.com",
     "dveri-ivanovo.ru",
-    "davaomarbled.com"
+    "davaomarbled.com",
   ],
-  "f18": [
+  f18: [
     "fliesencrombach.de",
     "fieldserviceca.net",
     "forconfirmation.gq",
@@ -2438,9 +2438,9 @@
     "francearefrogs.xyz",
     "foto-weinberger.at",
     "friluftsgaarden.dk",
-    "faiz-e-mushtaq.com"
+    "faiz-e-mushtaq.com",
   ],
-  "m19": [
+  m19: [
     "mipec-city-view.com",
     "mobileprosweden.com",
     "mylookalikedoll.com",
@@ -2545,9 +2545,9 @@
     "manchester-derby.ga",
     "motisyoink.ddns.net",
     "mybestlifestyle.com",
-    "midiasomeluz.com.br"
+    "midiasomeluz.com.br",
   ],
-  "k12": [
+  k12: [
     "kranakha.net",
     "kvene1z.info",
     "kalafyn10.tk",
@@ -2622,15 +2622,15 @@
     "knaravan.org",
     "khasitez.net",
     "kranement.tk",
-    "kviv-avto.ru"
+    "kviv-avto.ru",
   ],
-  "b32": [
+  b32: [
     "bullybarricade.consultitdata.com",
     "billy-hanjo.homepage.t-online.de",
     "businessvideo.urbanhealth.com.ua",
-    "blog.harmonyturismosistemico.com"
+    "blog.harmonyturismosistemico.com",
   ],
-  "s11": [
+  s11: [
     "shhaoou.com",
     "sfabinc.com",
     "soiaree.com",
@@ -2809,9 +2809,9 @@
     "staraba.com",
     "sjztree.com",
     "shopmjn.com",
-    "swarctz.com"
+    "swarctz.com",
   ],
-  "e17": [
+  e17: [
     "ecommerceweb.info",
     "elevationmusic.de",
     "emperorisking.bit",
@@ -2896,16 +2896,16 @@
     "entasystem.online",
     "expertsreunis.com",
     "ellaupperhill.com",
-    "ecomission.com.au"
+    "ecomission.com.au",
   ],
-  "314": [
+  314: [
     "31.184.233.106",
     "31.184.197.126",
     "31.202.128.249",
     "31.184.197.119",
-    "3d-skeneri.com"
+    "3d-skeneri.com",
   ],
-  "z20": [
+  z20: [
     "zzzort10xtest123.com",
     "zhongguanjiaoshi.com",
     "zeronine.duckdns.org",
@@ -2913,9 +2913,9 @@
     "zonabest.atspace.com",
     "zadvexmail19mn.world",
     "zahirbanjarmasin.com",
-    "zzi.bellevilledc.com"
+    "zzi.bellevilledc.com",
   ],
-  "r19": [
+  r19: [
     "rebreaksstonehen.at",
     "rulshtory.wmlead.ru",
     "royalfoodarabia.com",
@@ -2962,9 +2962,9 @@
     "rubirosaoficial.com",
     "r9accelerator.co.nz",
     "rwhbrownijulie.club",
-    "raddalmutallaga.com"
+    "raddalmutallaga.com",
   ],
-  "b17": [
+  b17: [
     "bachir7.hopto.org",
     "bandleader.com.br",
     "bozkurtfurkan.com",
@@ -3078,9 +3078,9 @@
     "bobbysinghwpg.com",
     "bilisimarsivi.com",
     "balispadallas.com",
-    "brunocarbh.com.br"
+    "brunocarbh.com.br",
   ],
-  "r13": [
+  r13: [
     "rajsima87.com",
     "revistart.net",
     "ran-patch.com",
@@ -3169,9 +3169,9 @@
     "redcamif.info",
     "rara.ddns.net",
     "ryderpogy.com",
-    "resckoltd.com"
+    "resckoltd.com",
   ],
-  "h22": [
+  h22: [
     "happiness360degree.com",
     "hotelriverpalacegb.com",
     "homecarpetshopping.com",
@@ -3204,9 +3204,9 @@
     "hackerfarm123.ddns.net",
     "hikvisiondatasheet.com",
     "holydns.warzonedns.com",
-    "httsdomainset.ddns.net"
+    "httsdomainset.ddns.net",
   ],
-  "f20": [
+  f20: [
     "forlifepatios.com.au",
     "firefightersanta.org",
     "franosbarbershop.com",
@@ -3264,9 +3264,9 @@
     "flashdrivebro.online",
     "fakiuyouhhh.ddns.net",
     "fa1c0n3z.duckdns.org",
-    "freehosted.netai.net"
+    "freehosted.netai.net",
   ],
-  "m10": [
+  m10: [
     "melkar.com",
     "manaton.us",
     "micozup.ru",
@@ -3372,9 +3372,9 @@
     "ms0595.com",
     "mmrihe.xyz",
     "mortest.ug",
-    "manchen.cc"
+    "manchen.cc",
   ],
-  "a27": [
+  a27: [
     "avsxrcoq2q5fgrw2.199ovv.top",
     "ahuqfrqk54v3vnzj.dxzr2l.top",
     "astrocricketpredictions.com",
@@ -3465,9 +3465,9 @@
     "avsxrcoq2q5fgrw2.nbz4dn.top",
     "avsxrcoq2q5fgrw2.zi842m.bid",
     "ahuqfrqk54v3vnzj.45yu0p.bid",
-    "avsxrcoq2q5fgrw2.9c431m.bid"
+    "avsxrcoq2q5fgrw2.9c431m.bid",
   ],
-  "d23": [
+  d23: [
     "droohsdronfhystgfh.info",
     "developer.qbicblack.com",
     "doohs.000webhostapp.com",
@@ -3499,9 +3499,9 @@
     "dieutuyetvoigiandon.com",
     "donghakacademy.ddns.net",
     "distancephotography.com",
-    "dynamicmediaservices.eu"
+    "dynamicmediaservices.eu",
   ],
-  "a15": [
+  a15: [
     "atriym-stroy.ru",
     "acteongruop.com",
     "abraszczecin.pl",
@@ -3665,9 +3665,9 @@
     "alfredobajc.com",
     "amanahmuslim.id",
     "angeliclady.com",
-    "alabd-group.com"
+    "alabd-group.com",
   ],
-  "e20": [
+  e20: [
     "elderlycareblog.info",
     "easthamsuperette.com",
     "e-transferonline.com",
@@ -3717,9 +3717,9 @@
     "electroriente.com.co",
     "emailaccountlogin.co",
     "egerdpkvutvodmtsy.pw",
-    "e-worldsolutions.com"
+    "e-worldsolutions.com",
   ],
-  "s14": [
+  s14: [
     "standartsro.ru",
     "spravkabas.com",
     "sekitarkoe.com",
@@ -3979,9 +3979,9 @@
     "solenapeak.com",
     "shlerlashu.com",
     "santamilll.com",
-    "skullisland.gq"
+    "skullisland.gq",
   ],
-  "p21": [
+  p21: [
     "performancehaelth.com",
     "pppconstruction.co.za",
     "pashafrendley.hr00.ru",
@@ -4045,9 +4045,9 @@
     "pasioncontinental.com",
     "philippinesregalo.com",
     "palermosleepcheap.com",
-    "psicologia-online.com"
+    "psicologia-online.com",
   ],
-  "b12": [
+  b12: [
     "benchover.cn",
     "buhlmend.net",
     "bncxwood.com",
@@ -4194,9 +4194,9 @@
     "beesocial.me",
     "bilgoray.com",
     "berita88.net",
-    "bamastra.top"
+    "bamastra.top",
   ],
-  "s12": [
+  s12: [
     "sinruiyi.com",
     "staterio.com",
     "shinipri.com",
@@ -4356,9 +4356,9 @@
     "sys.dynu.com",
     "slalloim.xyz",
     "sexlandia.ru",
-    "stellaar.com"
+    "stellaar.com",
   ],
-  "d15": [
+  d15: [
     "digihashtag.com",
     "demo.evgesha.ru",
     "djeshwxzsiz.biz",
@@ -4462,25 +4462,25 @@
     "domekhoroos.com",
     "demisuganda.org",
     "drkenherman.com",
-    "denis-benker.de"
+    "denis-benker.de",
   ],
-  "317": [
+  317: [
     "3ddentalimage.com",
     "3dphoto-rotate.ru",
     "365shopdirect.com",
     "30undertennis.com",
-    "35-23-4532-34.com"
+    "35-23-4532-34.com",
   ],
-  "q16": [
+  q16: [
     "qingniatouzi.com",
     "quehenbergar.com",
     "q58ufhzsn65.info",
     "qianghankeji.com",
     "qyoi11iyuau.club",
     "questoutwall.xyz",
-    "qbqrfyeqqvcvv.pw"
+    "qbqrfyeqqvcvv.pw",
   ],
-  "l11": [
+  l11: [
     "lanauva.com",
     "lithcon.com",
     "ligame.site",
@@ -4557,9 +4557,9 @@
     "locked.tech",
     "logeinc.com",
     "lomtour.com",
-    "leadtipz.pw"
+    "leadtipz.pw",
   ],
-  "t15": [
+  t15: [
     "themesgiant.net",
     "topwarenhub.top",
     "toprakcelik.com",
@@ -4696,9 +4696,9 @@
     "thesalesmob.com",
     "thenewhuman.xyz",
     "tayyam.ddns.net",
-    "truyen.ninh.xyz"
+    "truyen.ninh.xyz",
   ],
-  "j9": [
+  j9: [
     "jbint.org",
     "jvet.club",
     "jurang.tk",
@@ -4718,9 +4718,9 @@
     "joyeau.cf",
     "j-ack.com",
     "jmltda.cl",
-    "jatkit.gq"
+    "jatkit.gq",
   ],
-  "p19": [
+  p19: [
     "pbs.fkip.unja.ac.id",
     "profstroyremont.com",
     "paypal-document.com",
@@ -4799,9 +4799,9 @@
     "pokeronline2000.net",
     "portugalbyheart.com",
     "paularosalba.com.br",
-    "phongvegiaphien.com"
+    "phongvegiaphien.com",
   ],
-  "b11": [
+  b11: [
     "btik.web.id",
     "bjsunny.net",
     "bounceg.com",
@@ -4932,16 +4932,16 @@
     "beutify.com",
     "buroka.tech",
     "bcskntc.com",
-    "balfl65.top"
+    "balfl65.top",
   ],
-  "l30": [
+  l30: [
     "light.gseveryitoverforbadin.uk",
     "learntobuildyourownwebsite.com",
     "livingbranchanimalsciences.com",
     "landscapingstoneandmulchwi.com",
-    "loliyuterr66.000webhostapp.com"
+    "loliyuterr66.000webhostapp.com",
   ],
-  "c18": [
+  c18: [
     "cerutynoviolito.us",
     "crolic88.myjino.ru",
     "corpweb0.sover.net",
@@ -5036,9 +5036,9 @@
     "co.colnhubplus.com",
     "canhokhangdien.net",
     "cfaithlifeline.org",
-    "crazydreaddisc.com"
+    "crazydreaddisc.com",
   ],
-  "p17": [
+  p17: [
     "polatlimatbaa.com",
     "ponmaredimare.top",
     "picoslavajato.com",
@@ -5137,9 +5137,9 @@
     "primerreporte.com",
     "psychologylibs.ru",
     "pdaconference.com",
-    "powerboxtrays.com"
+    "powerboxtrays.com",
   ],
-  "o13": [
+  o13: [
     "oniongames.jp",
     "olimp-otel.ru",
     "owenewturk.ru",
@@ -5198,9 +5198,9 @@
     "orisinlog.com",
     "organicfs.com",
     "off-cloud.com",
-    "ohfebveub.xyz"
+    "ohfebveub.xyz",
   ],
-  "b18": [
+  b18: [
     "bringloverback.com",
     "bestcondodeals.net",
     "bijuteriistarmd.ro",
@@ -5309,9 +5309,9 @@
     "binance-forever.ru",
     "biztradersintl.xyz",
     "bachhoatrangia.com",
-    "brandconscience.in"
+    "brandconscience.in",
   ],
-  "a14": [
+  a14: [
     "accubattery.eu",
     "abeelepach.com",
     "avast.ddns.net",
@@ -5528,9 +5528,9 @@
     "alerihbfer.xyz",
     "alex-walter.de",
     "aconetrick.com",
-    "ameterm-duo.ro"
+    "ameterm-duo.ro",
   ],
-  "a20": [
+  a20: [
     "amaravathiherald.com",
     "adalimmigrations.com",
     "admiralcompressor.ru",
@@ -5639,9 +5639,9 @@
     "anon07black.ddns.net",
     "arizonalionscamp.org",
     "anket.kalthefest.org",
-    "aronkutabaro.desa.id"
+    "aronkutabaro.desa.id",
   ],
-  "m12": [
+  m12: [
     "myofferta.ch",
     "m-tensou.net",
     "moneylt.info",
@@ -5815,9 +5815,9 @@
     "makewrite.in",
     "morryv04.top",
     "mellidion.jp",
-    "moigioi.info"
+    "moigioi.info",
   ],
-  "d19": [
+  d19: [
     "datnentayhanoi.info",
     "doughnut-snack.live",
     "dadafaringostar.com",
@@ -5898,9 +5898,9 @@
     "derinceozelders.com",
     "demo3.grafikaart.cz",
     "d0rian2022.ddns.net",
-    "docusfilereview.com"
+    "docusfilereview.com",
   ],
-  "i8": [
+  i8: [
     "ibgd.org",
     "i-val.jp",
     "ioi3.com",
@@ -5919,9 +5919,9 @@
     "idesa.cl",
     "icart.lk",
     "inzt.net",
-    "ip032.es"
+    "ip032.es",
   ],
-  "k16": [
+  k16: [
     "kupigadget.store",
     "kalrobotics.tech",
     "kothagudemtv.com",
@@ -6008,9 +6008,9 @@
     "klubfiatstilo.pl",
     "kirdugunu.com.tr",
     "khatwacenter.com",
-    "knowledgeins.com"
+    "knowledgeins.com",
   ],
-  "w29": [
+  w29: [
     "www.john.edmunds.talktalk.net",
     "www.shanty-chor-neuengoers.de",
     "www.veinteproducciones.com.ar",
@@ -6023,9 +6023,9 @@
     "wolffram.homepage.t-online.de",
     "westhollywooddentaloffice.com",
     "www.socialmediaplanner.com.au",
-    "www.elitecommunications.co.uk"
+    "www.elitecommunications.co.uk",
   ],
-  "h19": [
+  h19: [
     "haru.mrprintoke.com",
     "h3ds4.maconslab.com",
     "host775544.ddns.net",
@@ -6077,9 +6077,9 @@
     "hikarifurniture.com",
     "houari1987.ddns.net",
     "hallmark-trades.com",
-    "hairchinadirect.com"
+    "hairchinadirect.com",
   ],
-  "r14": [
+  r14: [
     "ronaldnina.com",
     "roidlandev.com",
     "rostovafile.gq",
@@ -6183,9 +6183,9 @@
     "rejoincomp2.in",
     "rieseenchs.com",
     "rrrrload02.top",
-    "rosenblut4u.de"
+    "rosenblut4u.de",
   ],
-  "a12": [
+  a12: [
     "aotiahua.com",
     "appschip.com",
     "apidesign.ca",
@@ -6379,9 +6379,9 @@
     "avmaxvip.com",
     "anyes.com.cn",
     "aocinc.co.jp",
-    "accessdr.com"
+    "accessdr.com",
   ],
-  "430": [
+  430: [
     "4kqd3hmqgptupi3p.powersno.link",
     "4kqd3hmqgptupi3p.anypicked.red",
     "4kqd3hmqgptupi3p.carrygain.kim",
@@ -6419,9 +6419,9 @@
     "4kqd3hmqgptupi3p.storingus.gdn",
     "4kqd3hmqgptupi3p.nameuser.site",
     "4kqd3hmqgptupi3p.cutslifes.bid",
-    "4kqd3hmqgptupi3p.yoursdoor.lol"
+    "4kqd3hmqgptupi3p.yoursdoor.lol",
   ],
-  "f19": [
+  f19: [
     "fidelitas.heimat.eu",
     "floridapolyieee.com",
     "fixturesexpress.com",
@@ -6481,9 +6481,9 @@
     "fanaticaviation.com",
     "fachowe-remonty.com",
     "festivalbecause.org",
-    "foto-periodismo.com"
+    "foto-periodismo.com",
   ],
-  "y18": [
+  y18: [
     "yourpagesupdate.cf",
     "y4bxj.adozeuds.com",
     "yduocvinhphuc.info",
@@ -6497,9 +6497,9 @@
     "yildizmakina74.com",
     "yundun.web.fc2.com",
     "yourfitculture.com",
-    "yourpagesupdale.cf"
+    "yourpagesupdale.cf",
   ],
-  "l27": [
+  l27: [
     "lfdachijzuwx4bc4.m7f27y.bid",
     "lastdev1l.000webhostapp.com",
     "lfdachijzuwx4bc4.u9fcji.bid",
@@ -6534,9 +6534,9 @@
     "lespetitsloupsmaraichers.fr",
     "libreentreprisemagazine.com",
     "lfdachijzuwx4bc4.83zw1f.bid",
-    "lfdachijzuwx4bc4.zreknv.bid"
+    "lfdachijzuwx4bc4.zreknv.bid",
   ],
-  "f17": [
+  f17: [
     "fabulousstylz.net",
     "fuckyoua.ddns.net",
     "fleurscannabis.fr",
@@ -6628,9 +6628,9 @@
     "frojdafsverige.se",
     "farmerslounge.org",
     "factoryoutlets.pk",
-    "flatsonhaynes.com"
+    "flatsonhaynes.com",
   ],
-  "b15": [
+  b15: [
     "balakagroup.com",
     "blablabla.ac.ug",
     "babacktoold.com",
@@ -6780,9 +6780,9 @@
     "benten09.futbol",
     "bestinghana.com",
     "balletdancer.ru",
-    "busunda.pop3.ru"
+    "busunda.pop3.ru",
   ],
-  "t13": [
+  t13: [
     "terrydev.info",
     "tartgroup.org",
     "tonkatali.com",
@@ -6907,9 +6907,9 @@
     "telomedic.com",
     "terryhill.top",
     "tstamore.info",
-    "thewedding.be"
+    "thewedding.be",
   ],
-  "g12": [
+  g12: [
     "gsppower.xyz",
     "gangnamk.com",
     "goldonam.com",
@@ -7003,9 +7003,9 @@
     "graphicom.be",
     "goazteiz.com",
     "gerdosan.com",
-    "glluttbad.us"
+    "glluttbad.us",
   ],
-  "w13": [
+  w13: [
     "water1004.com",
     "www.beneli.be",
     "www.zscio.com",
@@ -7087,9 +7087,9 @@
     "whiphoney.com",
     "weenblast.net",
     "witakowski.eu",
-    "wardia.com.pe"
+    "wardia.com.pe",
   ],
-  "y10": [
+  y10: [
     "yy6262.com",
     "ypko-55.gq",
     "yucatan.ws",
@@ -7120,9 +7120,9 @@
     "yikson.com",
     "yclasdy.cf",
     "yuertao.pw",
-    "youlya.com"
+    "youlya.com",
   ],
-  "b16": [
+  b16: [
     "benthanhdorm.com",
     "basariburada.net",
     "bastacycling.com",
@@ -7265,9 +7265,9 @@
     "blog.dotomui.com",
     "bbjugueteria.com",
     "boomenergyng.com",
-    "blackuniverse.eu"
+    "blackuniverse.eu",
   ],
-  "s18": [
+  s18: [
     "sojasojastudio.com",
     "sino-spriulina.com",
     "slamclothing.co.in",
@@ -7427,9 +7427,9 @@
     "sos-secretariat.be",
     "stairnaheireann.ie",
     "summarysection.com",
-    "svvgyjweurxn.click"
+    "svvgyjweurxn.click",
   ],
-  "w17": [
+  w17: [
     "wagnersystemen.nl",
     "winddns.hopto.org",
     "www.irisgoetz.net",
@@ -7538,16 +7538,16 @@
     "www.ibcresigum.it",
     "wayuansudamai.com",
     "watchesheaven.com",
-    "wp01.devanshp.com"
+    "wp01.devanshp.com",
   ],
-  "l31": [
+  l31: [
     "l8b6a671.justinstalledpanel.com",
     "luckyhome.everybodyshopping.com",
     "laboratoriosanfrancisco1988.com",
     "lmntriximinds.000webhostapp.com",
-    "lucasjlopees2.000webhostapp.com"
+    "lucasjlopees2.000webhostapp.com",
   ],
-  "w12": [
+  w12: [
     "wanghejun.cn",
     "waltprime.su",
     "www.mywoc.ca",
@@ -7627,10 +7627,10 @@
     "welhoore.com",
     "www.1axb.com",
     "wb88indo.win",
-    "wwpdubai.com"
+    "wwpdubai.com",
   ],
-  "n7": ["newv.eu", "nosk.ir", "naum.cl"],
-  "y7": [
+  n7: ["newv.eu", "nosk.ir", "naum.cl"],
+  y7: [
     "yeyu.gq",
     "yown.us",
     "ypgg.kr",
@@ -7639,15 +7639,15 @@
     "ybs.ooo",
     "yodo.ro",
     "ylos.es",
-    "yogh.eu"
+    "yogh.eu",
   ],
-  "n27": [
+  n27: [
     "news.dichvugiarenhatban.com",
     "nehvc5m3fs57dyrz.onion.link",
     "newpredatorrabotatsuka.site",
-    "najlepsiebyvanie.webmerc.eu"
+    "najlepsiebyvanie.webmerc.eu",
   ],
-  "x17": [
+  x17: [
     "xelaouad.ddns.net",
     "xofguhypjgvxrm.pw",
     "xremx.web.fc2.com",
@@ -7661,9 +7661,9 @@
     "xlightcx.ddns.net",
     "xexex.duckdns.org",
     "xmode.duckdns.org",
-    "xploremotions.com"
+    "xploremotions.com",
   ],
-  "t16": [
+  t16: [
     "trvipifsalar.com",
     "testtaglabel.com",
     "teamlight-pro.ru",
@@ -7806,9 +7806,9 @@
     "tongdailyson.com",
     "thesnapprint.com",
     "transupgrade.com",
-    "theaothundao.com"
+    "theaothundao.com",
   ],
-  "x11": [
+  x11: [
     "xiangm8.com",
     "xenicoln.ru",
     "x-radio.net",
@@ -7821,9 +7821,9 @@
     "xixteam.xyz",
     "xinlou.info",
     "xetaimt.com",
-    "xpmsept.xyz"
+    "xpmsept.xyz",
   ],
-  "m16": [
+  m16: [
     "mineralhound.com",
     "milagrotarim.com",
     "media-shoten.com",
@@ -7968,9 +7968,9 @@
     "michaelachia.com",
     "mairetazmaop.com",
     "monta14.ddns.net",
-    "motiondev.com.br"
+    "motiondev.com.br",
   ],
-  "311": [
+  311: [
     "365jtoo.com",
     "31noble.com",
     "365aiwu.net",
@@ -7978,9 +7978,9 @@
     "336ddf.info",
     "31.41.47.37",
     "31.41.47.41",
-    "31.41.47.50"
+    "31.41.47.50",
   ],
-  "e16": [
+  e16: [
     "exerzitien.jetzt",
     "eagle.safonov.eu",
     "evra0o.myftp.biz",
@@ -8053,9 +8053,9 @@
     "emmabeaulieu.com",
     "emackgranite.com",
     "evextensions.com",
-    "eric-mandala.com"
+    "eric-mandala.com",
   ],
-  "y21": [
+  y21: [
     "ycvcjbhgkmsiyhdd.info",
     "yesemtechnologies.com",
     "yhinas.hanagumori.com",
@@ -8064,9 +8064,9 @@
     "yueltoursandtreks.com",
     "yasarlarinsaat.com.tr",
     "yonghonqfurniture.com",
-    "yourcurrencyrates.com"
+    "yourcurrencyrates.com",
   ],
-  "p10": [
+  p10: [
     "playdog.ro",
     "pmw-ch.com",
     "paoket.com",
@@ -8129,9 +8129,9 @@
     "piszej.xyz",
     "poddbs.com",
     "pm.hdac.se",
-    "putuas.com"
+    "putuas.com",
   ],
-  "f14": [
+  f14: [
     "f-sholding.com",
     "fabriguard.com",
     "fconnieao.club",
@@ -8235,9 +8235,9 @@
     "frijaflail.com",
     "fcshenghui.com",
     "feelimagen.com",
-    "fatihyagci.com"
+    "fatihyagci.com",
   ],
-  "e21": [
+  e21: [
     "espacobelmonte.com.br",
     "elfakirnoureddine.com",
     "ecuadorminingnews.com",
@@ -8274,9 +8274,9 @@
     "empowermentformen.com",
     "eusounoob.duckdns.org",
     "eletrotecsolucoes.com",
-    "energysolutioninc.xyz"
+    "energysolutioninc.xyz",
   ],
-  "t21": [
+  t21: [
     "todayalbanianews.info",
     "tradingworldchina.com",
     "theservantsoflove.com",
@@ -8350,9 +8350,9 @@
     "thicongvachnganht.com",
     "tasawwufinstitute.com",
     "teamwork2019.ddns.net",
-    "tecnologiaoficial.com"
+    "tecnologiaoficial.com",
   ],
-  "h17": [
+  h17: [
     "hydropneuengg.com",
     "handsomegroup.com",
     "hottubsreview.com",
@@ -8412,9 +8412,9 @@
     "handicraftmag.com",
     "himanyaagribs.com",
     "holdd.duckdns.org",
-    "huanqiucaijing.cn"
+    "huanqiucaijing.cn",
   ],
-  "y22": [
+  y22: [
     "yggithuq.utawebhost.at",
     "yagastudio.web.fc2.com",
     "ylnfkeznzg7o4xjf.onion",
@@ -8426,9 +8426,9 @@
     "yousefalharbi.ddns.net",
     "youtuberankchecker.net",
     "yosakokori.web.fc2.com",
-    "ytcijiooxdtlbevrh.info"
+    "ytcijiooxdtlbevrh.info",
   ],
-  "f24": [
+  f24: [
     "financialnewsupdates.com",
     "forum.animeallday.cba.pl",
     "fdsjfjdsfjdsdsjajjs.info",
@@ -8454,9 +8454,9 @@
     "forum.sandalcraft.cba.pl",
     "flagshipfordcarolina.com",
     "freewallpaperdesktop.com",
-    "fokumecoming.duckdns.org"
+    "fokumecoming.duckdns.org",
   ],
-  "g17": [
+  g17: [
     "gratissexchat.org",
     "g4057ewrgyhqy.com",
     "gsautotrading.com",
@@ -8528,9 +8528,9 @@
     "griffithphoto.com",
     "goldencars.com.ua",
     "giasutothanoi.com",
-    "goldindustry.tech"
+    "goldindustry.tech",
   ],
-  "p8": [
+  p8: [
     "pokos.su",
     "pepto.cf",
     "pinna.be",
@@ -8549,9 +8549,9 @@
     "ptvib.cf",
     "perca.ir",
     "pesci.ro",
-    "pkhz.xyz"
+    "pkhz.xyz",
   ],
-  "m15": [
+  m15: [
     "mr100.sytes.net",
     "marmorkontor.de",
     "mintaluxury.com",
@@ -8683,9 +8683,9 @@
     "markscheffel.de",
     "muzammelhaq.com",
     "moneljepara.net",
-    "makadicuosde.gq"
+    "makadicuosde.gq",
   ],
-  "t25": [
+  t25: [
     "trackdayphotography.co.uk",
     "therightaccountants.co.uk",
     "trainingenterprise.com.mx",
@@ -8708,9 +8708,9 @@
     "test.farstaforvaltning.se",
     "test.noltestudiozadar.com",
     "tenderheartfoundation.org",
-    "thehomebenefitprogram.com"
+    "thehomebenefitprogram.com",
   ],
-  "k19": [
+  k19: [
     "kheiriehsalehin.com",
     "kinhbacchemical.com",
     "kurumenishimura.com",
@@ -8761,9 +8761,9 @@
     "kavehconsultancy.co",
     "kolkhoz.web.fc2.com",
     "khacphucwifiyeu.com",
-    "kangihaiyetupag.com"
+    "kangihaiyetupag.com",
   ],
-  "b19": [
+  b19: [
     "bigdata-toronto.com",
     "braintrainersuk.com",
     "beepro-propolis.com",
@@ -8835,9 +8835,9 @@
     "bubuyayatoolslog.ir",
     "bestreception.co.uk",
     "basketballninja.com",
-    "bostonbruinsfan.net"
+    "bostonbruinsfan.net",
   ],
-  "a9": [
+  a9: [
     "aiacb.com",
     "agyria.gr",
     "adnoc.biz",
@@ -8905,9 +8905,9 @@
     "ajooma.nl",
     "avnbiz.in",
     "aabbcc.gq",
-    "authsw.ir"
+    "authsw.ir",
   ],
-  "k26": [
+  k26: [
     "kelolacode2849.duckdns.org",
     "kinagecesiorganizasyon.com",
     "kielak.szkola-rocka.com.pl",
@@ -8921,9 +8921,9 @@
     "kelurahanmojosurakarta.com",
     "karamlol.000webhostapp.com",
     "kurumsalinternetsitesi.com",
-    "krestovskiy.nik.siteme.org"
+    "krestovskiy.nik.siteme.org",
   ],
-  "h13": [
+  h13: [
     "hjkg456hfg.ru",
     "harjuvaara.eu",
     "hattchazy.com",
@@ -8993,9 +8993,9 @@
     "hedefosgb.com",
     "hwayou.com.tw",
     "hagebakken.no",
-    "herstedhus.dk"
+    "herstedhus.dk",
   ],
-  "m23": [
+  m23: [
     "medicareagentfinder.com",
     "mr-digitalmarketing.com",
     "municipalityofraqqa.com",
@@ -9037,17 +9037,17 @@
     "mmigliac.wp-goodies.com",
     "meguriau.koiwazurai.com",
     "madziaadam.republika.pl",
-    "mobile-free.metulwx.com"
+    "mobile-free.metulwx.com",
   ],
-  "q24": [
+  q24: [
     "qqqqtt.000webhostapp.com",
     "qualitycontrol-egypt.com",
     "qwqnvhnqepymjaduaxih.com",
     "quemviuissoegay.ddns.net",
     "qataracfridgerepaire.com",
-    "qdpnqtigneiwsovayrwu.com"
+    "qdpnqtigneiwsovayrwu.com",
   ],
-  "r24": [
+  r24: [
     "ropmibwbwfkevluntsfv.com",
     "russianfooddirectory.com",
     "roling.000webhostapp.com",
@@ -9069,9 +9069,9 @@
     "rcoixfyvbqxxkcjfvwhb.com",
     "rockporttroutfishing.com",
     "randpassconsulting.co.za",
-    "renaulrtcenturytrick.top"
+    "renaulrtcenturytrick.top",
   ],
-  "t20": [
+  t20: [
     "troyer11.duckdns.org",
     "tppsk.marcinczaja.pl",
     "twart.myfirewall.org",
@@ -9161,9 +9161,9 @@
     "travmateholidays.com",
     "thomasduncanwatt.com",
     "trademark-safety.com",
-    "toytyaclucomunit.top"
+    "toytyaclucomunit.top",
   ],
-  "u14": [
+  u14: [
     "unzenjerib.net",
     "urbanbasis.com",
     "ukrhockey.info",
@@ -9208,9 +9208,9 @@
     "ulmicsulfa.net",
     "uvurinestl.com",
     "uhjxayhpisr.pw",
-    "unstytovar.com"
+    "unstytovar.com",
   ],
-  "j20": [
+  j20: [
     "jogjaimpactforum.org",
     "joyannainsurance.com",
     "javaupdate.hopto.org",
@@ -9235,9 +9235,9 @@
     "junicodecorators.com",
     "jcpersonaliza.com.br",
     "j19nl66isabella.city",
-    "jsbeatricevx.company"
+    "jsbeatricevx.company",
   ],
-  "u27": [
+  u27: [
     "unocl45trpuoefft.dyo7c9.top",
     "unocl45trpuoefft.zjems2.bid",
     "unocl45trpuoefft.vfuvsv.bid",
@@ -9424,9 +9424,9 @@
     "unocl45trpuoefft.vmomcc.bid",
     "unocl45trpuoefft.givxuf.bid",
     "unocl45trpuoefft.18xhww.bid",
-    "unocl45trpuoefft.jsotn5.top"
+    "unocl45trpuoefft.jsotn5.top",
   ],
-  "i18": [
+  i18: [
     "istanbulklinik.com",
     "ipekmodakaftan.com",
     "injectorholder.com",
@@ -9488,9 +9488,9 @@
     "it.thisischeer.com",
     "insideinsights.net",
     "insatechsupply.com",
-    "ilovesport.kiev.ua"
+    "ilovesport.kiev.ua",
   ],
-  "w24": [
+  w24: [
     "wmwoldiferbgxixmhlrm.com",
     "www.impresadeambrosis.it",
     "waterhousecleaning.co.uk",
@@ -9540,9 +9540,9 @@
     "www.rettificabellani.com",
     "wdptgkbbuneigtquouke.com",
     "webserverboxservices.com",
-    "www.ruyssinck-demeyer.be"
+    "www.ruyssinck-demeyer.be",
   ],
-  "c24": [
+  c24: [
     "cocnguyetsanlincupsg.com",
     "chaussuresfootsoldes.com",
     "calvaryassemblyofgod.org",
@@ -9586,9 +9586,9 @@
     "citroenfollowthewind.com",
     "cyprushealthservices.com",
     "conquistaeseducao.online",
-    "customrestaurantapps.com"
+    "customrestaurantapps.com",
   ],
-  "q15": [
+  q15: [
     "qukuaixuexi.com",
     "qq546871516.com",
     "quentinberra.fr",
@@ -9596,9 +9596,9 @@
     "qazqaz.ddns.net",
     "q9676cassie.com",
     "quimitorres.com",
-    "qdvkdyvrtpjc.pw"
+    "qdvkdyvrtpjc.pw",
   ],
-  "527": [
+  527: [
     "52uo5k3t73ypjije.vkslju.bid",
     "52uo5k3t73ypjije.csdbnk.bid",
     "52uo5k3t73ypjije.n6kswi.top",
@@ -9927,9 +9927,9 @@
     "52uo5k3t73ypjije.f3z72p.bid",
     "52uo5k3t73ypjije.7asel7.top",
     "52uo5k3t73ypjije.kzwor6.top",
-    "52uo5k3t73ypjije.43l7lm.bid"
+    "52uo5k3t73ypjije.43l7lm.bid",
   ],
-  "p22": [
+  p22: [
     "pelerinageomrahajj.com",
     "phuket-olivia-yoga.com",
     "plessedinhomework.site",
@@ -9973,9 +9973,9 @@
     "paypasecureservice.com",
     "pony4.microsoftups.com",
     "pony1.microsoftups.com",
-    "panditpurshotamgaur.in"
+    "panditpurshotamgaur.in",
   ],
-  "d12": [
+  d12: [
     "dangdika.com",
     "digitour.top",
     "dante1101.pw",
@@ -10100,9 +10100,9 @@
     "dvprojekt.hr",
     "dqweewq.club",
     "destrong.xyz",
-    "drmarins.com"
+    "drmarins.com",
   ],
-  "b23": [
+  b23: [
     "belyaevo-room-nail.club",
     "bodegaslopezmoernas.com",
     "bestfolsomcarrepair.com",
@@ -10143,9 +10143,9 @@
     "batiment-metallique.net",
     "buseguzellikmerkezi.com",
     "bvxk.vatphamtamlinh.net",
-    "blog.winlifeinfosys.com"
+    "blog.winlifeinfosys.com",
   ],
-  "e19": [
+  e19: [
     "e910005o.beget.tech",
     "easytravelvault.com",
     "estroinstallers.com",
@@ -10191,9 +10191,9 @@
     "earthequipments.com",
     "estacaonetpe.com.br",
     "example.xerxies.net",
-    "extrautilidades.com"
+    "extrautilidades.com",
   ],
-  "s21": [
+  s21: [
     "sports.infozone4u.com",
     "s98405.gridserver.com",
     "shophousesunshine.com",
@@ -10287,9 +10287,9 @@
     "sptconstruction.co.za",
     "software-unlimited.at",
     "shop.singledivers.com",
-    "sealionnn.web.fc2.com"
+    "sealionnn.web.fc2.com",
   ],
-  "c14": [
+  c14: [
     "cryochoice.com",
     "chaliawala.com",
     "cgi.fleetia.eu",
@@ -10456,9 +10456,9 @@
     "crapevadim.net",
     "clubipadel.com",
     "cositos.com.mx",
-    "cabinets46.com"
+    "cabinets46.com",
   ],
-  "r12": [
+  r12: [
     "rakikuma.com",
     "rayofhope.ga",
     "russonder.ru",
@@ -10530,9 +10530,9 @@
     "rent-cars.sk",
     "redbeat.club",
     "ruggeveld.be",
-    "rgbserver.be"
+    "rgbserver.be",
   ],
-  "m20": [
+  m20: [
     "mundoahorronline.com",
     "marjanschonenberg.nl",
     "mithramdirectory.com",
@@ -10615,9 +10615,9 @@
     "momtomomdonation.com",
     "mof9eugaamlp1gqy.com",
     "maxleather.aaomg.com",
-    "mokhoafacebookvn.com"
+    "mokhoafacebookvn.com",
   ],
-  "d26": [
+  d26: [
     "dfdprivateme9082.gotdns.ch",
     "demo1.alismartdropship.com",
     "downloadhanumanchalisa.com",
@@ -10632,9 +10632,9 @@
     "deemc.homepage.t-online.de",
     "dichvuvesinhcongnghiep.top",
     "dominoduck2030.duckdns.org",
-    "das-wichtigste-im-leben.de"
+    "das-wichtigste-im-leben.de",
   ],
-  "h10": [
+  h10: [
     "hlgfco.xyz",
     "higoec.com",
     "hanmha.com",
@@ -10702,9 +10702,9 @@
     "hrbqcc.com",
     "hitcpm.com",
     "hojokk.com",
-    "hydromc.ru"
+    "hydromc.ru",
   ],
-  "i14": [
+  i14: [
     "imtechsols.com",
     "iarelative.com",
     "idnssdmain.net",
@@ -10796,9 +10796,9 @@
     "ipiasarnano.it",
     "inhaustyle.com",
     "ipoteka-24.net",
-    "ifsaiumumi.com"
+    "ifsaiumumi.com",
   ],
-  "j13": [
+  j13: [
     "jpcharest.com",
     "jordencom.com",
     "joskaejw.club",
@@ -10852,9 +10852,9 @@
     "juleswham.com",
     "jatmonaco.com",
     "jack4jobs.com",
-    "jobmalawi.com"
+    "jobmalawi.com",
   ],
-  "w26": [
+  w26: [
     "www.realistikkampanya.info",
     "www.rajashekharkubasad.com",
     "wulansbd.000webhostapp.com",
@@ -10889,9 +10889,9 @@
     "www.poddarprofessional.com",
     "www.comunedipratiglione.it",
     "www.gabinator.republika.pl",
-    "wildeernessphotography.com"
+    "wildeernessphotography.com",
   ],
-  "i24": [
+  i24: [
     "instagramoutnumber.co.kr",
     "infozine.aeg-buchholz.de",
     "imarketsforextrading.com",
@@ -10907,10 +10907,10 @@
     "inter-investmentbank.com",
     "interraniternational.com",
     "ilajqsjclnrajhxdeumm.com",
-    "investasiafoundation.com"
+    "investasiafoundation.com",
   ],
-  "331": ["3qbyaoohkcqkzrz6.livecamshow.ch", "3qbyaoohkcqkzrz6.torprovider.li"],
-  "a18": [
+  331: ["3qbyaoohkcqkzrz6.livecamshow.ch", "3qbyaoohkcqkzrz6.torprovider.li"],
+  a18: [
     "antouncivil.com.au",
     "ayurvedsolution.in",
     "avecmoderation.org",
@@ -11057,9 +11057,9 @@
     "advempresarial.com",
     "alien.bounceme.net",
     "activartcompany.it",
-    "anewyoufitness.com"
+    "anewyoufitness.com",
   ],
-  "u15": [
+  u15: [
     "universegame.tk",
     "utorrentpro.com",
     "ustbuldozer.com",
@@ -11086,9 +11086,9 @@
     "underme.website",
     "unique-visa.com",
     "urzedniczatv.pl",
-    "upscionline.com"
+    "upscionline.com",
   ],
-  "m9": [
+  m9: [
     "modbu.xyz",
     "mclfg.com",
     "moydom.by",
@@ -11137,9 +11137,9 @@
     "madde.org",
     "mh500.com",
     "magic4.ml",
-    "mateos.pl"
+    "mateos.pl",
   ],
-  "m8": [
+  m8: [
     "mista.eu",
     "mfapi.cn",
     "mgba.org",
@@ -11168,9 +11168,9 @@
     "mospi.ru",
     "mamax.tk",
     "man70.ru",
-    "mhni.xyz"
+    "mhni.xyz",
   ],
-  "f25": [
+  f25: [
     "fa1con-44457.portmap.host",
     "ferienwohnung-schitter.at",
     "falcon-56657.portmap.host",
@@ -11180,9 +11180,9 @@
     "fletchertours.goodwow.net",
     "f5xraa2y2ybtrefz.onion.to",
     "fundaciontehuelche.com.ar",
-    "fashion.bozkurtfurkan.com"
+    "fashion.bozkurtfurkan.com",
   ],
-  "u11": [
+  u11: [
     "unicdoc.com",
     "uslbair.com",
     "uploader.sx",
@@ -11205,9 +11205,9 @@
     "umrah2u.com",
     "undersun.jp",
     "uvitacr.com",
-    "uae4all.com"
+    "uae4all.com",
   ],
-  "c12": [
+  c12: [
     "ceifruit.com",
     "camberfam.de",
     "canyinzx.com",
@@ -11320,9 +11320,9 @@
     "cbactive.com",
     "cubaworts.gq",
     "contiades.gr",
-    "cloudbws.com"
+    "cloudbws.com",
   ],
-  "t10": [
+  t10: [
     "topura.com",
     "tjo-hs.com",
     "tsq-hk.com",
@@ -11381,9 +11381,9 @@
     "taker2.xyz",
     "topshop.ro",
     "teksint.ru",
-    "technix.ca"
+    "technix.ca",
   ],
-  "r15": [
+  r15: [
     "repitoperano.pw",
     "rosiautosuli.hu",
     "rshack.ddns.net",
@@ -11454,9 +11454,9 @@
     "reichertgmbh.de",
     "roof-online.com",
     "randomsage.work",
-    "rolexclinic.com"
+    "rolexclinic.com",
   ],
-  "w11": [
+  w11: [
     "wompros.com",
     "woosell.com",
     "woaldi2.com",
@@ -11508,13 +11508,13 @@
     "wirelord.us",
     "webcyte.org",
     "webpify.com",
-    "werfcdxv.ru"
+    "werfcdxv.ru",
   ],
-  "g35": [
+  g35: [
     "gifts.santa.merrychristmasgroup.org",
-    "goimail002.signin-appleid-apple.com"
+    "goimail002.signin-appleid-apple.com",
   ],
-  "a13": [
+  a13: [
     "avo4.ddns.net",
     "asianint.info",
     "afriplugz.com",
@@ -11689,9 +11689,9 @@
     "arjanlame.com",
     "aliminksrl.ml",
     "adaliyapi.com",
-    "arefhasan.com"
+    "arefhasan.com",
   ],
-  "v9": [
+  v9: [
     "valpit.ru",
     "vudie.com",
     "vaaren.dk",
@@ -11724,9 +11724,9 @@
     "vsnege.ru",
     "volino.ru",
     "vivi8.com",
-    "vputin.pk"
+    "vputin.pk",
   ],
-  "t11": [
+  t11: [
     "topstock.su",
     "tahatec.com",
     "twup.com.br",
@@ -11819,9 +11819,9 @@
     "tonitrus.pw",
     "toto-win.ru",
     "tresdaw.xyz",
-    "teknosi.com"
+    "teknosi.com",
   ],
-  "l22": [
+  l22: [
     "laveronicamagazine.com",
     "laexplosionmusical.com",
     "librairie.i-kiosque.fr",
@@ -11856,9 +11856,9 @@
     "libertyaviationusa.com",
     "linux.esfelgueiras.org",
     "listanegra.xxxxxxxx.jp",
-    "lamuertedenecessito.ga"
+    "lamuertedenecessito.ga",
   ],
-  "c27": [
+  c27: [
     "cerberhhyed5frqa.we34re.top",
     "cerberhhyed5frqa.zgf48j.win",
     "canopyofgloryministries.org",
@@ -11924,9 +11924,9 @@
     "cerberhhyed5frqa.azlto5.win",
     "cerberhhyed5frqa.vmfu48.win",
     "cerberhhyed5frqa.cmr95i.win",
-    "cortinhouse-milcortinas.com"
+    "cortinhouse-milcortinas.com",
   ],
-  "a16": [
+  a16: [
     "askfor.kl.com.ua",
     "aniventure.co.uk",
     "amessofblues.com",
@@ -12080,9 +12080,9 @@
     "akprokonaija.com",
     "avtotest-taxi.ru",
     "almuqarrabin.com",
-    "armosecurity.com"
+    "armosecurity.com",
   ],
-  "427": [
+  427: [
     "405459071.student.yru.ac.th",
     "4kqd3hmqgptupi3p.249isv.bid",
     "4kqd3hmqgptupi3p.as5su5.top",
@@ -12157,9 +12157,9 @@
     "4kqd3hmqgptupi3p.nxmu0x.bid",
     "4kqd3hmqgptupi3p.jal9lk.bid",
     "4kqd3hmqgptupi3p.lobulz.bid",
-    "4kqd3hmqgptupi3p.dkrie7.top"
+    "4kqd3hmqgptupi3p.dkrie7.top",
   ],
-  "e9": [
+  e9: [
     "ebgboz.nl",
     "enayh.com",
     "erhbdf.gq",
@@ -12202,9 +12202,9 @@
     "edubit.eu",
     "eroger.be",
     "ef.enu.kz",
-    "eiskgd.ru"
+    "eiskgd.ru",
   ],
-  "i22": [
+  i22: [
     "indian-escorts-rak.com",
     "inductotherrnindia.com",
     "itachituff.duckdns.org",
@@ -12226,10 +12226,10 @@
     "iloveassholes.ddns.net",
     "idouheikin.web.fc2.com",
     "informativohainero.com",
-    "infosisconsultancy.com"
+    "infosisconsultancy.com",
   ],
-  "z26": ["zsn5qtrgfpu4tmpg.onion.cab"],
-  "i9": [
+  z26: ["zsn5qtrgfpu4tmpg.onion.cab"],
+  i9: [
     "ircfm.net",
     "irenta.lt",
     "ipfct.com",
@@ -12273,9 +12273,9 @@
     "imedu.org",
     "i-mdv.com",
     "icefon.eu",
-    "icpnt.org"
+    "icpnt.org",
   ],
-  "l14": [
+  l14: [
     "lomohealth.com",
     "loostershop.ir",
     "lutz-blades.pl",
@@ -12363,9 +12363,9 @@
     "lacosturera.es",
     "leveeambon.net",
     "lovemydress.pl",
-    "leeplastic.com"
+    "leeplastic.com",
   ],
-  "i10": [
+  i10: [
     "isolog.org",
     "ipeari.com",
     "igatha.com",
@@ -12418,9 +12418,9 @@
     "imaxxe.com",
     "isofip.com",
     "inesucs.mx",
-    "iqminds.me"
+    "iqminds.me",
   ],
-  "a11": [
+  a11: [
     "acrilion.ru",
     "ayurjoy.com",
     "alfarius.ru",
@@ -12592,9 +12592,9 @@
     "afla2on.com",
     "actyouth.eu",
     "atstory.com",
-    "angel.ac.nz"
+    "angel.ac.nz",
   ],
-  "d13": [
+  d13: [
     "ddas.ddns.net",
     "dominusrex.fr",
     "doubscoton.fr",
@@ -12725,9 +12725,9 @@
     "djisyam38.com",
     "downloaddd.cf",
     "deveinsun.com",
-    "daseolchi.com"
+    "daseolchi.com",
   ],
-  "k18": [
+  k18: [
     "karanrajesh.london",
     "kelas1.inasweb.com",
     "kerjadigital.my.id",
@@ -12787,9 +12787,9 @@
     "kerosdesign1.space",
     "krzewy-przemysl.pl",
     "kamerreklam.com.tr",
-    "kencadaacademy.com"
+    "kencadaacademy.com",
   ],
-  "i25": [
+  i25: [
     "iwanttodrawapicforyou.com",
     "iexplorer-vps.duckdns.org",
     "interiordesignservices.us",
@@ -12803,9 +12803,9 @@
     "indianescortsabudhabi.com",
     "infinitechsolutionsph.com",
     "i3ezlvkoi7fwyood.onion.to",
-    "inaothoitrangvinhtuoi.com"
+    "inaothoitrangvinhtuoi.com",
   ],
-  "u16": [
+  u16: [
     "unecentro.com.br",
     "uzmanfren.com.tr",
     "utransilvania.ro",
@@ -12836,9 +12836,9 @@
     "unitedshopbd.com",
     "ultraspeedtv.com",
     "umroh2zamzam.com",
-    "unknown-soft.com"
+    "unknown-soft.com",
   ],
-  "k11": [
+  k11: [
     "kirikata.tk",
     "kkthx.ac.ug",
     "kordon74.ru",
@@ -12914,9 +12914,9 @@
     "klyaksa.xyz",
     "korturl.com",
     "klinklan.us",
-    "kwebfun.com"
+    "kwebfun.com",
   ],
-  "m22": [
+  m22: [
     "mostafasaqw12.ddns.net",
     "missinglynxsystems.com",
     "machustonecadunfe.info",
@@ -12970,9 +12970,9 @@
     "mygreenlivingideas.com",
     "maternalserenity.co.uk",
     "mainguardmatrimony.com",
-    "medidastributaria.link"
+    "medidastributaria.link",
   ],
-  "z13": [
+  z13: [
     "zhouse.com.ua",
     "zestevents.co",
     "zuwoptest.com",
@@ -12995,24 +12995,24 @@
     "zvfeinaya.com",
     "zarpac-com.cf",
     "zhaofanju.com",
-    "zhangyiyi.xyz"
+    "zhangyiyi.xyz",
   ],
-  "s35": [
+  s35: [
     "securityinbox6876.000webhostapp.com",
     "ssgcvb3435fsdgdfg5656sdfgsdfsdf.xyz",
     "securityterms5231.000webhostapp.com",
     "securityteam46554.000webhostapp.com",
     "securityterm68451.000webhostapp.com",
     "securityinfonuman.000webhostapp.com",
-    "sibedriamasterkkmoderatordstezya.ru"
+    "sibedriamasterkkmoderatordstezya.ru",
   ],
-  "225": [
+  225: [
     "24fkxhnr3cdtvwmy.onion.to",
     "24fkxhnr3cdtvwmy.onion.nu",
     "250land.000webhostapp.com",
-    "25z5g623wpqpdwis.onion.to"
+    "25z5g623wpqpdwis.onion.to",
   ],
-  "s25": [
+  s25: [
     "skrentertainmentgroup.com",
     "santabarbaratapizados.com",
     "s435378127.online-home.ca",
@@ -13048,9 +13048,9 @@
     "shaolintempletanzania.com",
     "steamingaudio.myzen.co.uk",
     "senliheavenly.web.fc2.com",
-    "security-apple-manage.com"
+    "security-apple-manage.com",
   ],
-  "u19": [
+  u19: [
     "unimet.tmhandel.com",
     "uxwavkmttywsuynt.pw",
     "updateoffice360.top",
@@ -13070,9 +13070,9 @@
     "uninortediverso.com",
     "uehdyte.duckdns.org",
     "utahdonorsforum.com",
-    "uspeshnybusiness.ru"
+    "uspeshnybusiness.ru",
   ],
-  "b21": [
+  b21: [
     "brookstonemanuals.com",
     "bptpm.sragenkab.go.id",
     "buildingsandpools.com",
@@ -13127,9 +13127,9 @@
     "bajasae.grupos.usb.ve",
     "boundless-beauty.news",
     "brandingforbuyout.com",
-    "bimehiran-takmili.com"
+    "bimehiran-takmili.com",
   ],
-  "g18": [
+  g18: [
     "gfwncoyhbdvggns.pw",
     "gotanda-clinic.xyz",
     "gogo.om-nom-nom.li",
@@ -13200,9 +13200,9 @@
     "goldensotka.com.ua",
     "gbszciag8tgf2m.com",
     "getkonstrukted.com",
-    "ga-partnership.com"
+    "ga-partnership.com",
   ],
-  "113": [
+  113: [
     "101satcom.com",
     "164.132.40.47",
     "195.19.192.99",
@@ -13244,9 +13244,9 @@
     "195.154.69.90",
     "192yuanma.com",
     "108studija.lt",
-    "111.86.142.67"
+    "111.86.142.67",
   ],
-  "a17": [
+  a17: [
     "amirkabirshop.com",
     "abccomputer.co.tz",
     "ashdodonline.info",
@@ -13393,9 +13393,9 @@
     "atostrategies.com",
     "arianshopping.com",
     "armanchemical.com",
-    "abkascomarine.com"
+    "abkascomarine.com",
   ],
-  "g16": [
+  g16: [
     "gensis-advpg.com",
     "gothamserver.net",
     "gofy-tuinbouw.nl",
@@ -13471,9 +13471,9 @@
     "gregvictor.co.uk",
     "greenspiegel.com",
     "goodnesspets.com",
-    "giatlalaocai.com"
+    "giatlalaocai.com",
   ],
-  "412": [
+  412: [
     "4allwoman.ru",
     "4thave.co.uk",
     "46.148.20.46",
@@ -13483,9 +13483,9 @@
     "46.38.52.225",
     "46.17.44.153",
     "46709394.com",
-    "4.top4top.io"
+    "4.top4top.io",
   ],
-  "s23": [
+  s23: [
     "switzerland-clinics.com",
     "staywickend101.ddns.net",
     "shinryu1226.web.fc2.com",
@@ -13542,9 +13542,9 @@
     "sicurezza-postepay.info",
     "stage.diabetes.bayer.in",
     "sandy-bedfordshire.info",
-    "saintsandsinnersbar.com"
+    "saintsandsinnersbar.com",
   ],
-  "u17": [
+  u17: [
     "utdetofansene.com",
     "unicorngloves.com",
     "uniquepierce.tech",
@@ -13566,9 +13566,9 @@
     "ubisortdasert.top",
     "ukrasnogomosta.ru",
     "utopia-suites.com",
-    "unboxingtoycon.mx"
+    "unboxingtoycon.mx",
   ],
-  "n19": [
+  n19: [
     "nawaf5011.myftp.biz",
     "nn.5ctelematics.com",
     "nonton.myvidio.site",
@@ -13617,9 +13617,9 @@
     "nekkeveldecoplus.nl",
     "newlook23.sytes.net",
     "nemesis423.ddns.net",
-    "newgrowth.marketing"
+    "newgrowth.marketing",
   ],
-  "h26": [
+  h26: [
     "hippbeta.000webhostapp.com",
     "hedemorabygdensridklubb.se",
     "hackingloading157.ddns.net",
@@ -13634,9 +13634,9 @@
     "howmuchisabookofstamps.com",
     "h62-213-20-50.ip.syzran.ru",
     "home.webadmin.syscoinc.org",
-    "hak-wirtschaftsakademie.at"
+    "hak-wirtschaftsakademie.at",
   ],
-  "g13": [
+  g13: [
     "gtf0ymewg.xyz",
     "gadgetscs.com",
     "globalins.biz",
@@ -13738,9 +13738,9 @@
     "gbsmakina.com",
     "ghadtanter.ml",
     "gudangbos.net",
-    "gracebytry.tk"
+    "gracebytry.tk",
   ],
-  "g15": [
+  g15: [
     "gelikatakoy.com",
     "gobabynames.com",
     "gindnetsoft.com",
@@ -13825,9 +13825,9 @@
     "geslexsport.com",
     "goldlandsms.com",
     "giangocngan.com",
-    "geb-saarland.de"
+    "geb-saarland.de",
   ],
-  "p18": [
+  p18: [
     "promgazenergo34.ru",
     "pangpangz.ddns.net",
     "prosperuosyear.com",
@@ -13910,9 +13910,9 @@
     "pmlingua.strefa.pl",
     "pma.fin.ex2life.cf",
     "praxis-blechert.de",
-    "pawarsoftwares.com"
+    "pawarsoftwares.com",
   ],
-  "w23": [
+  w23: [
     "www.erpbizsolutions.com",
     "www.vedasrestaurant.com",
     "web57603.majorcore.host",
@@ -13966,9 +13966,9 @@
     "www.kottalgenealogy.com",
     "www.jebbenterprises.com",
     "www.sigmahydraulics.com",
-    "www.alchemistdigital.in"
+    "www.alchemistdigital.in",
   ],
-  "b9": [
+  b9: [
     "bsgrus.ru",
     "borcom.de",
     "beamit.be",
@@ -14022,9 +14022,9 @@
     "bdfxb.com",
     "birim.org",
     "bevtec.ch",
-    "begadi.ga"
+    "begadi.ga",
   ],
-  "k8": [
+  k8: [
     "kvtek.in",
     "konan.nl",
     "khod.xyz",
@@ -14042,9 +14042,9 @@
     "kluns.nu",
     "kv6j.net",
     "kjxd.xyz",
-    "kp0t.com"
+    "kp0t.com",
   ],
-  "c10": [
+  c10: [
     "cpmeow.com",
     "car6c.site",
     "coddor.xyz",
@@ -14129,9 +14129,9 @@
     "cewygdy.gq",
     "caparol.ge",
     "cc8848.xyz",
-    "cawada.com"
+    "cawada.com",
   ],
-  "e13": [
+  e13: [
     "emilychoy.com",
     "en.fitgrp.com",
     "emko-pharm.ru",
@@ -14218,17 +14218,17 @@
     "euriskosrl.it",
     "ehaaranen.com",
     "emprende21.es",
-    "economika.net"
+    "economika.net",
   ],
-  "144": [
+  144: [
     "10022020uest71-service100201dom2510022020.ru",
     "10022020test41-service100201pro2510022020.ru",
     "10022020test461-service1002012510022020.host",
     "10022020yes1t3481-service1002012510022020.ru",
     "10022020utest1341-service1002012510022020.ru",
-    "10022020yest31-service100201rus2510022020.ru"
+    "10022020yest31-service100201rus2510022020.ru",
   ],
-  "d17": [
+  d17: [
     "dev.orolatina.com",
     "drmulchandani.com",
     "delicedurucher.fr",
@@ -14312,9 +14312,9 @@
     "dom-pchely.com.ua",
     "deekartmobile.com",
     "defenseisrael.com",
-    "divinehost360.com"
+    "divinehost360.com",
   ],
-  "s16": [
+  s16: [
     "sasguildford.com",
     "studenhances.com",
     "skynetgroupp.com",
@@ -14505,9 +14505,9 @@
     "surveycanada.xyz",
     "sdstat95xz.world",
     "sdwempsovemtr.yt",
-    "saberprotech.com"
+    "saberprotech.com",
   ],
-  "v20": [
+  v20: [
     "vsochi-park-hotel.ru",
     "victimsawareness.com",
     "versacecommunity.com",
@@ -14542,9 +14542,9 @@
     "vrankendiamant.co.kr",
     "ventoclima.hopto.org",
     "veatripsandtours.com",
-    "valleyonlineshop.com"
+    "valleyonlineshop.com",
   ],
-  "511": [
+  511: [
     "5umaga.site",
     "5.9.253.173",
     "5.187.0.137",
@@ -14555,9 +14555,9 @@
     "5.187.5.171",
     "51steel.org",
     "5.188.63.30",
-    "5.34.183.40"
+    "5.34.183.40",
   ],
-  "d20": [
+  d20: [
     "drnasre2019.ddns.net",
     "download.apf.asso.fr",
     "demo.liuzhixiong.top",
@@ -14641,16 +14641,16 @@
     "digitalhearinguk.com",
     "drewnianaskrzynka.pl",
     "dentalinnovation.net",
-    "dustinhansenbook.com"
+    "dustinhansenbook.com",
   ],
   "015": [
     "0underground.pw",
     "0791longyao.com",
     "0300ssm0300.xyz",
     "0xbitconnect.co",
-    "0qixri.thule.su"
+    "0qixri.thule.su",
   ],
-  "p27": [
+  p27: [
     "pmenboeqhyrpvomq.a4coac.top",
     "pmenboeqhyrpvomq.x1kofw.top",
     "p27dokhpz2n7nvgr.1h23cc.top",
@@ -14889,9 +14889,9 @@
     "pe2cku7pebkpgeko.p93w1x.bid",
     "pmenboeqhyrpvomq.e6in0v.top",
     "p27dokhpz2n7nvgr.12vpkc.top",
-    "pmenboeqhyrpvomq.5b1s82.top"
+    "pmenboeqhyrpvomq.5b1s82.top",
   ],
-  "t22": [
+  t22: [
     "thevisualexperience.co",
     "theexcelconsultant.com",
     "test.iyibakkendine.com",
@@ -14943,15 +14943,15 @@
     "takemaruko.web.fc2.com",
     "trueaussielocal.com.au",
     "truhlarstvi-bezdeka.cz",
-    "themrkaibdaki.ddns.net"
+    "themrkaibdaki.ddns.net",
   ],
-  "s36": [
+  s36: [
     "supporty7.regis-fanpageee-confirm.ga",
     "securityterms13131.000webhostapp.com",
     "securityjamteam113.000webhostapp.com",
-    "securityterms22781.000webhostapp.com"
+    "securityterms22781.000webhostapp.com",
   ],
-  "m18": [
+  m18: [
     "magicscreenapp.fun",
     "malaysianscoop.com",
     "maisonvoltaire.org",
@@ -15081,9 +15081,9 @@
     "muscleinjuries.com",
     "mujtabatrading.com",
     "medhavi.tpf.org.in",
-    "manglamorganic.com"
+    "manglamorganic.com",
   ],
-  "y13": [
+  y13: [
     "yonderapps.tk",
     "yinstseck.com",
     "yiyangart.com",
@@ -15116,9 +15116,9 @@
     "yrhealth.life",
     "yuinosato.org",
     "yulitours.com",
-    "yojolife.site"
+    "yojolife.site",
   ],
-  "s24": [
+  s24: [
     "style.tomatoesmarket.com",
     "samod3amod54321.ddns.net",
     "sosbrasilsoberano.org.br",
@@ -15170,9 +15170,9 @@
     "serveres-gmail.myftp.biz",
     "shalomindusresidency.com",
     "swanseabaptistchurch.org",
-    "snowremoval-services.com"
+    "snowremoval-services.com",
   ],
-  "u18": [
+  u18: [
     "ueathlorturetr.xyz",
     "umbrocels345.space",
     "ukoooosmeheraa.top",
@@ -15195,9 +15195,9 @@
     "unlockbulgaria.com",
     "unitedmedsshop.com",
     "uzmanpantograf.com",
-    "unitconsulting.org"
+    "unitconsulting.org",
   ],
-  "h11": [
+  h11: [
     "himdeal.xyz",
     "habhunt.com",
     "huhuhue.net",
@@ -15258,9 +15258,9 @@
     "hupsoft.com",
     "hg-bikes.de",
     "hoangan.top",
-    "humanoit.hu"
+    "humanoit.hu",
   ],
-  "e12": [
+  e12: [
     "erpahome.com",
     "emmy.website",
     "eb3jt.ure.es",
@@ -15346,9 +15346,9 @@
     "easyvisa.com",
     "eacglobal.us",
     "engraced.org",
-    "eesss.online"
+    "eesss.online",
   ],
-  "x14": [
+  x14: [
     "xecogioisg.com",
     "x42gb17pua.xyz",
     "xvobvgcssb.com",
@@ -15364,9 +15364,9 @@
     "xploramail.com",
     "xcxc.zapto.org",
     "xoccolearp.com",
-    "xvchcbeqxkd.pw"
+    "xvchcbeqxkd.pw",
   ],
-  "o21": [
+  o21: [
     "optimasaludmental.com",
     "outofhandcreations.ca",
     "optimumenergytech.com",
@@ -15387,9 +15387,9 @@
     "olharproducoes.com.br",
     "ormanstressrelief.com",
     "osakasushi-herblay.fr",
-    "onlineboutiquellc.com"
+    "onlineboutiquellc.com",
   ],
-  "t9": [
+  t9: [
     "tuurbo.be",
     "tcjsl.com",
     "taur.info",
@@ -15447,9 +15447,9 @@
     "tevel7.pw",
     "tdox.host",
     "tavim.org",
-    "tgmsc.com"
+    "tgmsc.com",
   ],
-  "z14": [
+  z14: [
     "zist-konkur.ir",
     "zouttileck.com",
     "zelinopats.com",
@@ -15475,9 +15475,9 @@
     "zadaarmall.com",
     "zsqwwxcgtyu.ml",
     "zhfhywzsmf.com",
-    "zomcnxbilo.com"
+    "zomcnxbilo.com",
   ],
-  "b13": [
+  b13: [
     "birkinbag.net",
     "bestinvest.si",
     "blog.tuend.tk",
@@ -15610,9 +15610,9 @@
     "begoventa.top",
     "buttonart.xyz",
     "behfarmer.com",
-    "bauerlofts.ca"
+    "bauerlofts.ca",
   ],
-  "s13": [
+  s13: [
     "senseint.info",
     "staycalm.club",
     "simple-it.org",
@@ -15837,9 +15837,9 @@
     "solaceday.xyz",
     "svcupdate.com",
     "shopsshops.de",
-    "sochindia.org"
+    "sochindia.org",
   ],
-  "h16": [
+  h16: [
     "hostingjoomla.be",
     "hotelxaguate.com",
     "hirame48blog.biz",
@@ -15912,9 +15912,9 @@
     "hediyenkolay.com",
     "houcme.myftp.org",
     "holliderast.info",
-    "himcocompany.com"
+    "himcocompany.com",
   ],
-  "s20": [
+  s20: [
     "shreebankebihari.com",
     "sinarlogamteknik.com",
     "sharktankdigestq.com",
@@ -16052,9 +16052,9 @@
     "smartroutefinder.com",
     "shofukai.web.fc2.com",
     "skillscollege.com.au",
-    "snapdealrightnow.com"
+    "snapdealrightnow.com",
   ],
-  "s30": [
+  s30: [
     "stgg5jv6mqiibmax.toranimals.li",
     "sunshinemarinabay-nhatrang.net",
     "studiodentisticoraogenovese.it",
@@ -16069,9 +16069,9 @@
     "shop.kvgems-preciousstones.com",
     "secured.quantiunnsolutions.com",
     "seethalekshmiconstructions.com",
-    "schoolshare.hicomputing.com.na"
+    "schoolshare.hicomputing.com.na",
   ],
-  "m17": [
+  m17: [
     "mc-cosmo.ddns.net",
     "mtblanc-let.co.uk",
     "msgamers.ddns.net",
@@ -16202,9 +16202,9 @@
     "morconsultoria.cl",
     "mn-nachrichten.de",
     "members.chello.at",
-    "mojtabasedighi.tk"
+    "mojtabasedighi.tk",
   ],
-  "o14": [
+  o14: [
     "onlinechase.ga",
     "officeboss.xyz",
     "ophopparee.com",
@@ -16260,9 +16260,9 @@
     "oficionado.com",
     "osaleeloom.com",
     "onlygoodam.com",
-    "ou07.myftp.biz"
+    "ou07.myftp.biz",
   ],
-  "w20": [
+  w20: [
     "wilsonservicesni.com",
     "www.zgcslam.apnet.pl",
     "www.promumedical.com",
@@ -16345,9 +16345,9 @@
     "wizcraftagencies.com",
     "www.vanhoenacker.net",
     "www.carrelliusati.it",
-    "www.marina188.com.br"
+    "www.marina188.com.br",
   ],
-  "i23": [
+  i23: [
     "iceboxer.marcussoil.com",
     "information-stab.online",
     "imperialmotorcycles.com",
@@ -16366,9 +16366,9 @@
     "irenejatibojonegoro.com",
     "iglesiaciudaddedios.com",
     "immobilienbegleitung.de",
-    "institut-ronflement.net"
+    "institut-ronflement.net",
   ],
-  "j12": [
+  j12: [
     "jgtour.wz.cz",
     "jiraiya.info",
     "jupiter74.ru",
@@ -16426,9 +16426,9 @@
     "jthlzphth.ga",
     "jplymell.com",
     "jauregia.net",
-    "jntytech.com"
+    "jntytech.com",
   ],
-  "c9": [
+  c9: [
     "caooo.xyz",
     "canals.cn",
     "crl.co.th",
@@ -16464,9 +16464,9 @@
     "ckrew.net",
     "cneedu.cn",
     "czabk.com",
-    "checkz.tk"
+    "checkz.tk",
   ],
-  "h15": [
+  h15: [
     "hangtieudung.cf",
     "healthypals.xyz",
     "help-section.gq",
@@ -16539,9 +16539,9 @@
     "huanlitools.com",
     "hkf98ua36ou.com",
     "hollystamps.com",
-    "haniamarket.com"
+    "haniamarket.com",
   ],
-  "z17": [
+  z17: [
     "zefproduction.com",
     "zentune.sytes.net",
     "zarabotat.yomu.ru",
@@ -16565,9 +16565,9 @@
     "zestonapparel.com",
     "zeesportvissen.be",
     "zahrahenna.com.sg",
-    "zakiehtejarat.com"
+    "zakiehtejarat.com",
   ],
-  "v18": [
+  v18: [
     "vanoostenadvies.nl",
     "vipcanadatours.com",
     "viewi.publicvm.com",
@@ -16609,16 +16609,16 @@
     "vashuyin.hopto.org",
     "volvoselektshop.no",
     "vogelmi.linkpc.net",
-    "veritasresults.com"
+    "veritasresults.com",
   ],
-  "z22": [
+  z22: [
     "zindagicreation.online",
     "zhongshixingchuang.com",
     "zinoautoindustries.com",
     "zorgboerderijtzicht.nl",
-    "zsnbystre.republika.pl"
+    "zsnbystre.republika.pl",
   ],
-  "r17": [
+  r17: [
     "robinpriest.co.uk",
     "rat24695.ddns.net",
     "raovathouston.net",
@@ -16686,9 +16686,9 @@
     "raatphailihai.com",
     "rocketspaceks.com",
     "robustclarity.com",
-    "ritskovanvliet.nl"
+    "ritskovanvliet.nl",
   ],
-  "x27": [
+  x27: [
     "xrhwryizf5mui7a5.g72xh8.top",
     "xpcx6erilkjced3j.1n5mod.top",
     "xpcx6erilkjced3j.16umxg.top",
@@ -16715,9 +16715,9 @@
     "xpcx6erilkjced3j.1blery.top",
     "xrhwryizf5mui7a5.j4cser.bid",
     "xrhwryizf5mui7a5.uw9x7z.bid",
-    "xrhwryizf5mui7a5.h44l3d.bid"
+    "xrhwryizf5mui7a5.h44l3d.bid",
   ],
-  "r16": [
+  r16: [
     "rms5646.ddns.net",
     "ristopietila.xyz",
     "random-shots.com",
@@ -16810,9 +16810,9 @@
     "robotechcity.com",
     "remontservis1.ru",
     "romulobrasil.com",
-    "regnumviajes.xyz"
+    "regnumviajes.xyz",
   ],
-  "j14": [
+  j14: [
     "jurhidrico.com",
     "jounsenurf.com",
     "jhministry.com",
@@ -16870,9 +16870,9 @@
     "jkwardrobe.com",
     "johannesson.at",
     "jasoncoroy.com",
-    "jepri-link.org"
+    "jepri-link.org",
   ],
-  "n21": [
+  n21: [
     "noticiasdenayarit.com",
     "nationaltaxoffice.com",
     "navegacaolacet.com.br",
@@ -16897,9 +16897,9 @@
     "nadeaudevelopment.com",
     "nrc-soluciones.com.ar",
     "noreplying.selfip.org",
-    "newdawnexperience.com"
+    "newdawnexperience.com",
   ],
-  "b20": [
+  b20: [
     "bwh-reservations.com",
     "batarijaru.hopto.org",
     "birreklammarketi.com",
@@ -16975,9 +16975,9 @@
     "blog.fastcommerz.com",
     "batigroupfinance.com",
     "book4u.ganbarune.com",
-    "bd5kldf3krxpvykj.com"
+    "bd5kldf3krxpvykj.com",
   ],
-  "h14": [
+  h14: [
     "hileerdeer.com",
     "hitrend.com.my",
     "homeavenue.net",
@@ -17086,9 +17086,9 @@
     "hoomellhic.com",
     "haushanapa.com",
     "hainammedia.vn",
-    "hatoelfrio.com"
+    "hatoelfrio.com",
   ],
-  "z12": [
+  z12: [
     "zetalogs.com",
     "zentacher.ga",
     "zilianmy.com",
@@ -17123,9 +17123,9 @@
     "zubas.had.su",
     "zekocase.com",
     "ziale.org.zm",
-    "zharikoff.ru"
+    "zharikoff.ru",
   ],
-  "e25": [
+  e25: [
     "excellenceinmentoring.com",
     "eduardovilacadesigner.com",
     "extensiidinparnatural.com",
@@ -17143,9 +17143,9 @@
     "elmedicodeldeportista.com",
     "edificioviacapital.com.br",
     "espansioneimmobiliare.com",
-    "edelweiss-secretariat.com"
+    "edelweiss-secretariat.com",
   ],
-  "a10": [
+  a10: [
     "adminca.se",
     "akawork.io",
     "a98n98.xyz",
@@ -17260,14 +17260,14 @@
     "asdream.pl",
     "acefur.com",
     "axasta.com",
-    "a1hose.com"
+    "a1hose.com",
   ],
-  "c36": [
+  c36: [
     "cornerstonesworldwiderecruitment.com",
     "cheaptrainticket.cogbiz-infotech.com",
-    "confirmation-support-info-notify.com"
+    "confirmation-support-info-notify.com",
   ],
-  "i16": [
+  i16: [
     "innoohvation.com",
     "idoctorcloud.com",
     "illtaketwo.co.uk",
@@ -17323,9 +17323,9 @@
     "isityouereqq.com",
     "imvegas.ddns.net",
     "immiagents.co.uk",
-    "islamhizmeti.com"
+    "islamhizmeti.com",
   ],
-  "v13": [
+  v13: [
     "vysokepole.eu",
     "vebermars.com",
     "voisin-sa.com",
@@ -17387,9 +17387,9 @@
     "velolenta.com",
     "vpentimex.com",
     "viebyvieby.ru",
-    "velajsweg.com"
+    "velajsweg.com",
   ],
-  "b14": [
+  b14: [
     "bonusprosto.ru",
     "bbdogalgaz.com",
     "bonasyamar.xyz",
@@ -17549,10 +17549,10 @@
     "behcosanat.com",
     "basis-opora.ru",
     "boslife.com.br",
-    "betactecto.com"
+    "betactecto.com",
   ],
-  "g32": ["goldenyachts.customexposure.tech"],
-  "i17": [
+  g32: ["goldenyachts.customexposure.tech"],
+  i17: [
     "iii-asiacarqo.com",
     "iuphilippines.com",
     "instaexploder.com",
@@ -17604,9 +17604,9 @@
     "ilyes99.hopto.org",
     "integraweb.com.es",
     "infotradinglab.ru",
-    "instantbonheur.fr"
+    "instantbonheur.fr",
   ],
-  "i19": [
+  i19: [
     "informacjezkraju.pl",
     "industrid3.nusch.id",
     "ingresosfaciles.com",
@@ -17655,9 +17655,9 @@
     "imonellipizzeria.pl",
     "intrepidartists.com",
     "infocuscreative.net",
-    "interplasts-uae.com"
+    "interplasts-uae.com",
   ],
-  "l15": [
+  l15: [
     "lifeclinics.net",
     "landformadb.com",
     "l64iegregge.com",
@@ -17736,9 +17736,9 @@
     "lailarahman.com",
     "lolitojr.com.mx",
     "lokersmkbwi.com",
-    "laymancoder.com"
+    "laymancoder.com",
   ],
-  "d28": [
+  d28: [
     "darrel-elementor-layouts.com",
     "dev.appleleafabstracting.com",
     "de2nuvwegoo32oqv.tordrims.li",
@@ -17751,9 +17751,9 @@
     "diyspecial.000webhostapp.com",
     "desertskyvacationrentals.com",
     "doohs11111.000webhostapp.com",
-    "de2nuvwegoo32oqv.torfigth.li"
+    "de2nuvwegoo32oqv.torfigth.li",
   ],
-  "c20": [
+  c20: [
     "conectacontualma.com",
     "celestemost.ddns.net",
     "cheedellahousing.com",
@@ -17826,9 +17826,9 @@
     "chap.curemysinus.com",
     "cufarulculenjerii.ro",
     "coronavirus.mcdir.me",
-    "creativationshow.com"
+    "creativationshow.com",
   ],
-  "b26": [
+  b26: [
     "browncustomsoftware.net.au",
     "braithwaiterestoration.com",
     "bestsmartphonesreviews.net",
@@ -17846,9 +17846,9 @@
     "bootcampforbabylawyers.com",
     "bursaekspreshaliyikama.com",
     "business-in-bangladesh.com",
-    "balkello-accommodation.com"
+    "balkello-accommodation.com",
   ],
-  "n17": [
+  n17: [
     "nci-management.nl",
     "nartart.zapto.org",
     "northerncards.com",
@@ -17909,14 +17909,14 @@
     "n82burdette62.top",
     "nipeldogalgaz.com",
     "nortra-cables.com",
-    "nhaxequanghuy.com"
+    "nhaxequanghuy.com",
   ],
-  "h41": [
+  h41: [
     "hrfgd74nfksjdcnnklnwefvdsf.materdunst.com",
     "h5nuwefkuh134ljngkasdbasfg.corolbugan.com",
-    "helps-122.verifikasi-fanpage-suport982.cf"
+    "helps-122.verifikasi-fanpage-suport982.cf",
   ],
-  "j10": [
+  j10: [
     "jjbook.net",
     "jmucha.fun",
     "jimmink.nl",
@@ -17958,9 +17958,9 @@
     "jaonmi.com",
     "jcvksdf.ug",
     "jetpcl.com",
-    "jusqit.com"
+    "jusqit.com",
   ],
-  "c13": [
+  c13: [
     "check-time.ru",
     "cms.egsys.net",
     "ceoinboxs.com",
@@ -18105,9 +18105,9 @@
     "cholahume.com",
     "charlirni.net",
     "cvetisbazi.ru",
-    "cheatz0ne.com"
+    "cheatz0ne.com",
   ],
-  "g14": [
+  g14: [
     "getfitat50.com",
     "garmulewicz.pl",
     "gestomarket.co",
@@ -18213,9 +18213,9 @@
     "goodonelax.com",
     "getawebsite.co",
     "grifdesign.com",
-    "garage-fiat.be"
+    "garage-fiat.be",
   ],
-  "h27": [
+  h27: [
     "hjhqmbxyinislkkt.1mswjm.top",
     "hjhqmbxyinislkkt.1accfa.top",
     "hotelconceicaopalace.com.br",
@@ -18338,9 +18338,9 @@
     "hjhqmbxyinislkkt.1gunao.top",
     "hjhqmbxyinislkkt.142djp.top",
     "hjhqmbxyinislkkt.1bcxcs.top",
-    "hjhqmbxyinislkkt.1dq6nd.top"
+    "hjhqmbxyinislkkt.1dq6nd.top",
   ],
-  "s19": [
+  s19: [
     "shernicejohnson.com",
     "shop.angsoftech.com",
     "stonerinsurance.com",
@@ -18478,9 +18478,9 @@
     "spitwaterqld.com.au",
     "salesgroupmotive.ga",
     "saudigeriatrics.org",
-    "sugandhachejara.com"
+    "sugandhachejara.com",
   ],
-  "g28": [
+  g28: [
     "greekmountains.theworkpc.com",
     "garagedoorrepaircarrboro.com",
     "greatesthits.mygoldmusic.com",
@@ -18498,9 +18498,9 @@
     "groupeelectrogeneservice.com",
     "gewinnspiel-sachsenhausen.de",
     "garagedoorsrepairraleigh.com",
-    "garethshaw.000webhostapp.com"
+    "garethshaw.000webhostapp.com",
   ],
-  "w30": [
+  w30: [
     "wac80v41f.homepage.t-online.de",
     "www.personalshoppingservice.it",
     "www.acclaimenvironmental.co.uk",
@@ -18528,10 +18528,10 @@
     "wt7dzbn78.homepage.t-online.de",
     "wgg985gsd.homepage.t-online.de",
     "wk0mez2k5.homepage.t-online.de",
-    "wb4rsun8c.homepage.t-online.de"
+    "wb4rsun8c.homepage.t-online.de",
   ],
-  "d7": ["dont.pl", "dobi.nl", "dtmx.pl", "dewi.cf", "dosq.es", "dewi.tk"],
-  "i15": [
+  d7: ["dont.pl", "dobi.nl", "dtmx.pl", "dewi.cf", "dosq.es", "dewi.tk"],
+  i15: [
     "iqowijsdakm.com",
     "inwproperty.com",
     "innoservtest.in",
@@ -18595,9 +18595,9 @@
     "indrashop-eu.ml",
     "imagescroll.com",
     "iamsuperkol.com",
-    "intrekmedya.com"
+    "intrekmedya.com",
   ],
-  "f16": [
+  f16: [
     "freebibliotec.tk",
     "falmarondayz.com",
     "femworldview.com",
@@ -18689,9 +18689,9 @@
     "firnabulking.com",
     "fundglobally.org",
     "forzalindelof.cf",
-    "f0533726.xsph.ru"
+    "f0533726.xsph.ru",
   ],
-  "s22": [
+  s22: [
     "scrawk.tusarranjan.com",
     "shricorporation.online",
     "sensoryexperiments.com",
@@ -18769,9 +18769,9 @@
     "sufficientblessing.com",
     "smalltowncarrental.com",
     "sarayutechnologies.com",
-    "suddenuser377.ddns.net"
+    "suddenuser377.ddns.net",
   ],
-  "n16": [
+  n16: [
     "nurebeghouse.com",
     "nightmarefile.cf",
     "nucsquaremall.ga",
@@ -18838,9 +18838,9 @@
     "nlhomegarden.com",
     "naomihawkins.com",
     "npitstart.cba.pl",
-    "nikiforov.dax.ru"
+    "nikiforov.dax.ru",
   ],
-  "c15": [
+  c15: [
     "cmasempresa.com",
     "chonamyoung.com",
     "comsalud360.com",
@@ -18966,9 +18966,9 @@
     "cavefashion.com",
     "cinemanews.info",
     "copsoiteess.com",
-    "citationvie.com"
+    "citationvie.com",
   ],
-  "v27": [
+  v27: [
     "vyohacxzoue32vvk.7jrv53.bid",
     "vyohacxzoue32vvk.ewfp5y.bid",
     "vyohacxzoue32vvk.kfymbh.top",
@@ -19045,9 +19045,9 @@
     "vyohacxzoue32vvk.joco7r.top",
     "vyohacxzoue32vvk.c4cwr4.bid",
     "verticaldeconstrucciones.co",
-    "vyohacxzoue32vvk.dks71o.bid"
+    "vyohacxzoue32vvk.dks71o.bid",
   ],
-  "r9": [
+  r9: [
     "rename.kz",
     "rolexy.gq",
     "renhed.kz",
@@ -19075,9 +19075,9 @@
     "raycon.ph",
     "rems.tech",
     "rerda.com",
-    "rsxxx.com"
+    "rsxxx.com",
   ],
-  "f11": [
+  f11: [
     "flmates.com",
     "flowjob.top",
     "fitworx.com",
@@ -19152,9 +19152,9 @@
     "fbstone.com",
     "fizra.pp.ua",
     "freenac.org",
-    "funzel.info"
+    "funzel.info",
   ],
-  "c11": [
+  c11: [
     "cube.joburg",
     "cdafang.com",
     "confirm3.pw",
@@ -19244,9 +19244,9 @@
     "cogerea.net",
     "comdatex.de",
     "chrysler.cl",
-    "cubeuser.tk"
+    "cubeuser.tk",
   ],
-  "t17": [
+  t17: [
     "tienganhgiare.com",
     "trbwrtgbret.ac.ug",
     "toptenlisting.com",
@@ -19366,9 +19366,9 @@
     "thevapeguru.co.uk",
     "thewatchtrend.com",
     "ts.bingoroll3.net",
-    "teto1993.ddns.net"
+    "teto1993.ddns.net",
   ],
-  "l18": [
+  l18: [
     "lunaparkperugia.it",
     "loungebatel.com.br",
     "lucapotenziani.com",
@@ -19439,9 +19439,9 @@
     "lavarutahhouse.com",
     "litecoinearn.co.uk",
     "livingsolitude.com",
-    "led-lcd-repair.com"
+    "led-lcd-repair.com",
   ],
-  "d24": [
+  d24: [
     "dublinhealthservices.com",
     "del-sieradz.neostrada.pl",
     "diadospaisamericanas.com",
@@ -19471,9 +19471,9 @@
     "dgxmychtpuvmenkbbchw.com",
     "democracyandsecurity.org",
     "df2lh.privat.t-online.de",
-    "documents.intermedhx.com"
+    "documents.intermedhx.com",
   ],
-  "d10": [
+  d10: [
     "duhed.info",
     "dipland.tk",
     "deconex.lt",
@@ -19537,15 +19537,15 @@
     "decpak.com",
     "dhback.com",
     "drzalai.hu",
-    "daavuu.com"
+    "daavuu.com",
   ],
-  "c41": [
+  c41: [
     "checkpoint-info330211tf.000webhostapp.com",
     "checkpoint-info66669112.000webhostapp.com",
     "checkpoint-info66321844.000webhostapp.com",
-    "checkpoint-info62335970.000webhostapp.com"
+    "checkpoint-info62335970.000webhostapp.com",
   ],
-  "p13": [
+  p13: [
     "promosedu.com",
     "petroc.org.tw",
     "primeeast.net",
@@ -19668,9 +19668,9 @@
     "painterbl.com",
     "profenusa.com",
     "piller-sg.com",
-    "proancosl.com"
+    "proancosl.com",
   ],
-  "g8": [
+  g8: [
     "gremr.ma",
     "gopa1.ru",
     "gbuso.ru",
@@ -19689,9 +19689,9 @@
     "ging.fun",
     "giu5.bit",
     "gechy.ru",
-    "g2m2.xyz"
+    "g2m2.xyz",
   ],
-  "k15": [
+  k15: [
     "koe32dayton.com",
     "kiminsitesi.com",
     "kitchenraja.com",
@@ -19767,9 +19767,9 @@
     "koksanuan.go.th",
     "karar.zapto.org",
     "kafsabigroup.ir",
-    "kingdomtaku.xyz"
+    "kingdomtaku.xyz",
   ],
-  "m29": [
+  m29: [
     "moonrockscartsandbudsshop.com",
     "marketplacemagazineonline.com",
     "machanindianrestaurant.com.au",
@@ -19787,18 +19787,18 @@
     "mobile.free.espaceabonne.info",
     "myhostisstillgood11.zapto.org",
     "mcalbertoxd.000webhostapp.com",
-    "myschool-eg.000webhostapp.com"
+    "myschool-eg.000webhostapp.com",
   ],
-  "l28": [
+  l28: [
     "luckyserverhostdata.ddns.net",
     "lahmar.choukri.perso.neuf.fr",
     "legitfilehost4datas.ddns.net",
     "legrandmaghrebconsulting.com",
     "lightmusic.cocomet-china.com",
     "lagrangeglassandmirrorco.com",
-    "london-escorts-agency.org.uk"
+    "london-escorts-agency.org.uk",
   ],
-  "n13": [
+  n13: [
     "newlitbits.ca",
     "netshot.co.uk",
     "newmazda.info",
@@ -19868,9 +19868,9 @@
     "niagara.vn.ua",
     "nguoibeo.info",
     "nomorez.ac.ug",
-    "naprazdnik.lv"
+    "naprazdnik.lv",
   ],
-  "w16": [
+  w16: [
     "whatdouwatch.com",
     "worldssafest.com",
     "wmtrees.services",
@@ -19966,9 +19966,9 @@
     "wingsingreen.com",
     "www.oliooddo.com",
     "www.kaisei.gr.jp",
-    "www.herinvest.be"
+    "www.herinvest.be",
   ],
-  "t28": [
+  t28: [
     "totalrepalrhonda.web.fc2.com",
     "thebaptistfoundationofca.com",
     "thisisfake.fake.doesnotexist",
@@ -19982,9 +19982,9 @@
     "tecnificacioimanteniment.com",
     "tulsipada1.000webhostapp.com",
     "time234wa234rper346465432.ug",
-    "timeattacker3423dsdf54dgf.ru"
+    "timeattacker3423dsdf54dgf.ru",
   ],
-  "t23": [
+  t23: [
     "toko.kojyou-project.com",
     "thevisionrecordsllc.com",
     "temptest123.reveance.nl",
@@ -20022,9 +20022,9 @@
     "transatlantictravel.xyz",
     "t3-thanglongcapital.top",
     "theme2.msparkgaming.com",
-    "tournoimondialbasket.fr"
+    "tournoimondialbasket.fr",
   ],
-  "o17": [
+  o17: [
     "onlinebuygold.com",
     "obatkesemutan.com",
     "organicneshan.com",
@@ -20067,9 +20067,9 @@
     "ohiyoungbuyff.com",
     "ovh.servehttp.com",
     "old.vavilova69.ru",
-    "oshonafitness.com"
+    "oshonafitness.com",
   ],
-  "n9": [
+  n9: [
     "n1xua.com",
     "napier.eu",
     "netfun.be",
@@ -20099,18 +20099,18 @@
     "naplan.be",
     "nkfyfs.cn",
     "nz.com.ar",
-    "nuendo.ir"
+    "nuendo.ir",
   ],
-  "m32": [
+  m32: [
     "masajesrelajantesguadalajara.com",
     "microsoftservice.dynamic-dns.net",
     "mandselectricalcontractors.co.za",
     "musthopanewbie.000webhostapp.com",
     "mobilefree.i.abonnement-frds.com",
     "mybusiness.spreaduttarakhand.com",
-    "muellerfalk.homepage.t-online.de"
+    "muellerfalk.homepage.t-online.de",
   ],
-  "g11": [
+  g11: [
     "gymcraft.es",
     "ggwpbro.bit",
     "goodgate.tv",
@@ -20194,9 +20194,9 @@
     "gusental.at",
     "gmp.home.ro",
     "gpsfiles.nl",
-    "gintreja.lt"
+    "gintreja.lt",
   ],
-  "u13": [
+  u13: [
     "uzoeze.online",
     "uredosafe.com",
     "underdog2.xyz",
@@ -20224,9 +20224,9 @@
     "underdog1.xyz",
     "upafrique.com",
     "uagritech.com",
-    "uprguinee.org"
+    "uprguinee.org",
   ],
-  "v11": [
+  v11: [
     "vidafilm.mx",
     "volissos.gr",
     "vizertv.xyz",
@@ -20280,9 +20280,9 @@
     "vinkagu.com",
     "vibecore.ml",
     "vaxosyk.com",
-    "villa31.com"
+    "villa31.com",
   ],
-  "p24": [
+  p24: [
     "peaven.000webhostapp.com",
     "princetonsuppliers.co.uk",
     "pokemonliquidcrystal.com",
@@ -20307,9 +20307,9 @@
     "pyefittedfurniture.co.uk",
     "pennylanecupcakes.com.au",
     "patinhodomal.duckdns.org",
-    "paroissesaintabraham.com"
+    "paroissesaintabraham.com",
   ],
-  "g10": [
+  g10: [
     "gqjdyp.com",
     "gbuzr.info",
     "geek-bg.eu",
@@ -20377,9 +20377,9 @@
     "greatbi.nl",
     "gwinxx.com",
     "gem-st.com",
-    "gizlot.com"
+    "gizlot.com",
   ],
-  "a24": [
+  a24: [
     "alien007.my-firewall.org",
     "alphaciptaindotama.co.id",
     "agile-scrum-training.com",
@@ -20410,9 +20410,9 @@
     "airconditioning12601.com",
     "addireengg.logicalat.com",
     "adultsikishikayeleri.com",
-    "adamjarekelk.freehost.pl"
+    "adamjarekelk.freehost.pl",
   ],
-  "k17": [
+  k17: [
     "khashchevato42.ru",
     "konkurs.mtrend.ru",
     "kibossuqarmen.com",
@@ -20474,9 +20474,9 @@
     "kshacker.ddns.net",
     "koko219.hopto.org",
     "kerusiinovasi.com",
-    "kciylimohteftc.pw"
+    "kciylimohteftc.pw",
   ],
-  "t14": [
+  t14: [
     "trainedogs.net",
     "travelexeq.com",
     "trinechina.com",
@@ -20633,14 +20633,14 @@
     "telepoticu.top",
     "tianshilive.ru",
     "thantifick.com",
-    "tafertergr.com"
+    "tafertergr.com",
   ],
-  "t30": [
+  t30: [
     "tokorankoscr.000webhostapp.com",
     "torneopollos.000webhostapp.com",
-    "traininginstituteahmedabad.com"
+    "traininginstituteahmedabad.com",
   ],
-  "o8": [
+  o8: [
     "ora.life",
     "ogon.xyz",
     "oct2.xyz",
@@ -20659,9 +20659,9 @@
     "osawa.be",
     "oct1.xyz",
     "ozfin.ru",
-    "ondro.eu"
+    "ondro.eu",
   ],
-  "u10": [
+  u10: [
     "ups-job.ch",
     "uhost.club",
     "uas-aas.ca",
@@ -20678,9 +20678,9 @@
     "unrrwa.org",
     "uzocoms.eu",
     "upload.moe",
-    "utmank.bid"
+    "utmank.bid",
   ],
-  "l21": [
+  l21: [
     "lesgarconsdugazon.com",
     "lawmaninvestments.com",
     "lamaisondelaforet.net",
@@ -20707,9 +20707,9 @@
     "lamdepuytinsaigon.com",
     "lenteramutiarahati.id",
     "lojamariadenazare.com",
-    "legalwebdesigners.com"
+    "legalwebdesigners.com",
   ],
-  "h21": [
+  h21: [
     "healthexpertsview.com",
     "hostingtinysoft.space",
     "handball-literatur.de",
@@ -20748,9 +20748,9 @@
     "huyndai3sthanhhoa.com",
     "hotelvinayakpalace.in",
     "healthnewsletters.org",
-    "heatsavingsystems.com"
+    "heatsavingsystems.com",
   ],
-  "u25": [
+  u25: [
     "unregisteredhost.dynu.net",
     "user2332.royal-hosting.ru",
     "ubermensch.altervista.org",
@@ -20760,9 +20760,9 @@
     "uladekoracje.republika.pl",
     "undertheinfluencebook.org",
     "unitedfreightservices.net",
-    "unaccpetable.publicvm.com"
+    "unaccpetable.publicvm.com",
   ],
-  "t18": [
+  t18: [
     "terrabellaperu.com",
     "tciislandguide.com",
     "thecoverstudio.com",
@@ -20878,9 +20878,9 @@
     "thedailyanswer.com",
     "thewebdesignet.com",
     "thoitrangstaup.com",
-    "theincontinence.tk"
+    "theincontinence.tk",
   ],
-  "p11": [
+  p11: [
     "pilyclix.cl",
     "ptgteft.com",
     "phucyen.net",
@@ -20952,17 +20952,17 @@
     "pciholog.ru",
     "pokrokus.eu",
     "paskjldf.ug",
-    "posnxqmp.ru"
+    "posnxqmp.ru",
   ],
-  "k32": [
+  k32: [
     "kwiatekmateusz.000webhostapp.com",
     "kursusdigitalmarketingmalang.com",
     "kilimanjaroclimbingadventure.com",
     "kapporet-e-learningsolutions.com",
     "k4restportgonst34d23r.oftpony.at",
-    "kaushalyaramadhareducational.com"
+    "kaushalyaramadhareducational.com",
   ],
-  "v16": [
+  v16: [
     "volamthailan.com",
     "vmeste-hudeem.ru",
     "victorybijja.com",
@@ -21007,16 +21007,16 @@
     "vdwaarsenburg.nl",
     "videoportrait.tv",
     "vm1063460.had.tf",
-    "vastyrannouse.at"
+    "vastyrannouse.at",
   ],
-  "r33": [
+  r33: [
     "reussitebienetre.numerica-asbl.be",
     "reg11ster088.fanspage-confrim3.ml",
     "riteshkafle2058.000webhostapp.com",
     "rennie-mackintosh-jewellery.co.uk",
-    "recover-fb08900.000webhostapp.com"
+    "recover-fb08900.000webhostapp.com",
   ],
-  "g20": [
+  g20: [
     "gahtt9j6.u8f3e5jq.ru",
     "grosircelanaanak.net",
     "guilhermebasilio.com",
@@ -21071,10 +21071,10 @@
     "global-dahuatech.com",
     "gracewellscare.co.uk",
     "globalrecordsblue.tk",
-    "gamerus.publicvm.com"
+    "gamerus.publicvm.com",
   ],
-  "T14": ["TruePublish.de"],
-  "p14": [
+  T14: ["TruePublish.de"],
+  p14: [
     "pueblastars.mx",
     "patanrivey.com",
     "pepperbagz.com",
@@ -21204,9 +21204,9 @@
     "piporopopo.com",
     "perkorules.com",
     "piesolubni.com",
-    "pendialect.com"
+    "pendialect.com",
   ],
-  "w22": [
+  w22: [
     "www.fabriziolovino.com",
     "www.gonimar.onored.com",
     "wordpress-developer.us",
@@ -21267,9 +21267,9 @@
     "www.topanswertips.info",
     "www.informaticauno.net",
     "www.madonnaceleste.com",
-    "www.milleniumitaly.com"
+    "www.milleniumitaly.com",
   ],
-  "g9": [
+  g9: [
     "gpi-q.com",
     "ghdeg.com",
     "giaim.org",
@@ -21298,9 +21298,9 @@
     "gamee.top",
     "guidex.eu",
     "gra1vi.pw",
-    "gdfdfv.ru"
+    "gdfdfv.ru",
   ],
-  "r18": [
+  r18: [
     "rafa-craftsman.com",
     "rentalcartours.net",
     "realslovespell.com",
@@ -21351,9 +21351,9 @@
     "rgmobilegossip.com",
     "rebuildkerala.info",
     "richsportsmgmt.com",
-    "rajasthankiran.com"
+    "rajasthankiran.com",
   ],
-  "431": [
+  431: [
     "4kqd3hmqgptupi3p.clockhate.loan",
     "4kqd3hmqgptupi3p.selfcrash.site",
     "4kqd3hmqgptupi3p.gameswarm.loan",
@@ -21363,9 +21363,9 @@
     "4kqd3hmqgptupi3p.endsdoubt.loan",
     "4kqd3hmqgptupi3p.todaynine.loan",
     "4kqd3hmqgptupi3p.gapplayed.link",
-    "4kqd3hmqgptupi3p.foodtopic.mobi"
+    "4kqd3hmqgptupi3p.foodtopic.mobi",
   ],
-  "v14": [
+  v14: [
     "verdianthy.com",
     "vigreenfarm.vn",
     "veillength.com",
@@ -21416,9 +21416,9 @@
     "vinhbao.com.vn",
     "vinaykhatri.in",
     "vnswebtech.com",
-    "viplovechs.com"
+    "viplovechs.com",
   ],
-  "114": [
+  114: [
     "176.107.185.19",
     "188.127.251.99",
     "149.154.157.14",
@@ -21470,9 +21470,9 @@
     "185.141.25.150",
     "178.62.232.244",
     "1860poga.co.za",
-    "185.102.136.67"
+    "185.102.136.67",
   ],
-  "b10": [
+  b10: [
     "broken3.cf",
     "bthfdr1.eu",
     "bmo2016.al",
@@ -21550,17 +21550,17 @@
     "boosyy.com",
     "bielpak.pl",
     "banana2.jp",
-    "bus-way.ru"
+    "bus-way.ru",
   ],
-  "s33": [
+  s33: [
     "shafikalarimarmachikilsalayam.com",
     "supoort-heere2.f4npage-confr1m.tk",
     "secutityinfo875.000webhostapp.com",
     "securityteamuin.000webhostapp.com",
     "secure-dev2.confrim-fanpage111.tk",
-    "scullytrucking.digitalmindtec.com"
+    "scullytrucking.digitalmindtec.com",
   ],
-  "g23": [
+  g23: [
     "guardian-angels-diva.de",
     "google-chromme.ddns.net",
     "greenenvyhealthcare.com",
@@ -21582,9 +21582,9 @@
     "google-ads-expert.co.ua",
     "gutentagmeinliebeqq.com",
     "garageprosofflorida.com",
-    "googlebpoot.duckdns.org"
+    "googlebpoot.duckdns.org",
   ],
-  "u24": [
+  u24: [
     "utotsllaeowgnlhmnivr.com",
     "uqiyrgufaurljodorptt.com",
     "unitedfashionwearltd.com",
@@ -21600,9 +21600,9 @@
     "uswatunhasanahkaltim.com",
     "unlock2.neagoeandrei.com",
     "urist-advokat-mogilev.by",
-    "uniquebulldogpuppies.com"
+    "uniquebulldogpuppies.com",
   ],
-  "s9": [
+  s9: [
     "sbdma.com",
     "sqqwer.ru",
     "sztana.ro",
@@ -21666,9 +21666,9 @@
     "saitis.eu",
     "spmdc.xyz",
     "spbsmm.ru",
-    "sionn.biz"
+    "sionn.biz",
   ],
-  "e10": [
+  e10: [
     "esbook.com",
     "edu-net.ro",
     "erxst.info",
@@ -21724,9 +21724,9 @@
     "ebd.bbz.kg",
     "ekraft.org",
     "erwaty.com",
-    "eu-pic.net"
+    "eu-pic.net",
   ],
-  "d8": [
+  d8: [
     "debie.pl",
     "dewii.ga",
     "disan.by",
@@ -21750,9 +21750,9 @@
     "dnews.ro",
     "dewli.tk",
     "dgkhj.ru",
-    "dewli.cf"
+    "dewli.cf",
   ],
-  "e14": [
+  e14: [
     "epicnetwork.cf",
     "edv-donner.com",
     "elsportmso.com",
@@ -21836,9 +21836,9 @@
     "erugutrane.com",
     "ebookhit99.com",
     "eruquantum.com",
-    "exe93.ddns.net"
+    "exe93.ddns.net",
   ],
-  "n22": [
+  n22: [
     "nixonhabbo.duckdns.org",
     "newpavanchatcorner.com",
     "nunuraw.apishealth.org",
@@ -21864,9 +21864,9 @@
     "notificacao.xpg.com.br",
     "nugentconstruction.com",
     "nanodivulga.ufn.edu.br",
-    "nangmuislinedep.com.vn"
+    "nangmuislinedep.com.vn",
   ],
-  "f15": [
+  f15: [
     "feminysteph.com",
     "food.hsh-bh.com",
     "file4hosti.info",
@@ -21954,9 +21954,9 @@
     "fx-torihiki.com",
     "fssshipping.com",
     "fidingonman.com",
-    "fyrishbikes.com"
+    "fyrishbikes.com",
   ],
-  "p20": [
+  p20: [
     "prestigegroup-tr.com",
     "p237996.mybestmv.com",
     "protecteur6.ddns.net",
@@ -22027,9 +22027,9 @@
     "preglitzer.heimat.eu",
     "people.servegame.com",
     "portafolioadsfon.xyz",
-    "plafond-tendu-td.com"
+    "plafond-tendu-td.com",
   ],
-  "r22": [
+  r22: [
     "ritikastonegallery.net",
     "rajasthanphotofest.com",
     "rms.uzelbilisim.com.tr",
@@ -22051,9 +22051,9 @@
     "romediamondlotusq2.net",
     "rakutenka.tuzikaze.com",
     "rabbleserlokclogin.com",
-    "rusyatamareload.web.id"
+    "rusyatamareload.web.id",
   ],
-  "l12": [
+  l12: [
     "lzclient.com",
     "lisawl43.top",
     "likesmore.tk",
@@ -22140,9 +22140,9 @@
     "lansome.site",
     "luostone.com",
     "lysayiti.xyz",
-    "lasertopo.be"
+    "lasertopo.be",
   ],
-  "m11": [
+  m11: [
     "mmanueud.tk",
     "manhphu.xyz",
     "mazilan.com",
@@ -22283,9 +22283,9 @@
     "maxhotel.it",
     "moguto.site",
     "malamut.org",
-    "megumin2.pw"
+    "megumin2.pw",
   ],
-  "f9": [
+  f9: [
     "fgh2df.ru",
     "fin18.org",
     "fhflb.com",
@@ -22316,9 +22316,9 @@
     "f.coka.la",
     "fdjshe.tk",
     "fm1111.fr",
-    "flikh.com"
+    "flikh.com",
   ],
-  "f12": [
+  f12: [
     "finacafe.net",
     "filelo06.top",
     "fachrian.com",
@@ -22396,9 +22396,9 @@
     "ftwork.co.uk",
     "fuji-mig.com",
     "flirtkurs.ch",
-    "fitydent.com"
+    "fitydent.com",
   ],
-  "x15": [
+  x15: [
     "xiksa2.ddns.net",
     "xenicolnc.space",
     "xnkmanhtien.com",
@@ -22415,9 +22415,9 @@
     "xiaojinsong.com",
     "xpressebook.com",
     "xefarporove.net",
-    "xe7nikkij.email"
+    "xe7nikkij.email",
   ],
-  "s31": [
+  s31: [
     "specialist.homepage.t-online.de",
     "swissranksdev.000webhostapp.com",
     "sisoretartian.000webhostapp.com",
@@ -22432,9 +22432,9 @@
     "shaybrennanconstructions.com.au",
     "shop-an-khang.000webhostapp.com",
     "srijanexportstowelwarmers.co.uk",
-    "statelesspeopleinbangladesh.net"
+    "statelesspeopleinbangladesh.net",
   ],
-  "s10": [
+  s10: [
     "sxyige.com",
     "sit.com.tr",
     "snaptec.co",
@@ -22564,9 +22564,9 @@
     "sexexpo.ro",
     "schjtx.com",
     "ste4you.at",
-    "soyato.org"
+    "soyato.org",
   ],
-  "i28": [
+  i28: [
     "insighteyecarefoundation.com",
     "info-ads-verify-identify.com",
     "itexpress.victoria-makeup.kz",
@@ -22576,15 +22576,15 @@
     "institutpediatriesociale.com",
     "iexplorer-sistem.duckdns.org",
     "itfreewebmailupdate.sitey.me",
-    "i3ezlvkoi7fwyood.tor2web.org"
+    "i3ezlvkoi7fwyood.tor2web.org",
   ],
-  "h31": [
+  h31: [
     "hotel-le-relais-des-moulins.com",
     "hotelpousadaparaisoverde.com.br",
-    "holmesservices.mobiledevsite.co"
+    "holmesservices.mobiledevsite.co",
   ],
-  "220": ["2bconstruction.co.uk", "247legalservices.com"],
-  "k14": [
+  220: ["2bconstruction.co.uk", "247legalservices.com"],
+  k14: [
     "kianafrooz.com",
     "kiddypecos.com",
     "kemerealty.com",
@@ -22670,9 +22670,9 @@
     "kiteletter.com",
     "klaryus.com.br",
     "kongkhak.go.th",
-    "koranjebus.net"
+    "koranjebus.net",
   ],
-  "a23": [
+  a23: [
     "anchorwheelmotel.com.au",
     "auto-ecole-prudence.com",
     "abdovfinancelimited.com",
@@ -22712,17 +22712,17 @@
     "adroitlyadvertising.com",
     "au.big.goodtimenews.org",
     "alliancehomepackers.com",
-    "alanyacilingirbilal.com"
+    "alanyacilingirbilal.com",
   ],
-  "t29": [
+  t29: [
     "therapymarketinginstitute.com",
     "theblackfun.000webhostapp.com",
     "trifitkazar.000webhostapp.com",
     "testfreedom.000webhostapp.com",
     "thyroidnutritioneducators.com",
-    "test.windsorheatingandair.com"
+    "test.windsorheatingandair.com",
   ],
-  "a25": [
+  a25: [
     "artgalleryliquidation.com",
     "au.poster.sportingmen.org",
     "annaeng.000webhostapp.com",
@@ -22758,9 +22758,9 @@
     "africanmobilenetworks.com",
     "ancientalienartifacts.com",
     "alibristolphotography.com",
-    "astrologiaexistencial.com"
+    "astrologiaexistencial.com",
   ],
-  "a22": [
+  a22: [
     "anime-tuner.square7.ch",
     "apethorpevillage.co.uk",
     "actionmobilemarine.net",
@@ -22815,10 +22815,10 @@
     "arqdesignconstruct.com",
     "addagapublicschool.com",
     "administratorr.website",
-    "armand-productions.com"
+    "armand-productions.com",
   ],
-  "615": ["6connectdev.com"],
-  "m28": [
+  615: ["6connectdev.com"],
+  m28: [
     "morocco-nomad-excursions.com",
     "mz7oyb3v32vshcvk.tormidle.at",
     "mbfce24rgn65bx3g.is0hvt1.com",
@@ -22833,9 +22833,9 @@
     "medicinaesteticaorlandini.it",
     "monicagranitesandmarbles.com",
     "mobile-knet-cloud.umbler.net",
-    "maniamodas.000webhostapp.com"
+    "maniamodas.000webhostapp.com",
   ],
-  "e8": [
+  e8: [
     "eocie.gq",
     "essmc.us",
     "e-pin.gr",
@@ -22857,14 +22857,14 @@
     "elvox.pl",
     "eocie.cf",
     "etoc.biz",
-    "edsna.gr"
+    "edsna.gr",
   ],
-  "u28": [
+  u28: [
     "used-audi-car-for-sale.co.uk",
     "update.chromeconnect.digital",
-    "usedtextilemachinerylive.com"
+    "usedtextilemachinerylive.com",
   ],
-  "d14": [
+  d14: [
     "dustontail.top",
     "darksteal.tech",
     "draaksteken.nl",
@@ -22994,9 +22994,9 @@
     "dev.abitotv.it",
     "down1.baopu.cc",
     "darnstitch.com",
-    "daffamedia.com"
+    "daffamedia.com",
   ],
-  "q9": [
+  q9: [
     "qybest.cn",
     "qwqoo.com",
     "qstom.com",
@@ -23007,9 +23007,9 @@
     "qe-bb.top",
     "qqepta.ru",
     "qoqip.com",
-    "qe-bg.top"
+    "qe-bg.top",
   ],
-  "a19": [
+  a19: [
     "avcilarinpazari.com",
     "administrategia.com",
     "aialogisticsltd.com",
@@ -23134,9 +23134,9 @@
     "alien34.duckdns.org",
     "aryahospitalksh.com",
     "ashleyharrison.tech",
-    "asi-automazioni.com"
+    "asi-automazioni.com",
   ],
-  "c7": [
+  c7: [
     "ceil.hk",
     "cocc.ro",
     "cvbt.ml",
@@ -23145,9 +23145,9 @@
     "chol.cc",
     "cod.exe",
     "cdsp.pl",
-    "cted.pt"
+    "cted.pt",
   ],
-  "j22": [
+  j22: [
     "jornadastecnicasisa.co",
     "jimhalltreeservice.com",
     "joseptarradellas38.com",
@@ -23160,9 +23160,9 @@
     "jarininternational.com",
     "jualthemewordpress.com",
     "jacobsondevelopers.com",
-    "jssh.000webhostapp.com"
+    "jssh.000webhostapp.com",
   ],
-  "h8": [
+  h8: [
     "hispy.nl",
     "hi-j.com",
     "hayal.se",
@@ -23177,9 +23177,9 @@
     "hemig.lk",
     "hecam.de",
     "hochu.kg",
-    "hitme.ga"
+    "hitme.ga",
   ],
-  "m13": [
+  m13: [
     "minimodul.org",
     "mediaurls.xyz",
     "merebleke.com",
@@ -23339,9 +23339,9 @@
     "mandujano.net",
     "mj5f.ddns.net",
     "montrio.co.za",
-    "mortyboss.xyz"
+    "mortyboss.xyz",
   ],
-  "j23": [
+  j23: [
     "j-nissitechnologies.com",
     "joost.standbyhosting.nl",
     "jaremskiphotography.com",
@@ -23351,9 +23351,9 @@
     "juuniorhacker7.ddns.net",
     "jrockish.bravepages.com",
     "jasiltraveltours.com.ph",
-    "jcwintersconsulting.com"
+    "jcwintersconsulting.com",
   ],
-  "y17": [
+  y17: [
     "yourgpshelper.com",
     "yoohoofishing.com",
     "yandex-cupon.site",
@@ -23371,9 +23371,9 @@
     "ysbasefukuoka.com",
     "yuxinproteins.com",
     "yelki.limitsiz.de",
-    "yaliapartotel.com"
+    "yaliapartotel.com",
   ],
-  "o19": [
+  o19: [
     "o99601n0.beget.tech",
     "oykadanismanlik.net",
     "oguzhannakliyat.net",
@@ -23405,9 +23405,9 @@
     "outerlimitstech.com",
     "orishinecarwash.com",
     "online-site-now.com",
-    "openoffice-city.com"
+    "openoffice-city.com",
   ],
-  "c21": [
+  c21: [
     "colleenthestylist.com",
     "cryptoexpertblog.info",
     "c001456.aaa.ididp.com",
@@ -23462,9 +23462,9 @@
     "comandosoft.no-ip.org",
     "citysammy.casacam.net",
     "craftresortphuket.com",
-    "calabonamajorca.co.uk"
+    "calabonamajorca.co.uk",
   ],
-  "l17": [
+  l17: [
     "lgbtbookstore.com",
     "lardi.frizull.net",
     "lacadosmurcia.com",
@@ -23528,9 +23528,9 @@
     "larissadelrio.com",
     "lafloraevents.com",
     "loveafrofoods.com",
-    "loisnfernandez.us"
+    "loisnfernandez.us",
   ],
-  "v23": [
+  v23: [
     "visionscape.duckdns.org",
     "virtualbook.web.fc2.com",
     "visionrealestatesvs.com",
@@ -23542,13 +23542,13 @@
     "vyrobkysmile.vyrobce.cz",
     "vividena.yukihotaru.com",
     "valamaanatamizhagam.com",
-    "vincecamutogiftcard.com"
+    "vincecamutogiftcard.com",
   ],
-  "d42": [
+  d42: [
     "dr-prof-sachidanandasinha-dentalclinic.com",
-    "document-via-google-doc.bottlerockethq.com"
+    "document-via-google-doc.bottlerockethq.com",
   ],
-  "l9": [
+  l9: [
     "luppie.eu",
     "lagbag.it",
     "lczyp.com",
@@ -23578,9 +23578,9 @@
     "learef.tk",
     "lander.pl",
     "ljyxx.com",
-    "link2u.nl"
+    "link2u.nl",
   ],
-  "a26": [
+  a26: [
     "asymmetrymusicmagazine.com",
     "asianlakeviewbinhphuoc.com",
     "adasnature.rodevdesign.com",
@@ -23603,9 +23603,9 @@
     "argensudalimentaria.com.ar",
     "app2.letmacworkfaster.site",
     "auxinity.000webhostapp.com",
-    "ajlougamer1231.mskhost.pro"
+    "ajlougamer1231.mskhost.pro",
   ],
-  "w33": [
+  w33: [
     "wwwdocumentscom.000webhostapp.com",
     "www.aktion-zukunft-gestalten.info",
     "wordpress.kikihairandbeauty.co.uk",
@@ -23615,9 +23615,9 @@
     "www.smartwashingtonhomebuyers.com",
     "waterdamagerestorationashburn.com",
     "www.yerridixielandband.jazztel.es",
-    "woodlandsconference.kay-tech.info"
+    "woodlandsconference.kay-tech.info",
   ],
-  "t27": [
+  t27: [
     "theperfectkitandcompany.com",
     "telechargement-document.icu",
     "tcwrcgeneralcontractors.com",
@@ -23630,9 +23630,9 @@
     "thebluebearyhillproject.com",
     "thechocolatebarjersey.co.uk",
     "talentohumanotemporales.com",
-    "trimanunggalsolusindo.co.id"
+    "trimanunggalsolusindo.co.id",
   ],
-  "t19": [
+  t19: [
     "trapiantivarese.org",
     "toyotathaihoa3s.com",
     "tiurabe123.ddns.net",
@@ -23709,9 +23709,9 @@
     "trulytechnology.com",
     "tomynew.duckdns.org",
     "tradgardspartner.se",
-    "toboganantiques.com"
+    "toboganantiques.com",
   ],
-  "y14": [
+  y14: [
     "yamamotovn.com",
     "youthplant.org",
     "yagucharus.com",
@@ -23739,9 +23739,9 @@
     "ycspreview.com",
     "y013s.ddns.net",
     "ynarliahel.xyz",
-    "ysuiteschd.com"
+    "ysuiteschd.com",
   ],
-  "h20": [
+  h20: [
     "herimasu.web.fc2.com",
     "horoscoposbrasil.com",
     "hurricanefilters.com",
@@ -23777,9 +23777,9 @@
     "houseofravissant.com",
     "healthcareclubdb.com",
     "himalayancruiser.com",
-    "honkytonk-studio.com"
+    "honkytonk-studio.com",
   ],
-  "s29": [
+  s29: [
     "simplepleasuresadultstore.com",
     "seecure-regiss.d3v-fanpag3.ga",
     "stgg5jv6mqiibmax.torclever.li",
@@ -23801,9 +23801,9 @@
     "sashavpisdu.000webhostapp.com",
     "suspensioncourriel.weebly.com",
     "sophrologie-untempspourmoi.fr",
-    "svc026.wic011v.server-web.com"
+    "svc026.wic011v.server-web.com",
   ],
-  "k10": [
+  k10: [
     "kihgah.xyz",
     "kuaffur.ru",
     "kmgroup.pw",
@@ -23852,16 +23852,16 @@
     "kk1793.com",
     "kulida.net",
     "kstm.or.th",
-    "katyco.net"
+    "katyco.net",
   ],
-  "d35": [
+  d35: [
     "diplomadosyespecializaciones.org.pe",
     "depannage-reparateur-lave-linge.com",
     "danieljenkins2000.000webhostapp.com",
     "doctorbondarenko.urbanhealth.com.ua",
-    "des-maries-a-croquer.imie-nantes.fr"
+    "des-maries-a-croquer.imie-nantes.fr",
   ],
-  "c17": [
+  c17: [
     "catsandfacts.info",
     "camilastexmex.com",
     "csdstat14tp.world",
@@ -23978,9 +23978,9 @@
     "chaymktonline.xyz",
     "cavancameroon.com",
     "cstcarpenteria.it",
-    "cafe-vintage68.ru"
+    "cafe-vintage68.ru",
   ],
-  "l13": [
+  l13: [
     "logsbanks.xyz",
     "l9oheathj.com",
     "leet-gram.com",
@@ -24072,9 +24072,9 @@
     "louisirby.com",
     "livingwest.eu",
     "lilabners.com",
-    "logsstore.com"
+    "logsstore.com",
   ],
-  "n12": [
+  n12: [
     "nextelle.net",
     "nvwriter.com",
     "nerfetyv.org",
@@ -24144,9 +24144,9 @@
     "nafpcnyf.org",
     "nnsafety.com",
     "nangmui.info",
-    "ndiritzy.com"
+    "ndiritzy.com",
   ],
-  "p9": [
+  p9: [
     "protei.me",
     "p-g-a.org",
     "parash.ga",
@@ -24171,9 +24171,9 @@
     "pidara.nl",
     "pbunk.com",
     "potens.ru",
-    "prod23.ru"
+    "prod23.ru",
   ],
-  "f21": [
+  f21: [
     "faenzabike.makkie.com",
     "fmailadvert15dx.world",
     "fruteriascapellan.com",
@@ -24207,9 +24207,9 @@
     "fedeminersdigital.com",
     "fabiogutierrez.com.br",
     "fm.centeredinself.com",
-    "feed.tetratechsol.com"
+    "feed.tetratechsol.com",
   ],
-  "m21": [
+  m21: [
     "myhost228228.ddns.net",
     "moqs2.neoleads.net.my",
     "mazharul-hossain.info",
@@ -24277,9 +24277,9 @@
     "masterchoicepizza.com",
     "mohammadrezazeidi.com",
     "markjenningsbates.com",
-    "marvinmarvin.ddns.net"
+    "marvinmarvin.ddns.net",
   ],
-  "p31": [
+  p31: [
     "ploenjitmedia.azurewebsites.net",
     "planktondavid.000webhostapp.com",
     "posadaelnogal.000webhostapp.com",
@@ -24288,9 +24288,9 @@
     "pmenboeqhyrpvomq.afteghonte.lol",
     "php01-30914.php01.systemetit.se",
     "pics.viewmynewmatchpictures.com",
-    "plingplong.homepage.t-online.de"
+    "plingplong.homepage.t-online.de",
   ],
-  "c25": [
+  c25: [
     "clazbrokerageservices.com",
     "cheekie2.neagoeandrei.com",
     "cleanearthtechnologies.ca",
@@ -24324,9 +24324,9 @@
     "cheaperdomainnames.com.au",
     "croatia-adventureteam.com",
     "consumerassociationmm.org",
-    "comercializadoraquiar.com"
+    "comercializadoraquiar.com",
   ],
-  "u22": [
+  u22: [
     "universalwallpaper.com",
     "uvayuov.hussanways.com",
     "unforgettabletymes.com",
@@ -24337,9 +24337,9 @@
     "upgradeclothing.com.ng",
     "upsfrance-download.com",
     "used-toyota-cars.co.uk",
-    "upsidegastrobar.com.br"
+    "upsidegastrobar.com.br",
   ],
-  "n8": [
+  n8: [
     "nirr.xyz",
     "notic.fr",
     "nciwc.us",
@@ -24359,9 +24359,9 @@
     "nowon.dk",
     "netdz.ga",
     "nowoo.by",
-    "numea.nl"
+    "numea.nl",
   ],
-  "s8": [
+  s8: [
     "seoic.cn",
     "sam31.ru",
     "simul.co",
@@ -24389,27 +24389,27 @@
     "swfqg.in",
     "shtra.ca",
     "seder.us",
-    "seasy.in"
+    "seasy.in",
   ],
-  "x21": [
+  x21: [
     "xn--tkrw6sl75a3cq.com",
     "xaydungtruonghung.com",
     "xcnn.bariqarabions.cf",
     "xaydungphuongdong.net",
     "xn--k1affefe.xn--p1ai",
     "xlncglasshardware.com",
-    "xn--mellanmjlk-lcb.se"
+    "xn--mellanmjlk-lcb.se",
   ],
-  "z25": [
+  z25: [
     "zsn5qtrgfpu4tmpg.onion.lt",
     "zxc2018zxc2018.linkpc.net",
     "zutzt67dcxr6mxcn.onion.to",
     "zjfq4lnfbs7pncr5.onion.to",
     "zieflix.teleskopstore.com",
     "zsn5qtrgfpu4tmpg.onion.gq",
-    "zhengxing.onlinedj.com.cn"
+    "zhengxing.onlinedj.com.cn",
   ],
-  "d29": [
+  d29: [
     "de2nuvwegoo32oqv.torspaces.li",
     "dev.chambredhotebressuire.com",
     "destinysbeautydestination.com",
@@ -24419,9 +24419,9 @@
     "dac-website.000webhostapp.com",
     "dentalcliniclondonontario.com",
     "doctornauchebe.it-strategy.ru",
-    "dchkoidze97.000webhostapp.com"
+    "dchkoidze97.000webhostapp.com",
   ],
-  "l19": [
+  l19: [
     "lifeserv.myarena.ru",
     "lavanyaholidays.com",
     "littleulearning.com",
@@ -24462,9 +24462,9 @@
     "laidclinique.com.mx",
     "lifecarepanacea.com",
     "lnterservice-si.com",
-    "lockedincareers.com"
+    "lockedincareers.com",
   ],
-  "v15": [
+  v15: [
     "vietphatjsc.xyz",
     "vantourism.info",
     "vanishtime.shop",
@@ -24502,9 +24502,9 @@
     "vipfilehost.com",
     "venteexpress.ma",
     "venteypunto.com",
-    "vergnanoshop.ru"
+    "vergnanoshop.ru",
   ],
-  "b8": [
+  b8: [
     "bh8y.xyz",
     "bary.xyz",
     "bnjhx.eu",
@@ -24520,9 +24520,9 @@
     "boyka.co",
     "byorn.us",
     "bulby.pl",
-    "bag22.ru"
+    "bag22.ru",
   ],
-  "d18": [
+  d18: [
     "dodhmlaethandi.com",
     "dwimultimakmur.com",
     "download.yaoizm.ru",
@@ -24595,9 +24595,9 @@
     "dealer.my-beads.nl",
     "darkpanel.ddns.net",
     "download.perle.com",
-    "dodyexportwear.com"
+    "dodyexportwear.com",
   ],
-  "i13": [
+  i13: [
     "iwearzule.net",
     "inetassoc.com",
     "iliachtida.gr",
@@ -24670,10 +24670,10 @@
     "inrzweb.co.uk",
     "i-advocate.ru",
     "itsmetees.com",
-    "ivyfriend.com"
+    "ivyfriend.com",
   ],
   "09": ["0551gx.cn"],
-  "q10": [
+  q10: [
     "qfuxosx.eu",
     "qashdgs.ml",
     "quadrat.cz",
@@ -24686,9 +24686,9 @@
     "qarmoo.com",
     "qwazzy.biz",
     "qhd666.com",
-    "qc-isf.com"
+    "qc-isf.com",
   ],
-  "p12": [
+  p12: [
     "prewento.com",
     "puuk.desa.id",
     "porno322.com",
@@ -24787,9 +24787,9 @@
     "perubakes.ml",
     "plodameg.com",
     "pilmed01.top",
-    "paddamar.net"
+    "paddamar.net",
   ],
-  "l20": [
+  l20: [
     "lojaagrometal.com.br",
     "lampalazszelidito.hu",
     "lenterasejahtera.com",
@@ -24824,9 +24824,9 @@
     "lionestateturkey.com",
     "lemans-unemarque.com",
     "lolqopkeppe.ddns.net",
-    "librosinculpa.com.ar"
+    "librosinculpa.com.ar",
   ],
-  "d11": [
+  d11: [
     "dendang.net",
     "dettagl.net",
     "duro-tw.com",
@@ -24925,9 +24925,9 @@
     "decactus.cl",
     "daincif.com",
     "dezar32.top",
-    "do.kemem.ga"
+    "do.kemem.ga",
   ],
-  "a8": [
+  a8: [
     "aqv.news",
     "aqmip.fr",
     "alldc.pw",
@@ -24957,9 +24957,9 @@
     "adbee.tk",
     "alspi.cf",
     "agoc.biz",
-    "amint.eu"
+    "amint.eu",
   ],
-  "m7": [
+  m7: [
     "mcjm.me",
     "maim.at",
     "mger.co",
@@ -24974,9 +24974,9 @@
     "mk-4.ru",
     "m-gs.at",
     "moni.sk",
-    "mvpc.uy"
+    "mvpc.uy",
   ],
-  "k20": [
+  k20: [
     "kvark1905.siteme.org",
     "krupalenterprise.com",
     "k3cxd.pileanoted.com",
@@ -25012,11 +25012,11 @@
     "krishna-graphics.com",
     "k-thephotostudio.com",
     "kursustokoonline.net",
-    "keramago.web.fc2.com"
+    "keramago.web.fc2.com",
   ],
-  "613": ["67.23.226.139", "68.171.49.151", "69.162.74.116", "608design.com"],
-  "c40": ["checkpoint-info3996478.000webhostapp.com"],
-  "n14": [
+  613: ["67.23.226.139", "68.171.49.151", "69.162.74.116", "608design.com"],
+  c40: ["checkpoint-info3996478.000webhostapp.com"],
+  n14: [
     "neupane.com.np",
     "nuremerivo.com",
     "netsynergy.com",
@@ -25108,15 +25108,15 @@
     "nganyin-my.com",
     "nothinlips.com",
     "newgiftnd.wang",
-    "notehashtom.ir"
+    "notehashtom.ir",
   ],
-  "316": [
+  316: [
     "324-23-32432.com",
     "3ainstrument.com",
     "3367net.ddns.net",
-    "365cash.exchange"
+    "365cash.exchange",
   ],
-  "r10": [
+  r10: [
     "rmsalf.com",
     "resboiu.ro",
     "rhodins.nu",
@@ -25162,18 +25162,18 @@
     "rasvek.com",
     "runtah.com",
     "rgshops.ru",
-    "ragnaar.us"
+    "ragnaar.us",
   ],
-  "a30": [
+  a30: [
     "architectureetenvironnement.ma",
     "ahmadmustaqim.staff.unja.ac.id",
     "atenasprueba.000webhostapp.com",
     "australiandesignerweddings.com",
     "affordablewebsitesolutions.net",
     "azs-service.victoria-makeup.kz",
-    "americas-tsubaki-nakashima.com"
+    "americas-tsubaki-nakashima.com",
   ],
-  "e18": [
+  e18: [
     "esnaftansatlik.com",
     "eurotexifilati.com",
     "ellauni.the91s.com",
@@ -25231,9 +25231,9 @@
     "esoftlensmurah.com",
     "espacotieli.com.br",
     "entitatsambcor.org",
-    "eweimce?z0c_#p.c_m"
+    "eweimce?z0c_#p.c_m",
   ],
-  "i26": [
+  i26: [
     "ilgiardinodellevisciole.it",
     "innovativedigitalmedia.com",
     "iqmailiq.000webhostapp.com",
@@ -25247,9 +25247,9 @@
     "israeladvocacycalendar.com",
     "iclikoftesiparisalinir.com",
     "investitiispatiiverzis3.ro",
-    "inspirationallifequote.com"
+    "inspirationallifequote.com",
   ],
-  "o12": [
+  o12: [
     "ortus.com.mx",
     "oil-prod.com",
     "ozono.org.es",
@@ -25295,10 +25295,10 @@
     "onefilmy.com",
     "oputaobie.eu",
     "opticsbd.com",
-    "ooomaksim.ru"
+    "ooomaksim.ru",
   ],
-  "v30": ["valeautopecas.valeexpressa.com", "vrvis6ndra5jeggj.livegaming.ch"],
-  "v22": [
+  v30: ["valeautopecas.valeexpressa.com", "vrvis6ndra5jeggj.livegaming.ch"],
+  v22: [
     "veterinariadrpopui.com",
     "voiceoverjavierpaz.com",
     "vemaybaynhatphuong.com",
@@ -25312,9 +25312,9 @@
     "videos20083.mail333.su",
     "vishwakarmaacademy.com",
     "vintageartgalleria.com",
-    "vesinhcongnghiepqd.com"
+    "vesinhcongnghiepqd.com",
   ],
-  "o27": [
+  o27: [
     "oqwygprskqv65j72.1mudaw.top",
     "oqwygprskqv65j72.13rdvu.top",
     "optimalsporthealthclubs.com",
@@ -25343,9 +25343,9 @@
     "oscarengineeringclasses.com",
     "oqwygprskqv65j72.1gam57.top",
     "ojmekzw4mujvqeju.fineboy.at",
-    "opera3773.000webhostapp.com"
+    "opera3773.000webhostapp.com",
   ],
-  "e15": [
+  e15: [
     "econsult.com.tw",
     "edapt.education",
     "english-run.com",
@@ -25422,9 +25422,9 @@
     "epyonseislp.net",
     "euduudaehipk.pw",
     "energiclima.com",
-    "evogelbacher.de"
+    "evogelbacher.de",
   ],
-  "g22": [
+  g22: [
     "gdsfes.bondflowe.co.za",
     "gestordeinspeccion.com",
     "g53lois51bruce.company",
@@ -25464,9 +25464,9 @@
     "grahabailindonesia.com",
     "gyjn.000webhostapp.com",
     "gmthearingsolution.com",
-    "ghancommercialbank.com"
+    "ghancommercialbank.com",
   ],
-  "v8": [
+  v8: [
     "vkd.asia",
     "v2sk.com",
     "vykti.lt",
@@ -25483,10 +25483,10 @@
     "vlkl.xyz",
     "vacc.org",
     "vanks.cl",
-    "vwsd.org"
+    "vwsd.org",
   ],
-  "S16": ["STRAHOVOYSPOR.RU"],
-  "214": [
+  S16: ["STRAHOVOYSPOR.RU"],
+  214: [
     "213.228.128.12",
     "217.12.199.151",
     "217.64.197.138",
@@ -25501,9 +25501,9 @@
     "28kdigital.com",
     "24x7telugu.com",
     "213.159.214.86",
-    "217.12.218.158"
+    "217.12.218.158",
   ],
-  "s28": [
+  s28: [
     "stgg5jv6mqiibmax.torpoint.ch",
     "slagelse-maskinforretning.dk",
     "site1374499202.provisorio.ws",
@@ -25531,9 +25531,9 @@
     "sirtorito1.000webhostapp.com",
     "summercampforchambermusic.me",
     "sigurdsonperformanceauto.com",
-    "simperizinan.sragenkab.go.id"
+    "simperizinan.sragenkab.go.id",
   ],
-  "h18": [
+  h18: [
     "hiddenhandbags.com",
     "hightechavenue.com",
     "habitermieux08.org",
@@ -25586,9 +25586,9 @@
     "hotzombiecrush.com",
     "hrenner.gmxhome.de",
     "huduanjichuang.com",
-    "hirelocalchefs.com"
+    "hirelocalchefs.com",
   ],
-  "z11": [
+  z11: [
     "zenfree.net",
     "zhguycz.com",
     "zg-hose.xyz",
@@ -25613,9 +25613,9 @@
     "zdfnews.com",
     "zekoyun.com",
     "zhiwuba.com",
-    "ziskant.com"
+    "ziskant.com",
   ],
-  "111": [
+  111: [
     "1140746.net",
     "10xtask.com",
     "193.9.28.49",
@@ -25632,9 +25632,9 @@
     "185.86.78.3",
     "193.9.28.16",
     "1maximus.ru",
-    "198.1.95.93"
+    "198.1.95.93",
   ],
-  "f22": [
+  f22: [
     "freelancerepico.com.br",
     "fortalecergroup.com.br",
     "factoryfreeapparel.com",
@@ -25676,15 +25676,15 @@
     "fujrft.jumpingcrab.com",
     "forumbolaindonesia.com",
     "foreverlovinghands.com",
-    "frankincensesupply.com"
+    "frankincensesupply.com",
   ],
-  "e31": [
+  e31: [
     "elkanis-agribusinessblog.com.ng",
     "ebay-kleinanzeigen.de-users.com",
     "excellenceconstructiongroup.com",
-    "electriciannewcastleupontyne.uk"
+    "electriciannewcastleupontyne.uk",
   ],
-  "429": [
+  429: [
     "4kqd3hmqgptupi3p.inforcing.pw",
     "4kqd3hmqgptupi3p.bookjumps.us",
     "4kqd3hmqgptupi3p.metpast.site",
@@ -25702,9 +25702,9 @@
     "4kqd3hmqgptupi3p.nearlybut.us",
     "4kqd3hmqgptupi3p.stopsage.gdn",
     "4kqd3hmqgptupi3p.nextask.loan",
-    "4kqd3hmqgptupi3p.byeraser.lol"
+    "4kqd3hmqgptupi3p.byeraser.lol",
   ],
-  "x13": [
+  x13: [
     "xmhzh1235.com",
     "xyzstroe.site",
     "xiaojiaoup.cn",
@@ -25717,9 +25717,9 @@
     "xiiideath.com",
     "xinjichina.cn",
     "xiaodaoj.club",
-    "xiguacity.com"
+    "xiguacity.com",
   ],
-  "l23": [
+  l23: [
     "lightweightsolutions.co",
     "lienkebietthugamuda.com",
     "lacasadelgps2021.com.ve",
@@ -25747,9 +25747,9 @@
     "lowcostveterinarios.com",
     "localbusinessguides.com",
     "linkservers.duckdns.org",
-    "lanjaron.es.mialias.net"
+    "lanjaron.es.mialias.net",
   ],
-  "d25": [
+  d25: [
     "downloadscenter.pochta.ru",
     "durhamcityrunfestival.com",
     "dentalimplantslondon.info",
@@ -25768,9 +25768,9 @@
     "dj.kayamalimusavirlik.com",
     "dailyindustryresearch.com",
     "djakwi0129121ksls1229.com",
-    "demeidenchocolaensnoep.nl"
+    "demeidenchocolaensnoep.nl",
   ],
-  "e11": [
+  e11: [
     "ergo-eg.com",
     "epongolf.cn",
     "east-net.su",
@@ -25842,15 +25842,15 @@
     "ewscraj.com",
     "energy63.ru",
     "eynmyxa.com",
-    "edubloc.com"
+    "edubloc.com",
   ],
-  "x26": [
+  x26: [
     "xn--b1agpzh0e.xn--80adxhks",
     "xn--116-eddot8cge.xn--p1ai",
     "xn----8sbabrd9ajz.xn--p1ai",
-    "xn----htbybfcxh3h.xn--p1ai"
+    "xn----htbybfcxh3h.xn--p1ai",
   ],
-  "j16": [
+  j16: [
     "jessforkicks.com",
     "jayconnect.co.uk",
     "jieyilashedu.com",
@@ -25893,15 +25893,15 @@
     "journal.jltl.org",
     "jnanamandira.org",
     "jja210bbthb7.top",
-    "jacobthyssen.com"
+    "jacobthyssen.com",
   ],
-  "i34": [
+  i34: [
     "it-helpdeskadmin.000webhostapp.com",
     "infosecuritysako.000webhostapp.com",
     "inspiration-investment-group.co.uk",
-    "incremento-avance-en-tarjeta-cl.gq"
+    "incremento-avance-en-tarjeta-cl.gq",
   ],
-  "w25": [
+  w25: [
     "www.malzi.mynetcologne.de",
     "www.johnsonfashion.com.tw",
     "wordpress.dev.zhishiq.com",
@@ -25936,9 +25936,9 @@
     "whienz.privat.t-online.de",
     "wieselflinkpro.gmxhome.de",
     "www.mariefrancepochna.com",
-    "wog92bqzqg1m9j4i3.website"
+    "wog92bqzqg1m9j4i3.website",
   ],
-  "v25": [
+  v25: [
     "vinneydropmodorfosius.net",
     "velo2.mon-application.com",
     "vallei-elektrotechniek.nl",
@@ -25950,9 +25950,9 @@
     "vayu123.000webhostapp.com",
     "vinay29.000webhostapp.com",
     "virtualmachine22.ddns.net",
-    "venetianbanquetcentre.com"
+    "venetianbanquetcentre.com",
   ],
-  "m27": [
+  m27: [
     "manualquickbooksespanol.com",
     "mountgambiercatholic.org.au",
     "mbfce24rgn65bx3g.kye1ap.net",
@@ -25979,9 +25979,9 @@
     "mastercocacolavb6.hopto.org",
     "m.besthairsaloncolumbia.com",
     "mbfce24rgn65bx3g.l3by4d.com",
-    "mmeetalss.000webhostapp.com"
+    "mmeetalss.000webhostapp.com",
   ],
-  "o10": [
+  o10: [
     "oganiru.in",
     "owkcon.com",
     "ooliab.org",
@@ -26014,9 +26014,9 @@
     "ogricc.com",
     "onlylaw.ru",
     "ofm-it.com",
-    "oms.com.np"
+    "oms.com.np",
   ],
-  "g19": [
+  g19: [
     "gooogle.blackfriday",
     "garo903.web.fc2.com",
     "grupolaplace.com.br",
@@ -26074,15 +26074,15 @@
     "gardenoakshomes.com",
     "gabrielconde.com.uy",
     "goonwithmazerqq.com",
-    "gabrieldumortier.be"
+    "gabrieldumortier.be",
   ],
-  "n36": [
+  n36: [
     "nuevo-proyecto6915.000webhostapp.com",
     "nn54djhfnrnm4dnjnerfsd.replylaten.at",
     "newdiscoverclutch.discoverclutch.com",
-    "northcarolinaforeclosuresforsale.com"
+    "northcarolinaforeclosuresforsale.com",
   ],
-  "w27": [
+  w27: [
     "wjtqjleommc4z46i.54vw9b.bid",
     "wjtqjleommc4z46i.t4jp3w.bid",
     "wjtqjleommc4z46i.35u068.bid",
@@ -26177,9 +26177,9 @@
     "wjtqjleommc4z46i.2y4t6f.bid",
     "www.schwarzer-baer-kastl.de",
     "wjtqjleommc4z46i.5r1sol.bid",
-    "wjtqjleommc4z46i.hom07d.bid"
+    "wjtqjleommc4z46i.hom07d.bid",
   ],
-  "h29": [
+  h29: [
     "hanoman4455.000webhostapp.com",
     "harrisonbradleyassociates.com",
     "hooktronic1.000webhostapp.com",
@@ -26187,9 +26187,9 @@
     "hyderabadmoversandpackers.com",
     "hitmanisbackfuckyou.hopto.org",
     "hoteleseconomicosacapulco.com",
-    "hafsayasmin.000webhostapp.com"
+    "hafsayasmin.000webhostapp.com",
   ],
-  "k13": [
+  k13: [
     "karens.com.au",
     "kiandoors.com",
     "kaprezw03.top",
@@ -26269,9 +26269,9 @@
     "kiototan.site",
     "koenphoto.com",
     "kapreja09.top",
-    "kraskileto.ru"
+    "kraskileto.ru",
   ],
-  "315": [
+  315: [
     "3asker.ddns.net",
     "38seventeen.com",
     "3dsharpedge.com",
@@ -26279,9 +26279,9 @@
     "3drendering.net",
     "37kddsserrt.xyz",
     "3d-schilling.de",
-    "3amo7y.ddns.net"
+    "3amo7y.ddns.net",
   ],
-  "l10": [
+  l10: [
     "linkset.ro",
     "luxcasa.pt",
     "lukluk.net",
@@ -26355,9 +26355,9 @@
     "ledbest.ru",
     "lsdoor.net",
     "lokvrtz.ga",
-    "lis-lb.com"
+    "lis-lb.com",
   ],
-  "n10": [
+  n10: [
     "naked3.com",
     "nicnel.com",
     "njhtpj.com",
@@ -26408,15 +26408,15 @@
     "notspam.ml",
     "nuoque.com",
     "njlsyb.com",
-    "nkem80.com"
+    "nkem80.com",
   ],
-  "327": [
+  327: [
     "3dproaudio.abqwebdesign.net",
     "3qbyaoohkcqkzrz6.tordoor.li",
     "3qbyaoohkcqkzrz6.torgate.es",
-    "3qbyaoohkcqkzrz6.tormain.li"
+    "3qbyaoohkcqkzrz6.tormain.li",
   ],
-  "n25": [
+  n25: [
     "notstromer.wp-goodies.com",
     "nxtbase.hashtagvisual.com",
     "njahmedzero2002.hopto.org",
@@ -26424,9 +26424,9 @@
     "nikotsu.000webhostapp.com",
     "naijaclockwiseconcept.com",
     "new.invisiblecreations.nl",
-    "nompareilleproductions.fr"
+    "nompareilleproductions.fr",
   ],
-  "i30": [
+  i30: [
     "intercambiotestg99.duckdns.org",
     "ishinomakicatering.web.fc2.com",
     "icitius33xxx10314522289466.com",
@@ -26434,9 +26434,9 @@
     "info.corp.zergaphonetronic.org",
     "isabellepeng.000webhostapp.com",
     "is45wdsed4455sdfsf.duckdns.org",
-    "imageprostyle-communication.fr"
+    "imageprostyle-communication.fr",
   ],
-  "213": [
+  213: [
     "217.172.226.2",
     "217.12.199.94",
     "2kindustri.se",
@@ -26445,9 +26445,9 @@
     "212.26.129.68",
     "217.12.199.90",
     "217.26.70.200",
-    "212.47.223.19"
+    "212.47.223.19",
   ],
-  "i11": [
+  i11: [
     "introfm.com",
     "interabc.nl",
     "icairjy.org",
@@ -26522,9 +26522,9 @@
     "incogra.com",
     "incgoin.com",
     "itm2012.com",
-    "inovsol.com"
+    "inovsol.com",
   ],
-  "c26": [
+  c26: [
     "clipingpathassociatebd.com",
     "celebtravelandevents.co.za",
     "casamentoparasempre.com.br",
@@ -26549,9 +26549,9 @@
     "credit-nevoi-personale.com",
     "chalets4saisonsauquebec.ca",
     "centralparts.strix.website",
-    "carbonlooptechnologies.com"
+    "carbonlooptechnologies.com",
   ],
-  "c16": [
+  c16: [
     "concern-block.ru",
     "cieslakwz.cba.pl",
     "chersoicryss.com",
@@ -26658,9 +26658,9 @@
     "canoninstant.com",
     "chernozem-msk.ru",
     "crack-attack.net",
-    "crestailiaca.com"
+    "crestailiaca.com",
   ],
-  "a28": [
+  a28: [
     "awasayblog.000webhostapp.com",
     "anthinhland.onlinenhadat.net",
     "allstarsareshiningdreams.com",
@@ -26679,10 +26679,10 @@
     "activate-americanexpress.com",
     "arportfolio.rahmanmahbub.com",
     "awal122182.000webhostapp.com",
-    "atelierprincesse.web.fc2.com"
+    "atelierprincesse.web.fc2.com",
   ],
-  "811": ["8poverh.com", "89.145.78.9"],
-  "l25": [
+  811: ["8poverh.com", "89.145.78.9"],
+  l25: [
     "lt.kayamalimusavirlik.com",
     "localaffordableroofer.com",
     "limpiezamecanizada.com.mx",
@@ -26698,9 +26698,9 @@
     "lesecuries-du-masdigau.fr",
     "littleredcrane.50webs.com",
     "love3513love3513.ddns.net",
-    "livingdivineprinciple.org"
+    "livingdivineprinciple.org",
   ],
-  "j24": [
+  j24: [
     "janzwolinski.freehost.pl",
     "jlckey.000webhostapp.com",
     "jdjjegellowd.duckdns.org",
@@ -26714,9 +26714,9 @@
     "jaypapiworksndphoes.site",
     "jbfacilitymanagement.net",
     "jishalgoanrestaurant.com",
-    "jeaxiuorfkxpmibophev.com"
+    "jeaxiuorfkxpmibophev.com",
   ],
-  "e23": [
+  e23: [
     "embalagememgeral.com.br",
     "earthandsoulpottery.com",
     "elearnconsulting.com.au",
@@ -26734,9 +26734,9 @@
     "easykill1.servepics.com",
     "embratel21.home.sapo.pt",
     "egresswindowsystems.com",
-    "ewadeliciousrecipes.xyz"
+    "ewadeliciousrecipes.xyz",
   ],
-  "j18": [
+  j18: [
     "jennypestanita.com",
     "jerseyoffers.co.uk",
     "jonathanfield0.com",
@@ -26769,9 +26769,9 @@
     "jymhmkdaxfbl.click",
     "jadityaieelyse.com",
     "joeing.duckdns.org",
-    "jeremyferreira.com"
+    "jeremyferreira.com",
   ],
-  "v19": [
+  v19: [
     "veulalmffyy.company",
     "victoryseminary.com",
     "vaddesobhanadri.com",
@@ -26796,9 +26796,9 @@
     "veredictofutbol.com",
     "vymarsky-ohar.wz.cz",
     "vedasrestaurant.com",
-    "vesidailucachau.com"
+    "vesidailucachau.com",
   ],
-  "b22": [
+  b22: [
     "billiard.design-ekb.ru",
     "bestphotographytnj.com",
     "bpost-pakketservice.su",
@@ -26849,9 +26849,9 @@
     "boilersandfurnaces.com",
     "blanquerna.eresmas.net",
     "bucketlistadvtours.com",
-    "blog.regenera23.com.br"
+    "blog.regenera23.com.br",
   ],
-  "o23": [
+  o23: [
     "office.orangewebdev.com",
     "ozendustriyelservis.com",
     "omnibeesweb01.hopto.org",
@@ -26866,24 +26866,24 @@
     "online-docu-sign-st.com",
     "onlinepregnancycare.com",
     "onlycocktaildresses.com",
-    "ondeviesurgut.myjino.ru"
+    "ondeviesurgut.myjino.ru",
   ],
-  "413": [
+  413: [
     "45.55.192.133",
     "46.183.165.45",
     "4gstartup.com",
     "4djsbydjs.com",
     "46.165.253.93",
     "4freemovie.gq",
-    "4732632.press"
+    "4732632.press",
   ],
-  "p7": ["pool.ug", "pbna.eu", "pjks.in", "pyna.in", "pyou.cf", "pd2i.pw"],
-  "y31": [
+  p7: ["pool.ug", "pbna.eu", "pjks.in", "pyna.in", "pyou.cf", "pd2i.pw"],
+  y31: [
     "yourimagination.angelcities.com",
     "youmortalsknownothingofmagic.pw",
-    "yourmailamazon99.redirectme.net"
+    "yourmailamazon99.redirectme.net",
   ],
-  "y16": [
+  y16: [
     "yebarishpani.com",
     "yachtlifellc.com",
     "youhaoyouduo.com",
@@ -26908,9 +26908,9 @@
     "yuyinshejiao.com",
     "yagooglepbgo.xyz",
     "yaldizmatbaa.com",
-    "youthjobs.com.au"
+    "youthjobs.com.au",
   ],
-  "g26": [
+  g26: [
     "groundedforyoungpeople.com",
     "gahtt9j6.cnhornebakery.com",
     "guerrilla-marketing.com.sg",
@@ -26926,9 +26926,9 @@
     "godloveorphanageandngo.com",
     "greatlakessurveillance.com",
     "greatvacationgiveaways.com",
-    "glamoroushairextension.com"
+    "glamoroushairextension.com",
   ],
-  "t12": [
+  t12: [
     "top-sso3.top",
     "tymelprof.ru",
     "taxngain.com",
@@ -27056,9 +27056,9 @@
     "ttte.website",
     "tripolli.com",
     "trunganh.xyz",
-    "tutmacli.com"
+    "tutmacli.com",
   ],
-  "p25": [
+  p25: [
     "psychicastrobangalore.com",
     "pontevedrabeachsports.com",
     "pp4_09_10_2s.republika.pl",
@@ -27075,9 +27075,9 @@
     "proservicegaragedoors.com",
     "partnershipflooring.co.uk",
     "pratidiner-bangladesh.com",
-    "pracomecarmusicbar.com.br"
+    "pracomecarmusicbar.com.br",
   ],
-  "r11": [
+  r11: [
     "ratamodu.ga",
     "rohani7.com",
     "rockrak.com",
@@ -27145,9 +27145,9 @@
     "rbcfort.com",
     "ramiaziz.se",
     "reefclub.ru",
-    "restauco.fr"
+    "restauco.fr",
   ],
-  "z15": [
+  z15: [
     "zdrowie-blog.pl",
     "zeyadigital.com",
     "zarya-ua.com.ua",
@@ -27169,9 +27169,9 @@
     "zidanmeubel.com",
     "zp1.duckdns.org",
     "zestardshop.com",
-    "zhongyijing.com"
+    "zhongyijing.com",
   ],
-  "v12": [
+  v12: [
     "vinyamars.sk",
     "vicampro.com",
     "voizplus.com",
@@ -27215,21 +27215,21 @@
     "vinfofix.com",
     "vn-toupo.com",
     "vshopbuy.com",
-    "vspmscop.org"
+    "vspmscop.org",
   ],
-  "u32": [
+  u32: [
     "uveous-surveys.000webhostapp.com",
     "uppervalleyrainbowconnection.com",
     "uedawoooinimoriageru.web.fc2.com",
-    "unocl45trpuoefft.moonsides.faith"
+    "unocl45trpuoefft.moonsides.faith",
   ],
-  "j31": [
+  j31: [
     "joinjohndoeit.000webhostapp.com",
     "jackspatelweb.000webhostapp.com",
-    "jenikamike754.000webhostapp.com"
+    "jenikamike754.000webhostapp.com",
   ],
-  "d41": ["desinstalacion.deletebrowserinfection.com"],
-  "d21": [
+  d41: ["desinstalacion.deletebrowserinfection.com"],
+  d21: [
     "davidcandy.website.pl",
     "dhlexpressdeliver.com",
     "dansofconsultancy.com",
@@ -27275,9 +27275,9 @@
     "dsdjfhd9ddksa1as.info",
     "doisongvaconnguoi.com",
     "divakurutemizleme.com",
-    "datamicrotransfer.com"
+    "datamicrotransfer.com",
   ],
-  "s32": [
+  s32: [
     "stdynbnbtwodebateqmp.duckdns.org",
     "suppourt12.confrim-fanpage111.gq",
     "stalkeronline1.000webhostapp.com",
@@ -27290,9 +27290,9 @@
     "shop.theglobalbeautygroup.com.au",
     "support232.confrim-fanpage111.ga",
     "santuarioaparecidamontese.com.br",
-    "serverstresstestgood.duckdns.org"
+    "serverstresstestgood.duckdns.org",
   ],
-  "j11": [
+  j11: [
     "jculley.com",
     "jinfoto.com",
     "jem-111.com",
@@ -27330,9 +27330,9 @@
     "juengert.de",
     "jazzcafe.ge",
     "joarley.com",
-    "jsbspod.com"
+    "jsbspod.com",
   ],
-  "s27": [
+  s27: [
     "salimjoker19911991.ddns.net",
     "southsideregeneration.co.uk",
     "seikeiradioclub.web.fc2.com",
@@ -27359,9 +27359,9 @@
     "system-update.serveuser.com",
     "serves.paypal.dargoogle.com",
     "sys.admin.log.burgermen.org",
-    "st11llers.000webhostapp.com"
+    "st11llers.000webhostapp.com",
   ],
-  "w10": [
+  w10: [
     "wflife.net",
     "wv-meat.nl",
     "wbksis.com",
@@ -27388,10 +27388,10 @@
     "waraly.com",
     "webliu.top",
     "wttxt.info",
-    "wagisz.com"
+    "wagisz.com",
   ],
-  "y26": ["yogeshwaranphotography.com", "yukselofficial.duckdns.org"],
-  "o9": [
+  y26: ["yogeshwaranphotography.com", "yukselofficial.duckdns.org"],
+  o9: [
     "ownetr.ru",
     "oryano.us",
     "oil-dt.ru",
@@ -27408,9 +27408,9 @@
     "ouae.info",
     "olmaa.org",
     "osiq.club",
-    "onebiz.cl"
+    "onebiz.cl",
   ],
-  "x9": [
+  x9: [
     "xz26c.xyz",
     "xapk1.top",
     "xoot.host",
@@ -27430,9 +27430,9 @@
     "xgmkj.com",
     "xhvoc.com",
     "xyego.com",
-    "xcvzxf.ru"
+    "xcvzxf.ru",
   ],
-  "l16": [
+  l16: [
     "leakaryadeen.com",
     "litecoinearn.xyz",
     "log.dogepay.info",
@@ -27490,9 +27490,9 @@
     "lanzensberger.de",
     "lookatmenaaaa.tk",
     "land-atlanta.net",
-    "laytonhubble.com"
+    "laytonhubble.com",
   ],
-  "r25": [
+  r25: [
     "residencelesarchanges.com",
     "retirementscholarship.com",
     "refikkorkmazmucizeler.com",
@@ -27506,9 +27506,9 @@
     "royaltyofchristkiddes.com",
     "radheenterpriseonline.com",
     "recadrastramentofacil.com",
-    "rathead.chickenkiller.com"
+    "rathead.chickenkiller.com",
   ],
-  "e24": [
+  e24: [
     "emobilenumbertracker.com",
     "emyrs-eg.lehmergroup.com",
     "escuelaunosanagustin.com",
@@ -27525,9 +27525,9 @@
     "evolutionstaffingllp.com",
     "essenciadoequilibrio.net",
     "er-mecanicautomotriz.com",
-    "ecommercepartners.com.au"
+    "ecommercepartners.com.au",
   ],
-  "h9": [
+  h9: [
     "htcpi.org",
     "hdtnet.cn",
     "hgm.world",
@@ -27556,9 +27556,9 @@
     "hfhhk.com",
     "hypme.org",
     "hsrvn.com",
-    "hmbre.com"
+    "hmbre.com",
   ],
-  "e27": [
+  e27: [
     "ertfjgcjfkgkkgvkgkfdxcfc.cf",
     "etivatlegrawagrangun.online",
     "eternallyclassicjewelry.com",
@@ -27569,9 +27569,9 @@
     "everythingguinevereapps.com",
     "e2b8u3v8.map2.ssl.hwcdn.net",
     "eljokerhacking3215.ddns.net",
-    "evergreenschoolskatsina.com"
+    "evergreenschoolskatsina.com",
   ],
-  "z21": [
+  z21: [
     "z1n.000webhostapp.com",
     "zaferaniyehcenter.com",
     "zui9reica.web.fc2.com",
@@ -27581,14 +27581,14 @@
     "zagrosenergygroup.com",
     "zckupila.republika.pl",
     "zoomtechnology.com.pk",
-    "zonnestroomtilburg.nl"
+    "zonnestroomtilburg.nl",
   ],
-  "j25": [
+  j25: [
     "janavenanciomakeup.com.br",
     "jhomitevd2abj3fk.onion.to",
-    "jvelizg.vtrbandaancha.net"
+    "jvelizg.vtrbandaancha.net",
   ],
-  "m26": [
+  m26: [
     "mexalzzy.000webhostapp.com",
     "mboavision.rodevdesign.com",
     "medicinaesteticaferrara.it",
@@ -27611,9 +27611,9 @@
     "microsoft23-uslive4.online",
     "minimalprojectscm.ddns.net",
     "maheswaritourandtravel.com",
-    "munosi.bharatbioscience.in"
+    "munosi.bharatbioscience.in",
   ],
-  "w28": [
+  w28: [
     "www.chocolaterie-servant.com",
     "www.vakantiehuisjeameland.nl",
     "www.spiritueelcentrumaum.net",
@@ -27639,22 +27639,22 @@
     "warryotrisjmsolvlmsf.website",
     "www.simons-vakantiehuisje.nl",
     "www.healthstafftravel.com.au",
-    "windshieldrepairvancouver.ca"
+    "windshieldrepairvancouver.ca",
   ],
-  "w32": [
+  w32: [
     "wildrabbitsalad.brenzdigital.com",
     "worldclassfreelancemarketing.com",
     "windowcleaningfortlauderdale.com",
     "www.instalacionesjosearteaga.com",
     "weloveplayinggames.servegame.com",
-    "warrning-fanpa9e1.securittty4.tk"
+    "warrning-fanpa9e1.securittty4.tk",
   ],
-  "i35": [
+  i35: [
     "integrativenutritionaltherapies.com",
     "investigadoresforenses-abcjuris.com",
-    "intranet.nantucketislandresorts.com"
+    "intranet.nantucketislandresorts.com",
   ],
-  "q13": [
+  q13: [
     "qtawaffle.com",
     "qiwi-api.site",
     "qyhalle44.com",
@@ -27674,9 +27674,9 @@
     "quitricks.com",
     "qqtphtlhny.pw",
     "qdweierya.com",
-    "qinglv999.com"
+    "qinglv999.com",
   ],
-  "n23": [
+  n23: [
     "next.lesvideosjaunes.eu",
     "nogizaka46democracy.com",
     "npokosumosu.web.fc2.com",
@@ -27688,19 +27688,19 @@
     "nlazovic.mybesthost.com",
     "ntmovingmississauga.com",
     "nexus001.loseyourip.com",
-    "newculturemediablog.com"
+    "newculturemediablog.com",
   ],
-  "16": ["11n.us", "151.ru"],
-  "b30": [
+  16: ["11n.us", "151.ru"],
+  b30: [
     "bikepaintpureworks.web.fc2.com",
     "barenaturalhealthandbeauty.com",
     "brittany-crepesandgalettes.com",
     "blog.arquitetofabiopalheta.com",
     "bramantio727.000webhostapp.com",
     "basest-rooms.000webhostapp.com",
-    "baer-afc2.homepage.t-online.de"
+    "baer-afc2.homepage.t-online.de",
   ],
-  "z18": [
+  z18: [
     "zoom-machinery.com",
     "zuerich-gewerbe.ch",
     "zoologiczny.cba.pl",
@@ -27712,9 +27712,9 @@
     "zhizunwangchao.com",
     "zanga.bounceme.net",
     "zantechcorp.online",
-    "zemlya.web.fc2.com"
+    "zemlya.web.fc2.com",
   ],
-  "o11": [
+  o11: [
     "offorplc.eu",
     "ongerdb.net",
     "ocenidtp.ru",
@@ -27753,9 +27753,9 @@
     "odili12.com",
     "off335.info",
     "oushode.com",
-    "ocpgroup.me"
+    "ocpgroup.me",
   ],
-  "k21": [
+  k21: [
     "konsultanasuransi.com",
     "king-businesssell.top",
     "karisaba.dousetsu.com",
@@ -27777,9 +27777,9 @@
     "karinschacht.addr.com",
     "krypticonrat.ddns.net",
     "kobac-takamatsu01.com",
-    "kobac-kawaguchi01.com"
+    "kobac-kawaguchi01.com",
   ],
-  "z10": [
+  z10: [
     "zdone.site",
     "zenuke.com",
     "zurrmax.de",
@@ -27812,16 +27812,16 @@
     "zilton.com",
     "zixrk.site",
     "znapapp.ae",
-    "zeronde.in"
+    "zeronde.in",
   ],
-  "145": [
+  145: [
     "10022020tostest371-service1002012510022020.ru",
     "10022020yomtest251-service1002012510022020.ru",
     "10022020yirtest231-service1002012510022020.ru",
-    "10022020newfolder1002002131-service1002.space"
+    "10022020newfolder1002002131-service1002.space",
   ],
-  "y38": ["ytrest84y5i456hghadefdsd.pontogrot.com"],
-  "t26": [
+  y38: ["ytrest84y5i456hghadefdsd.pontogrot.com"],
+  t26: [
     "tanujatatkephotography.com",
     "techiee9.000webhostapp.com",
     "thegoodlifeintheborros.com",
@@ -27839,9 +27839,9 @@
     "twbers4hmi6dc65f.onion.cab",
     "testkondostone.web.fc2.com",
     "trangphucbieudienyenle.com",
-    "totaltabel.sslblindado.com"
+    "totaltabel.sslblindado.com",
   ],
-  "r21": [
+  r21: [
     "radiodetali-skupka.ru",
     "reklamnibannery.wz.cz",
     "riversidehoanghuy.com",
@@ -27881,15 +27881,15 @@
     "riyanshoppingbags.com",
     "raliiletradings.co.za",
     "rietdekker-brabant.nl",
-    "russellbedford.com.my"
+    "russellbedford.com.my",
   ],
-  "i31": [
+  i31: [
     "intracorpwestsidecollection.com",
     "innercityarts.squaremdesign.com",
-    "info112kff198.000webhostapp.com"
+    "info112kff198.000webhostapp.com",
   ],
-  "q32": ["quimicaindustrialsolidaridad.com"],
-  "k25": [
+  q32: ["quimicaindustrialsolidaridad.com"],
+  k25: [
     "krypticon9332.duckdns.org",
     "karolinadrzewiecka.cba.pl",
     "kalkashimlataxiservice.in",
@@ -27901,18 +27901,18 @@
     "klimaanlagetorrevieja.com",
     "krizasrednjihgodina.in.rs",
     "kensingtonhotelsuites.com",
-    "kualalumpurspecialist.org"
+    "kualalumpurspecialist.org",
   ],
-  "w7": [
+  w7: [
     "wmcs.pl",
     "wupx.ml",
     "wcfm.ca",
     "wklm.it",
     "waly.pl",
     "wwwa.su",
-    "wsus.ga"
+    "wsus.ga",
   ],
-  "k9": [
+  k9: [
     "konet.org",
     "kh2.co.uk",
     "kypsuw.pw",
@@ -27962,17 +27962,17 @@
     "kty58.com",
     "kuliku.tk",
     "kdhema.ml",
-    "konvex.eu"
+    "konvex.eu",
   ],
-  "x32": [
+  x32: [
     "xn----7sbabhunvce3a4ezb.xn--p1ai",
     "xn--12cg2c0cab8bb6azevgg3a9k.com",
     "xn--19-6kcatahwd3a3au6a.xn--p1ai",
     "xn--90achbqoo0ahef9czcb.xn--p1ai",
     "xn--80ajjchqepikd1b.xn--80asehdb",
-    "xn--80akackgdchp7bcf0au.xn--p1ai"
+    "xn--80akackgdchp7bcf0au.xn--p1ai",
   ],
-  "c29": [
+  c29: [
     "condominioparquesanantonio.cl",
     "cc.divineconnectionprop.co.za",
     "czerwinski.ciesielstwo.cba.pl",
@@ -27988,22 +27988,22 @@
     "controldeplagasformentera.com",
     "clinicabrunomontenegro.com.br",
     "confrim-supoort1.regist3r2.tk",
-    "californiaautoinsurancehq.org"
+    "californiaautoinsurancehq.org",
   ],
-  "c6": ["cmt.ro", "cym.pe", "cwv.cc", "cli.gs"],
-  "m35": [
+  c6: ["cmt.ro", "cym.pe", "cwv.cc", "cli.gs"],
+  m35: [
     "mail008.appleid-appstore-signin.com",
     "missourisolarenergycontractors.info",
-    "magnoliathomas799.000webhostapp.com"
+    "magnoliathomas799.000webhostapp.com",
   ],
-  "f30": [
+  f30: [
     "forhealthatividadesfisicas.com",
     "flashplayer-adobeplugin.a-d.me",
     "fanpagee.find-news-register.gq",
     "ftp.bergamo.chiesacattolica.it",
-    "first1231eqw.000webhostapp.com"
+    "first1231eqw.000webhostapp.com",
   ],
-  "t8": [
+  t8: [
     "tengu.cf",
     "telae.eu",
     "takr.xyz",
@@ -28020,9 +28020,9 @@
     "tocsm.ru",
     "ta-ca.fr",
     "topfs.ru",
-    "tybor.hu"
+    "tybor.hu",
   ],
-  "h23": [
+  h23: [
     "hyker.000webhostapp.com",
     "howtosucceed.tripod.com",
     "hamersleynetball.com.au",
@@ -28047,9 +28047,9 @@
     "hamptonapartmentsgy.com",
     "hokkori-hyoutanjima.com",
     "hirabayashi-balance.com",
-    "hellomisterbiznesqq.com"
+    "hellomisterbiznesqq.com",
   ],
-  "z19": [
+  z19: [
     "zarabotaina.yomu.ru",
     "zaimingfangchan.com",
     "zarexbytonia.cba.pl",
@@ -28060,10 +28060,10 @@
     "ziliboba45265.ac.ug",
     "zevarcreation.co.uk",
     "zaffronpakistan.com",
-    "zovermedical.com.sa"
+    "zovermedical.com.sa",
   ],
-  "716": ["777global.online"],
-  "813": [
+  716: ["777global.online"],
+  813: [
     "83.217.25.239",
     "81.177.26.201",
     "8004print.com",
@@ -28088,9 +28088,9 @@
     "89.108.83.196",
     "83.217.11.191",
     "89.108.84.132",
-    "84.19.170.244"
+    "84.19.170.244",
   ],
-  "512": [
+  512: [
     "5.79.106.152",
     "5.196.99.239",
     "5.34.183.136",
@@ -28102,9 +28102,9 @@
     "51.255.105.2",
     "53-update.eu",
     "5.34.183.195",
-    "5.34.180.135"
+    "5.34.180.135",
   ],
-  "y12": [
+  y12: [
     "yaopuwang.cn",
     "yallagul.com",
     "yromszady.cf",
@@ -28127,9 +28127,9 @@
     "yditrust.org",
     "yukmapan.com",
     "yessyber.com",
-    "youyouwj.com"
+    "youyouwj.com",
   ],
-  "v17": [
+  v17: [
     "vario-reducer.com",
     "vote4congress.com",
     "vpnchjuy.ddns.net",
@@ -28172,9 +28172,9 @@
     "vanyt.duckdns.org",
     "vote2024trump.com",
     "vidalgesso.com.br",
-    "vemaybaythuha.com"
+    "vemaybaythuha.com",
   ],
-  "f8": [
+  f8: [
     "fixxo.nl",
     "fnmsk.ru",
     "femto.pw",
@@ -28185,9 +28185,9 @@
     "fbs33.ru",
     "f9it.com",
     "filto.ml",
-    "ferys.ru"
+    "ferys.ru",
   ],
-  "n11": [
+  n11: [
     "nickptt.com",
     "nosmenu.com",
     "namapak.com",
@@ -28252,14 +28252,14 @@
     "nofex.pp.ua",
     "nkap.global",
     "nxtdort.com",
-    "notoraz.com"
+    "notoraz.com",
   ],
-  "l29": [
+  l29: [
     "lorain77.mystagingwebsite.com",
     "lemasc.hotrogoogleadwords.com",
-    "lfc-aglan91.000webhostapp.com"
+    "lfc-aglan91.000webhostapp.com",
   ],
-  "p23": [
+  p23: [
     "performancevitality.net",
     "precisionmechanical.org",
     "penambahberatbadan.info",
@@ -28302,17 +28302,17 @@
     "preownedteslamodely.com",
     "poslovnekomunikacije.si",
     "peruorganiconatural.com",
-    "proyectosunicor-men.com"
+    "proyectosunicor-men.com",
   ],
-  "48": ["4mm.site", "40ad.com", "4kmj.com", "4up4.com", "4ps.club"],
-  "c32": [
+  48: ["4mm.site", "40ad.com", "4kmj.com", "4up4.com", "4ps.club"],
+  c32: [
     "cybersecurityforyourbusiness.com",
     "companieshouseonlinedownload.com",
     "chaireunescodebioethique-uao.com",
     "corporationmicrosoft.duckdns.org",
-    "catalogovehiculos.dercocenter.cl"
+    "catalogovehiculos.dercocenter.cl",
   ],
-  "913": [
+  913: [
     "91.237.247.24",
     "95.181.171.58",
     "91.247.37.137",
@@ -28347,9 +28347,9 @@
     "91.211.119.98",
     "91.234.32.192",
     "91.226.93.113",
-    "93.170.123.60"
+    "93.170.123.60",
   ],
-  "j17": [
+  j17: [
     "jake1234.ddns.net",
     "jk-lubricants.com",
     "jahanexchange.com",
@@ -28394,9 +28394,9 @@
     "jesesmobileac.com",
     "jsvshipping.co.in",
     "jmetalloysllp.com",
-    "jyoe91alverta.top"
+    "jyoe91alverta.top",
   ],
-  "912": [
+  912: [
     "91.209.77.86",
     "91.223.88.50",
     "91damimi.com",
@@ -28426,13 +28426,10 @@
     "91.219.31.14",
     "92.63.87.134",
     "9jabliss.com",
-    "91.203.5.145"
+    "91.203.5.145",
   ],
-  "432": [
-    "4kqd3hmqgptupi3p.bigfooters.loan",
-    "4kqd3hmqgptupi3p.sentowing.trade"
-  ],
-  "o16": [
+  432: ["4kqd3hmqgptupi3p.bigfooters.loan", "4kqd3hmqgptupi3p.sentowing.trade"],
+  o16: [
     "omarelbalshy.com",
     "otwayorchard.net",
     "osiedle-polna.pl",
@@ -28480,9 +28477,9 @@
     "octoplustech.com",
     "omeaswslhgdw.xyz",
     "oftal.nichost.ru",
-    "offsolo-gbb.tech"
+    "offsolo-gbb.tech",
   ],
-  "e7": [
+  e7: [
     "eoce.ga",
     "ecpi.ro",
     "eeda.tn",
@@ -28492,9 +28489,9 @@
     "eoce.cf",
     "eptq.kz",
     "egda.pl",
-    "emms.ro"
+    "emms.ro",
   ],
-  "y19": [
+  y19: [
     "youronlinempire.com",
     "yeniyuzyillions.org",
     "yamanashi-jyujin.jp",
@@ -28506,9 +28503,9 @@
     "yakuplucilingir.com",
     "yduocbinhthuan.info",
     "yensaogianguyen.com",
-    "yaynawvtuqcarjwc.pw"
+    "yaynawvtuqcarjwc.pw",
   ],
-  "f26": [
+  f26: [
     "fleurs-cannabis-france.com",
     "festivalguy.bravepages.com",
     "ferramentariamorais.com.br",
@@ -28517,9 +28514,9 @@
     "farmasibitkiselurunler.com",
     "fornalhadoabencoado.com.br",
     "francescoeillupo.magix.net",
-    "first-paris-properties.com"
+    "first-paris-properties.com",
   ],
-  "v21": [
+  v21: [
     "vectto.bunkernet.club",
     "vyroba-plotov-bran.sk",
     "valdemarincapital.com",
@@ -28538,10 +28535,10 @@
     "virtualadmissions.com",
     "virtualcard.brunst.dk",
     "veteran-volley.com.ua",
-    "vedicaadarshkulam.org"
+    "vedicaadarshkulam.org",
   ],
-  "o39": ["oehknf74ohqlfnpq9rhfgcq93g.hateflux.com"],
-  "p28": [
+  o39: ["oehknf74ohqlfnpq9rhfgcq93g.hateflux.com"],
+  p28: [
     "piaristesafriquecentrale.org",
     "peopleinmotion.datasenter.no",
     "pillorydowncommercials.co.uk",
@@ -28552,14 +28549,14 @@
     "portalcafecomnoticias.com.br",
     "pandora-jewelry-clearance.us",
     "psicologiadellaudiovisivo.it",
-    "politinsky.000webhostapp.com"
+    "politinsky.000webhostapp.com",
   ],
   "022": [
     "03284db.netsolhost.com",
     "01ad681.netsolhost.com",
-    "03991ce.netsolhost.com"
+    "03991ce.netsolhost.com",
   ],
-  "r7": [
+  r7: [
     "rdyy.cn",
     "raje.dk",
     "ruki.ro",
@@ -28567,9 +28564,9 @@
     "rbwm.ru",
     "root.ug",
     "rowv.us",
-    "rzai.ru"
+    "rzai.ru",
   ],
-  "w8": [
+  w8: [
     "wanfm.nl",
     "wh-4.com",
     "welte.pl",
@@ -28582,9 +28579,9 @@
     "wt4.club",
     "wimaj.pl",
     "werix.sk",
-    "wedrr.ga"
+    "wedrr.ga",
   ],
-  "p26": [
+  p26: [
     "proteccionydefensassdi.com",
     "pressonconstructioninc.com",
     "poshinternationalmedia.com",
@@ -28601,10 +28598,10 @@
     "personalspanishclasses.com",
     "portlandcreativestudio.com",
     "pharmacie-joffre-toulon.fr",
-    "presidenthotelthailand.com"
+    "presidenthotelthailand.com",
   ],
-  "q6": ["qzp.me", "qe7.ca"],
-  "m24": [
+  q6: ["qzp.me", "qe7.ca"],
+  m24: [
     "mundotecnologiasolar.com",
     "magento.neagoeandrei.com",
     "manchestergardensllc.com",
@@ -28643,9 +28640,9 @@
     "mauirealestatecareer.com",
     "montediprocidacalcio.com",
     "microcontroller-cafe.com",
-    "megaterabitessfile.space"
+    "megaterabitessfile.space",
   ],
-  "j21": [
+  j21: [
     "jedecouvrelemaroc.com",
     "jalvarshaborewell.com",
     "jessiisda.duckdns.org",
@@ -28662,10 +28659,10 @@
     "jardinmisamiguitos.cl",
     "justanotherguy.online",
     "joplinglobeonline.com",
-    "joinit.ns13-wistee.fr"
+    "joinit.ns13-wistee.fr",
   ],
-  "416": ["43nutrientes.com", "4.program-iq.com"],
-  "x24": [
+  416: ["43nutrientes.com", "4.program-iq.com"],
+  x24: [
     "xn--80ajcz5a1dp.xn--p1ai",
     "xrldobjttlwsixfyxote.com",
     "xn--174-mdd9c4b.xn--p1ai",
@@ -28676,10 +28673,10 @@
     "xbcfxmfmjqstjiocvrni.com",
     "xn--b1afonddk2l.xn--p1ai",
     "xayawoeprqvgkjlxxwcy.com",
-    "xn--o3cafudv5hceh20a.com"
+    "xn--o3cafudv5hceh20a.com",
   ],
-  "x31": ["xn----etbgbwdhbuf3am6n.xn--p1ai"],
-  "i20": [
+  x31: ["xn----etbgbwdhbuf3am6n.xn--p1ai"],
+  i20: [
     "ilovemyself.ddns.net",
     "indiatouronwheel.com",
     "innovationcircle.com",
@@ -28724,20 +28721,20 @@
     "idntgiveafck.website",
     "ivestproperty.com.au",
     "impulsefittness.info",
-    "iesjaumei.edu.gva.es"
+    "iesjaumei.edu.gva.es",
   ],
-  "s52": [
+  s52: [
     "stdy2antipiracydetectorganisationforfilm.duckdns.org",
     "shgshgsndynationalindustrialandgoogledns.duckdns.org",
-    "sndy2kungglobalinvestmentgooglednsaddres.duckdns.org"
+    "sndy2kungglobalinvestmentgooglednsaddres.duckdns.org",
   ],
-  "x34": [
+  x34: [
     "xn----7sbbae3bn0bphij.xn--80adxhks",
     "xn--20-1b4aw96kpbsw7pflpnd651j.xyz",
     "xn--40-1b4aw96kpbsw7pflpnd651j.xyz",
-    "xn--lckualb2a5j3cymb6854r9e7a.site"
+    "xn--lckualb2a5j3cymb6854r9e7a.site",
   ],
-  "n20": [
+  n20: [
     "nstarserver17km.club",
     "newbostonvillage.com",
     "nossocentrogamek.com",
@@ -28772,9 +28769,9 @@
     "nacionalartesana.com",
     "newnewlt.duckdns.org",
     "nartugeze22.ddns.net",
-    "nchdicus.duckdns.org"
+    "nchdicus.duckdns.org",
   ],
-  "v10": [
+  v10: [
     "vman21.com",
     "venresf.ml",
     "vitreus.nl",
@@ -28822,14 +28819,14 @@
     "vman22.com",
     "v-mukko.ru",
     "valtho.com",
-    "vaibio.com"
+    "vaibio.com",
   ],
-  "x38": [
+  x38: [
     "xn----7sbabof2ac4chjkhgcg5e1i.xn--p1ai",
     "xn-----9kccsa1afbhzcgd9a1ay5l.xn--p1ai",
-    "xn----8sbabmdgae0av6czacej5c.xn--90ais"
+    "xn----8sbabmdgae0av6czacej5c.xn--90ais",
   ],
-  "d22": [
+  d22: [
     "davidedigiorgio360.com",
     "durakbufecengelkoy.com",
     "dslandscape.50webs.com",
@@ -28875,9 +28872,9 @@
     "dugganinternational.ca",
     "defaltroot.duckdns.org",
     "discoverstillwater.com",
-    "dijitalbaskicenter.com"
+    "dijitalbaskicenter.com",
   ],
-  "i21": [
+  i21: [
     "istanbul-haritasi.com",
     "iphoneservices.com.ua",
     "infotecaustral.com.ar",
@@ -28901,9 +28898,9 @@
     "itotrojan.duckdns.org",
     "izsiztiroidektomi.com",
     "ip228.ip-51-83-209.eu",
-    "iceninegr.web.fc2.com"
+    "iceninegr.web.fc2.com",
   ],
-  "f10": [
+  f10: [
     "fsol.co.za",
     "foodera.co",
     "frumiel.cl",
@@ -28960,14 +28957,14 @@
     "frteary.ru",
     "fotobot.ir",
     "funntv.com",
-    "fvch.co.uk"
+    "fvch.co.uk",
   ],
-  "i33": [
+  i33: [
     "illyance-com.changeprohosting.com",
     "internationalcurrencypayments.com",
-    "ies-cura-valera.000webhostapp.com"
+    "ies-cura-valera.000webhostapp.com",
   ],
-  "h24": [
+  h24: [
     "hakanalkan22.5gbfree.com",
     "harrypotternotawizard.ws",
     "heritagebaptistchurch.ca",
@@ -28987,9 +28984,9 @@
     "huntingandfishingusa.com",
     "homeremodelinghumble.com",
     "hellonwheelsthemovie.com",
-    "helpingpawsrescueinc.org"
+    "helpingpawsrescueinc.org",
   ],
-  "g24": [
+  g24: [
     "gardenstrutturelegno.com",
     "ghayoorabbasofficial.com",
     "gveejlsffxmfjlsfbllq.com",
@@ -29019,9 +29016,9 @@
     "getrichordietrying48.com",
     "groveparaplanning.com.au",
     "gjusvoqmkddfahvoccst.com",
-    "gloriajeanscoffees.co.th"
+    "gloriajeanscoffees.co.th",
   ],
-  "712": [
+  712: [
     "78.47.159.97",
     "70.32.93.234",
     "77.73.66.227",
@@ -29030,9 +29027,9 @@
     "7thpower.com",
     "78.46.170.79",
     "78.47.110.82",
-    "78.40.108.39"
+    "78.40.108.39",
   ],
-  "f23": [
+  f23: [
     "fertilityhelponline.com",
     "fastrepair-schijndel.nl",
     "fundidoradealuminio.com",
@@ -29055,9 +29052,9 @@
     "fashion-boutique.com.ua",
     "fitandhealthsecrets.com",
     "fc.nevisconsultants.com",
-    "financialadvicefree.com"
+    "financialadvicefree.com",
   ],
-  "428": [
+  428: [
     "4kqd3hmqgptupi3p.sitcalls.us",
     "4kqd3hmqgptupi3p.liescale.in",
     "4kqd3hmqgptupi3p.boxsame.kim",
@@ -29066,17 +29063,17 @@
     "4kqd3hmqgptupi3p.goshare.red",
     "4kqd3hmqgptupi3p.salethe.gdn",
     "4kqd3hmqgptupi3p.bestergo.pw",
-    "4kqd3hmqgptupi3p.seemby.loan"
+    "4kqd3hmqgptupi3p.seemby.loan",
   ],
-  "v26": [
+  v26: [
     "vinhomeswestpointhanoi.com",
     "vanmaysedenvoitoinhahi.com",
     "veterans-cms.purplebug.net",
     "viewmynewmatchpictures.com",
     "vakantiehuisinauvergne.com",
-    "vazarely2.neagoeandrei.com"
+    "vazarely2.neagoeandrei.com",
   ],
-  "m25": [
+  m25: [
     "mylistbuildingtraffic.com",
     "micosoftoutlook.dns04.com",
     "moradikermani.oilyplus.ir",
@@ -29104,9 +29101,9 @@
     "microsoft.loydbakerys.com",
     "mixaton.000webhostapp.com",
     "ma.alaziz-jatisawahan.com",
-    "microsoft-store.sytes.net"
+    "microsoft-store.sytes.net",
   ],
-  "n26": [
+  n26: [
     "nichudousoukai.web.fc2.com",
     "new.usedtextbooksbuyer.com",
     "naturopatheenligne.free.fr",
@@ -29118,14 +29115,14 @@
     "naturescapescostabrava.com",
     "nurafuturetechnologies.com",
     "nasuha.shariainstitute.com",
-    "nottinghilloktoberfest.com"
+    "nottinghilloktoberfest.com",
   ],
-  "m36": [
+  m36: [
     "mail.mavusoandbatauitsolutions.co.za",
     "metaleptical-agent.000webhostapp.com",
-    "monomolecular-tone.000webhostapp.com"
+    "monomolecular-tone.000webhostapp.com",
   ],
-  "x18": [
+  x18: [
     "xmniabhrfafptwx.pw",
     "xhtmlcssexpert.com",
     "xpnidellashane.com",
@@ -29137,9 +29134,9 @@
     "xfyubqmldwvuyar.yt",
     "xvirginieyylj.city",
     "xmarketplace.store",
-    "xnotes.s-inter.com"
+    "xnotes.s-inter.com",
   ],
-  "i7": [
+  i7: [
     "izww.cn",
     "i-k.xyz",
     "iewa.sk",
@@ -29149,9 +29146,9 @@
     "ikya.ir",
     "irss.de",
     "igsm.co",
-    "ic24.lt"
+    "ic24.lt",
   ],
-  "l26": [
+  l26: [
     "luminuis.000webhostapp.com",
     "light.nevisconsultants.com",
     "luminoushomeinspection.com",
@@ -29165,14 +29162,14 @@
     "lpholfnvwbukqwye.onion.cab",
     "lingerievalentine.ueuo.com",
     "londonlearningcentre.co.uk",
-    "lesamisdemolendosakombi.cd"
+    "lesamisdemolendosakombi.cd",
   ],
-  "329": [
+  329: [
     "3qbyaoohkcqkzrz6.tormaster.ch",
     "3qbyaoohkcqkzrz6.tormaster.fr",
-    "3qbyaoohkcqkzrz6.torplanet.eu"
+    "3qbyaoohkcqkzrz6.torplanet.eu",
   ],
-  "l8": [
+  l8: [
     "lesby.cl",
     "lhelp.pl",
     "lujin.ro",
@@ -29182,17 +29179,17 @@
     "lsity.ru",
     "lrbj.net",
     "lefim.eu",
-    "l-up.net"
+    "l-up.net",
   ],
-  "u26": [
+  u26: [
     "used-mitsubishi-cars.co.uk",
     "updnaral.000webhostapp.com",
     "umihaku000time.web.fc2.com",
     "unlockall.neagoeandrei.com",
     "unicorn-hairextensions.com",
-    "updatedentalcollege.edu.bd"
+    "updatedentalcollege.edu.bd",
   ],
-  "h25": [
+  h25: [
     "helionspharmaceutical.com",
     "housesittingreference.com",
     "hotmusic.vipereskariot.ru",
@@ -29204,9 +29201,9 @@
     "hvhcsgo.000webhostapp.com",
     "highpressurewelding.co.uk",
     "hcdgvxfjbcsscbyszvh.space",
-    "helloworldfc2.web.fc2.com"
+    "helloworldfc2.web.fc2.com",
   ],
-  "g25": [
+  g25: [
     "graveyardsofmilwaukee.org",
     "garlicbbqhotpotbuffet.com",
     "getrichordietrying428.com",
@@ -29227,9 +29224,9 @@
     "gruposoluciomatica.com.br",
     "gnetgnethouse.web.fc2.com",
     "greenlightautoleasing.com",
-    "gym.crossfitgreektown.com"
+    "gym.crossfitgreektown.com",
   ],
-  "j19": [
+  j19: [
     "jhfjfiwjdnfnfwwa.ga",
     "jaime-le-cantal.com",
     "joannalynnirene.com",
@@ -29258,23 +29255,23 @@
     "jjcardsandgifts.com",
     "jonathonbelotti.com",
     "jasabacklinkseo.com",
-    "jardinschimiques.fr"
+    "jardinschimiques.fr",
   ],
-  "u23": [
+  u23: [
     "universalpaymentport.co",
     "utlitydiscountplans.com",
     "uskudarkoltukdoseme.net",
     "updatesystem.linkpc.net",
     "updatefacebook.ddns.net",
-    "ultimatesoftwarenet.com"
+    "ultimatesoftwarenet.com",
   ],
-  "j29": [
+  j29: [
     "jesuisunhackeur.servehttp.com",
     "jairozapata.000webhostapp.com",
     "josephgrief.000webhostapp.com",
-    "jmriba.endoterapiavegetal.com"
+    "jmriba.endoterapiavegetal.com",
   ],
-  "o25": [
+  o25: [
     "okhtinka.ru.hoster-ok.com",
     "onlinecrockpotrecipes.com",
     "oregonreversemortgage.com",
@@ -29282,9 +29279,9 @@
     "olhomagicocdt.duckdns.org",
     "online-ontvangen.services",
     "optimus-communication.com",
-    "oebuplo.000webhostapp.com"
+    "oebuplo.000webhostapp.com",
   ],
-  "x28": [
+  x28: [
     "x5sbb5gesp6kzwsh.questpul.pl",
     "xblackeyex.000webhostapp.com",
     "x5sbb5gesp6kzwsh.mailteam.pl",
@@ -29292,9 +29289,9 @@
     "xn--u9jt73g5sae97fe1v5rm.xyz",
     "xxffornikationxz.duckdns.org",
     "xn--b1alaggrfb0ah6h.xn--p1ai",
-    "x5sbb5gesp6kzwsh.homewind.pl"
+    "x5sbb5gesp6kzwsh.homewind.pl",
   ],
-  "g21": [
+  g21: [
     "gemshairandbeauty.com",
     "globallogistics.co.tz",
     "gujaratisamajjobs.com",
@@ -29325,9 +29322,9 @@
     "gobossfashionwear.com",
     "get-paid-to-speak.com",
     "goldenlakehoabinh.com",
-    "gods.bicegyplifeg.fun"
+    "gods.bicegyplifeg.fun",
   ],
-  "k23": [
+  k23: [
     "keraionprofessional.com",
     "katariyaconsultancy.com",
     "kolejskilmentari.edu.my",
@@ -29344,18 +29341,18 @@
     "kingkong123456.ddns.net",
     "knowledgebase.uniwin.eu",
     "khachsananthinhphat.com",
-    "ketof.000webhostapp.com"
+    "ketof.000webhostapp.com",
   ],
-  "q18": [
+  q18: [
     "qqmailappupdate.ga",
     "qone-underwear.com",
     "qd34g34ewdfsf23.ru",
     "quick-decor-dz.com",
     "quangcaolamson.net",
     "qualityairpart.com",
-    "quanganhmobile.net"
+    "quanganhmobile.net",
   ],
-  "z8": [
+  z8: [
     "zizzy.eu",
     "zni1.com",
     "zyd1.com",
@@ -29363,9 +29360,9 @@
     "zangs.ga",
     "zssdi.it",
     "zi-1.icu",
-    "zigor.es"
+    "zigor.es",
   ],
-  "210": [
+  210: [
     "23ace.site",
     "24masr.com",
     "2maga.site",
@@ -29373,9 +29370,9 @@
     "2-wave.com",
     "28amen.org",
     "2lazy4u.de",
-    "2vidyo.xyz"
+    "2vidyo.xyz",
   ],
-  "n18": [
+  n18: [
     "nuntatimisoara.com",
     "nicolasbaldoma.com",
     "njtest321.ddns.net",
@@ -29421,16 +29418,16 @@
     "nanoocore.ddns.net",
     "nice3arab.ddns.net",
     "nicesmellpaper.top",
-    "niningwindarti.com"
+    "niningwindarti.com",
   ],
-  "p32": [
+  p32: [
     "pages.anandamayiinstituto.com.br",
     "productiondelphi.minehosting.xyz",
     "ponytales.nostalgicbookshelf.com",
     "povertyinequalityresearchlab.org",
-    "portail-mobile-free-e-secure.com"
+    "portail-mobile-free-e-secure.com",
   ],
-  "215": [
+  215: [
     "210.118.170.181",
     "202.210.189.111",
     "216.104.188.249",
@@ -29439,9 +29436,9 @@
     "216.104.183.199",
     "212.109.192.235",
     "25magnolia.info",
-    "211.115.110.218"
+    "211.115.110.218",
   ],
-  "w9": [
+  w9: [
     "westum.se",
     "wwmzd.com",
     "wwment.ml",
@@ -29461,9 +29458,9 @@
     "wxjnp.top",
     "w4fot.com",
     "wergi.xyz",
-    "wevcd.com"
+    "wevcd.com",
   ],
-  "18": [
+  18: [
     "1000i.co",
     "15yb.com",
     "1nsr.com",
@@ -29471,18 +29468,18 @@
     "106b.com",
     "15ih.com",
     "12h.tech",
-    "1mm.site"
+    "1mm.site",
   ],
-  "e26": [
+  e26: [
     "equityreleaseaustralia.com",
     "eastoncorporatefinance.com",
     "earthboundpermaculture.org",
     "elien123.000webhostapp.com",
     "elevationshairboutique.com",
     "event.narailvolunteers.org",
-    "enpitsutenpura.web.fc2.com"
+    "enpitsutenpura.web.fc2.com",
   ],
-  "o22": [
+  o22: [
     "onlineserviceshmrc.com",
     "omegawiki.dynalias.com",
     "onlineaddaforstudy.com",
@@ -29494,9 +29491,9 @@
     "orchaskiddiesworld.com",
     "odnoklassniki.borec.cz",
     "organizersondemand.com",
-    "ordeksurat.duckdns.org"
+    "ordeksurat.duckdns.org",
   ],
-  "u20": [
+  u20: [
     "urogyn-workshops.com",
     "unknowhost.zapto.org",
     "ultrabookreviews.com",
@@ -29512,14 +29509,14 @@
     "ukmsc-gammaknife.com",
     "upperclassmeninc.com",
     "utopiasporcenter.com",
-    "umswd6qo4ah9valh.com"
+    "umswd6qo4ah9valh.com",
   ],
-  "418": ["4fffffff.myftp.org"],
-  "v39": [
+  418: ["4fffffff.myftp.org"],
+  v39: [
     "veteransdisabilityinsuranceattorney.com",
-    "verification.fanspageaccountsupport.com"
+    "verification.fanspageaccountsupport.com",
   ],
-  "g7": [
+  g7: [
     "gioo.co",
     "gigu.ga",
     "gt74.ru",
@@ -29528,9 +29525,9 @@
     "gn52.cn",
     "ggwp.in",
     "gen5.ga",
-    "gsba.be"
+    "gsba.be",
   ],
-  "q12": [
+  q12: [
     "quoteshub.in",
     "qawxslqmb.gq",
     "qxr33qxr.com",
@@ -29539,15 +29536,15 @@
     "qone.website",
     "quinteam.com",
     "quindecim.de",
-    "qalab.com.au"
+    "qalab.com.au",
   ],
-  "r29": [
+  r29: [
     "ryanair-flightvouchers.online",
     "rbgrouptech.000webhostapp.com",
     "raquelstrutz.edutrovao.com.br",
-    "resourcedevelopmentcenter.org"
+    "resourcedevelopmentcenter.org",
   ],
-  "b27": [
+  b27: [
     "bibliotheque-sur-mesure.com",
     "bellevueairductcleaning.com",
     "befounddigitalmarketing.com",
@@ -29555,9 +29552,9 @@
     "bitmainantminer.filmko.info",
     "bomberosvilladelrosario.org",
     "baliessentialproperties.com",
-    "ballymoreboardingkennels.ie"
+    "ballymoreboardingkennels.ie",
   ],
-  "u21": [
+  u21: [
     "undergroundlabsuk.com",
     "undiscoveredindia.com",
     "uchiwasenshi.ddns.net",
@@ -29568,9 +29565,9 @@
     "ulianaradko.hopto.org",
     "unitedplantations.xyz",
     "usavisaconsultant.com",
-    "uttarakhandghoomo.com"
+    "uttarakhandghoomo.com",
   ],
-  "e28": [
+  e28: [
     "easyprogrammingsolutions.com",
     "engineeringchristculture.com",
     "earle2rise.000webhostapp.com",
@@ -29579,9 +29576,9 @@
     "exteriorpaintservicesltd.com",
     "exploreupdates.servehttp.com",
     "ekafebyayu.000webhostapp.com",
-    "essentialbusinessfunding.com"
+    "essentialbusinessfunding.com",
   ],
-  "m30": [
+  m30: [
     "mail001.hiuasyolaperakende.com",
     "mail002.hiuasyolaperakende.net",
     "manutencao-de-celulares.com.br",
@@ -29594,10 +29591,10 @@
     "mail003.hiuasyolaperakende.org",
     "marionawe.homepage.t-online.de",
     "mobilethemesnlivewallpaper.com",
-    "mcctatkone.infozonemyanmar.com"
+    "mcctatkone.infozonemyanmar.com",
   ],
-  "810": ["80smp4.xyz", "860259.com"],
-  "t24": [
+  810: ["80smp4.xyz", "860259.com"],
+  t24: [
     "test2.pakspaservices.com",
     "theomnigendifference.com",
     "txvcwirjkdggmbfvqhfc.com",
@@ -29632,9 +29629,9 @@
     "tayfagreatie.duckdns.org",
     "thingsmadeforyouapps.com",
     "tuyensinhcaodang2018.com",
-    "thermalswitchfactory.com"
+    "thermalswitchfactory.com",
   ],
-  "b28": [
+  b28: [
     "brtx.translinklogistics.info",
     "birmetalciningezinotlari.com",
     "blankydesign2.wp-goodies.com",
@@ -29651,9 +29648,9 @@
     "baiventura.000webhostapp.com",
     "beautyandbrainsmagazine.site",
     "backpack-vacuum-cleaners.com",
-    "bowlinetestcracker.hopto.org"
+    "bowlinetestcracker.hopto.org",
   ],
-  "c30": [
+  c30: [
     "cerberhhyed5frqa.kipfgs65s.com",
     "chupacabraestavivo.duckdns.org",
     "cukiernia_izabela.republika.pl",
@@ -29662,10 +29659,10 @@
     "capitalpolicyinternational.com",
     "cambridgeexecutivetravel.co.uk",
     "c0nfrim-supoort22.regist3r2.ga",
-    "cellulosic.logicalatdemo.co.in"
+    "cellulosic.logicalatdemo.co.in",
   ],
-  "v6": ["vlc.cl", "v4c.tv", "vqd.fr"],
-  "r8": [
+  v6: ["vlc.cl", "v4c.tv", "vqd.fr"],
+  r8: [
     "rajas.cf",
     "radom.nl",
     "re-ms.ru",
@@ -29678,23 +29675,23 @@
     "ruisi.fr",
     "recon.pw",
     "r-p-b.de",
-    "reaga.cz"
+    "reaga.cz",
   ],
-  "d36": ["dd7bsndhr45nfksdnkferfer.javakale.at"],
-  "k27": [
+  d36: ["dd7bsndhr45nfksdnkferfer.javakale.at"],
+  k27: [
     "kiziltepemarangozmobeso.org",
     "kefalosrestaurant-lassi.com",
     "kudopepek.000webhostapp.com",
-    "kiraamora.000webhostapp.com"
+    "kiraamora.000webhostapp.com",
   ],
-  "x25": [
+  x25: [
     "xn--h1adcfjmfy1g.xn--p1ai",
     "xn----7sbak5bugi.xn--p1ai",
     "xkld-nhatban-infinity.com",
     "xn--80aeii0ablmr.xn--p1ai",
-    "xn--e1adigbdjz5k.xn--p1ai"
+    "xn--e1adigbdjz5k.xn--p1ai",
   ],
-  "k24": [
+  k24: [
     "koseogluinsaatmermer.com",
     "kawasima0506.web.fc2.com",
     "kingsstaging.consines.in",
@@ -29710,9 +29707,9 @@
     "kacanghijaubahagia.co.id",
     "klimahavalandirma.com.tr",
     "katallassoministries.org",
-    "kellnerengenharia.com.br"
+    "kellnerengenharia.com.br",
   ],
-  "d9": [
+  d9: [
     "dental.gq",
     "desing.co",
     "ddhhd.xyz",
@@ -29773,24 +29770,24 @@
     "detse.net",
     "dfc33.xyz",
     "d.coka.la",
-    "dunyam.ru"
+    "dunyam.ru",
   ],
-  "f42": [
+  f42: [
     "freemobile-particulier.realdeng.beget.tech",
-    "facebook.security.id.site.avgup.linkpc.net"
+    "facebook.security.id.site.avgup.linkpc.net",
   ],
-  "e37": ["empoweringinternationalministries.org"],
-  "x29": [
+  e37: ["empoweringinternationalministries.org"],
+  x29: [
     "xn--80apaabfhzk7a5ck.xn--p1ai",
     "xn--lck1a7a1gxgc4847elyua.xyz",
     "x5sbb5gesp6kzwsh.frontmain.pl",
     "x5sbb5gesp6kzwsh.frontymen.pl",
-    "xn--d1ajejfcbjhse2c.xn--p1acf"
+    "xn--d1ajejfcbjhse2c.xn--p1acf",
   ],
-  "c42": ["c1e86f3506cfe05a6738ea6893ff7e.duckdns.org"],
-  "g37": ["goisendmail005.apps-appleid-store.com"],
-  "88": ["88cui.de"],
-  "o20": [
+  c42: ["c1e86f3506cfe05a6738ea6893ff7e.duckdns.org"],
+  g37: ["goisendmail005.apps-appleid-store.com"],
+  88: ["88cui.de"],
+  o20: [
     "ohthesemisecrets.com",
     "omegamarinagroup.com",
     "onceambientstore.com",
@@ -29816,15 +29813,15 @@
     "outdoormediazone.com",
     "onlyyoursitebest.xyz",
     "onickdoorsonline.com",
-    "ourteamsolutions.com"
+    "ourteamsolutions.com",
   ],
-  "i40": [
+  i40: [
     "irhng84nfaslbv243ljtblwqjrb.pinnafaon.at",
     "insight-analytica-amir.000webhostapp.com",
-    "internet-explorer-background.duckdns.org"
+    "internet-explorer-background.duckdns.org",
   ],
-  "d40": ["dev-supoort00.regis-fanpageee-confirm.ml"],
-  "l24": [
+  d40: ["dev-supoort00.regis-fanpageee-confirm.ml"],
+  l24: [
     "leska-test.angelfire.com",
     "lokin.grafi-offshore.com",
     "latenightinthedesert.com",
@@ -29838,19 +29835,19 @@
     "lehavregenealogie2017.fr",
     "lavenderhillcivic.org.za",
     "loseweightwithmysite.com",
-    "lsbqivjfcploryojxuws.com"
+    "lsbqivjfcploryojxuws.com",
   ],
-  "238": ["27lelchgcvs2wpm7.bestfordownload.click"],
-  "65": ["6m.pl"],
-  "59": [
+  238: ["27lelchgcvs2wpm7.bestfordownload.click"],
+  65: ["6m.pl"],
+  59: [
     "5wh.co.zw",
     "58zwp.com",
     "52osta.cn",
     "502mm.com",
     "5.8.63.54",
-    "54699.com"
+    "54699.com",
   ],
-  "q11": [
+  q11: [
     "quarenta.eu",
     "quiwan8.com",
     "qwertasd.ru",
@@ -29863,9 +29860,9 @@
     "qvdgqayo.pw",
     "qqonof.info",
     "quizbuzz.ml",
-    "qlaston.net"
+    "qlaston.net",
   ],
-  "i27": [
+  i27: [
     "iftikharchaudhry.50webs.com",
     "internationalbazaarsale.com",
     "invoicing41514.zagtech.club",
@@ -29876,9 +29873,9 @@
     "internetsimplificada.com.br",
     "ibank.suntrustworldwide.com",
     "isikogullaripastaneleri.com",
-    "incubation.cense.iisc.ac.in"
+    "incubation.cense.iisc.ac.in",
   ],
-  "313": [
+  313: [
     "31.184.197.72",
     "3dpanelim.com",
     "31.184.196.75",
@@ -29887,9 +29884,9 @@
     "37.46.131.153",
     "3922group.net",
     "31.184.196.78",
-    "31.148.99.241"
+    "31.148.99.241",
   ],
-  "u12": [
+  u12: [
     "uzoclouds.eu",
     "ufonrpg.info",
     "uzojesse.top",
@@ -29915,9 +29912,9 @@
     "uni-full.com",
     "usafile.info",
     "unimarket.ch",
-    "upnews18.com"
+    "upnews18.com",
   ],
-  "q19": [
+  q19: [
     "quantums.technology",
     "quietvain.nobody.jp",
     "quantuminterior.xyz",
@@ -29925,22 +29922,22 @@
     "qcwbrevxrotoepsp.pw",
     "q93124au.beget.tech",
     "qeducacional.com.br",
-    "quynhtienbridal.com"
+    "quynhtienbridal.com",
   ],
-  "919": ["90551.prohoster.biz", "96.ip-51-255-193.eu"],
-  "l7": ["lbbc.pt", "les.nyc", "ldba.cc", "l1r.org", "lar.biz"],
-  "s38": [
+  919: ["90551.prohoster.biz", "96.ip-51-255-193.eu"],
+  l7: ["lbbc.pt", "les.nyc", "ldba.cc", "l1r.org", "lar.biz"],
+  s38: [
     "supooreter-fannpaqee.regis-fanpage1.tk",
-    "securityterms3922511.000webhostapp.com"
+    "securityterms3922511.000webhostapp.com",
   ],
-  "530": [
+  530: [
     "52433865.fn.freenet-hosting.de",
     "52uo5k3t73ypjije.catfills.mobi",
     "52uo5k3t73ypjije.lethints.date",
-    "52uo5k3t73ypjije.whosewine.lol"
+    "52uo5k3t73ypjije.whosewine.lol",
   ],
-  "17": ["1v12.cn", "15cn.ga", "1drv.ms"],
-  "u9": [
+  17: ["1v12.cn", "15cn.ga", "1drv.ms"],
+  u9: [
     "uvetta.ru",
     "uavlab.am",
     "uyoyoo.cn",
@@ -29951,9 +29948,9 @@
     "utlmy.xyz",
     "u.coka.la",
     "uch.my.to",
-    "ucbus.net"
+    "ucbus.net",
   ],
-  "y24": [
+  y24: [
     "youtubeismyartschool.com",
     "yama-wonderfull-blog.com",
     "yumccwuhrnfepfprbmxb.com",
@@ -29961,20 +29958,20 @@
     "yompmepvyvbxkjvydsxt.com",
     "yhtaefcjiocjikkocisc.com",
     "ygunoiunommiurynfuup.com",
-    "yuccavalleyquicklube.com"
+    "yuccavalleyquicklube.com",
   ],
-  "230": [
+  230: [
     "2ahiru2school.houkou-onchi.com",
     "27lelchgcvs2wpm7.bedrastic.bid",
-    "27lelchgcvs2wpm7.marksgain.kim"
+    "27lelchgcvs2wpm7.marksgain.kim",
   ],
-  "29": ["21js.club", "2nell.com", "2drive.us", "2lcfo.com", "24mm.site"],
-  "s37": [
+  29: ["21js.club", "2nell.com", "2drive.us", "2lcfo.com", "24mm.site"],
+  s37: [
     "sinkable-ingredient.000webhostapp.com",
     "securityterms991788.000webhostapp.com",
-    "symmetrical-composi.000webhostapp.com"
+    "symmetrical-composi.000webhostapp.com",
   ],
-  "x10": [
+  x10: [
     "xxxgame.su",
     "xyhhuxa.be",
     "xxxxlk.com",
@@ -29996,9 +29993,9 @@
     "xairooo.gq",
     "xmdqcy.com",
     "xyxyxt.net",
-    "xokosag.gq"
+    "xokosag.gq",
   ],
-  "c31": [
+  c31: [
     "custommerchandisingservices.com",
     "confirm-support-info-center.com",
     "crackhahanono.000webhostapp.com",
@@ -30010,23 +30007,23 @@
     "carpetcleaningwestchesterny.net",
     "customcedarfencesofmichigan.com",
     "computerserviceheerhugowaard.nl",
-    "confrim-regis232.d3v-fanpag3.ml"
+    "confrim-regis232.d3v-fanpag3.ml",
   ],
-  "221": ["2vlc.l.time4vps.cloud", "242.000webhostapp.com"],
-  "g52": [
+  221: ["2vlc.l.time4vps.cloud", "242.000webhostapp.com"],
+  g52: [
     "greenelectronicsandkitchenstdy7appliance.duckdns.org",
     "greensndy6electronicsandkitchenappliance.duckdns.org",
-    "greenelectronicswsdy6andkitchenappliance.duckdns.org"
+    "greenelectronicswsdy6andkitchenappliance.duckdns.org",
   ],
-  "330": [
+  330: [
     "3qbyaoohkcqkzrz6.torstation.li",
     "3qbyaoohkcqkzrz6.torreactor.li",
     "3qbyaoohkcqkzrz6.torclassik.li",
     "3qbyaoohkcqkzrz6.tordonator.li",
     "3qbyaoohkcqkzrz6.bestxprice.ch",
-    "3qbyaoohkcqkzrz6.torgateway.li"
+    "3qbyaoohkcqkzrz6.torgateway.li",
   ],
-  "y20": [
+  y20: [
     "yesuzuki.web.fc2.com",
     "yogavalefigueria.com",
     "yuysikankhqvdwdv.xyz",
@@ -30038,17 +30035,17 @@
     "yesbisnissyariah.com",
     "yahakhan.duckdns.org",
     "yayasanrumahkita.com",
-    "ywjgjvpuyitnbiw.info"
+    "ywjgjvpuyitnbiw.info",
   ],
-  "x22": [
+  x22: [
     "xn--bobleslring-g9a.dk",
     "xn--28-vlc2ak.xn--p1ai",
     "xn--hastabakc-2pbb.net",
     "xn--12co8a6cdw9dmf.xyz",
     "xn--70-jlc6aj.xn--p1ai",
-    "xn--e1aceh5b.xn--p1acf"
+    "xn--e1aceh5b.xn--p1acf",
   ],
-  "z16": [
+  z16: [
     "zetadataclub.xyz",
     "zapatta.ddns.net",
     "zooz45.hopto.org",
@@ -30066,9 +30063,9 @@
     "zcxe37adonis.top",
     "zereocompany.com",
     "zachmacphoto.com",
-    "zakodujbiznes.ml"
+    "zakodujbiznes.ml",
   ],
-  "a29": [
+  a29: [
     "aplikasi.bangunrumah-kita.com",
     "accelerate.zero1creations.com",
     "azorult2410.000webhostapp.com",
@@ -30079,14 +30076,14 @@
     "atttechcare.000webhostapp.com",
     "atlantaconnectionsupplier.com",
     "assuredtenancyagreement.co.uk",
-    "advocaciadescomplicada.com.br"
+    "advocaciadescomplicada.com.br",
   ],
-  "l33": [
+  l33: [
     "limo.trusecudosdeslyinvoicsed.top",
     "lucky.scarabstonemovingmethod.com",
-    "ledtvrepairingpune.rasoirasta.com"
+    "ledtvrepairingpune.rasoirasta.com",
   ],
-  "c28": [
+  c28: [
     "clocktowercommunications.com",
     "creativecompetitionawards.gq",
     "clubchasseetpechedesamis.com",
@@ -30097,9 +30094,9 @@
     "citointechnologiesalefor.top",
     "compassionatecarejupiter.com",
     "contactmadarauchiha.ddns.net",
-    "creativecompetitionawards.ga"
+    "creativecompetitionawards.ga",
   ],
-  "513": [
+  513: [
     "51.255.107.37",
     "51.254.240.89",
     "51.254.55.171",
@@ -30113,9 +30110,9 @@
     "51.254.240.60",
     "50.28.211.199",
     "51.255.172.55",
-    "5.196.200.229"
+    "5.196.200.229",
   ],
-  "d27": [
+  d27: [
     "danladen4.000webhostapp.com",
     "doughlane.000webhostapp.com",
     "desertkingwaterproofing.com",
@@ -30126,15 +30123,15 @@
     "dont-delete-this-domain.com",
     "de2nuvwegoo32oqv.torbook.li",
     "direccionempresarial.com.mx",
-    "delta5.homepage.t-online.de"
+    "delta5.homepage.t-online.de",
   ],
   "08": ["0ooo.xyz", "0rdp.com", "0668.com", "023pc.cn"],
-  "j32": [
+  j32: [
     "johnraines2017.000webhostapp.com",
     "joelscoolstuff.000webhostapp.com",
-    "josephgrief228.000webhostapp.com"
+    "josephgrief228.000webhostapp.com",
   ],
-  "112": [
+  112: [
     "176.9.41.156",
     "1called.info",
     "185.75.46.73",
@@ -30161,13 +30158,13 @@
     "193.9.28.254",
     "122.15.8.163",
     "18vek.spb.ru",
-    "193.70.86.51"
+    "193.70.86.51",
   ],
-  "x45": ["xn-----6kccmhiunhggelqbcbeb6bixdj74a.xn--p1ai"],
-  "911": ["92.63.87.53", "9adhity.com", "92.63.87.48", "91yudao.com"],
-  "w49": ["w0hsyejhnbcvzaxi8euyr6tgeya5vml09jysgav27.ydns.eu"],
-  "s44": ["static.210.109.130.94.clients.your-server.de"],
-  "115": [
+  x45: ["xn-----6kccmhiunhggelqbcbeb6bixdj74a.xn--p1ai"],
+  911: ["92.63.87.53", "9adhity.com", "92.63.87.48", "91yudao.com"],
+  w49: ["w0hsyejhnbcvzaxi8euyr6tgeya5vml09jysgav27.ydns.eu"],
+  s44: ["static.210.109.130.94.clients.your-server.de"],
+  115: [
     "188.127.231.116",
     "195.123.209.122",
     "18901350711.com",
@@ -30192,10 +30189,10 @@
     "109.237.111.168",
     "1filesharing.ga",
     "104.131.182.103",
-    "185.117.153.176"
+    "185.117.153.176",
   ],
-  "39": ["3asy.club", "3nity.xyz", "3r.com.ua", "3e.com.pt", "3bots.xyz"],
-  "r31": [
+  39: ["3asy.club", "3nity.xyz", "3r.com.ua", "3e.com.pt", "3bots.xyz"],
+  r31: [
     "rbengineering.000webhostapp.com",
     "restaurant-leshautsdefrance.com",
     "revistaunipaz.000webhostapp.com",
@@ -30203,18 +30200,18 @@
     "rzss2zfue73dfvmj.truewargame.ch",
     "rohrreinigung-klosterneuburg.at",
     "ruralinnovationfund.varadev.com",
-    "rekoveryy1.recovery-fanpagee.tk"
+    "rekoveryy1.recovery-fanpagee.tk",
   ],
-  "b31": [
+  b31: [
     "buyfollowersoninstagramapp.info",
     "baptistfoundationcalifornia.com",
     "baldwinhistory.portalstream.net",
     "businesscheckmatetraining.co.uk",
     "bluepierrotnodanoni.web.fc2.com",
     "baptistfoundationcalifornia.net",
-    "bunkersintl.com.server0394.best"
+    "bunkersintl.com.server0394.best",
   ],
-  "q14": [
+  q14: [
     "qurrineion.com",
     "quizsolver.com",
     "qreenmaple.com",
@@ -30238,14 +30235,14 @@
     "quad-pixel.com",
     "quiarremba.com",
     "quangsilic.xyz",
-    "qwerty12346.ru"
+    "qwerty12346.ru",
   ],
-  "143": [
+  143: [
     "10022020test571-service1002012510022020.pro",
     "10022020newfolder33417-01242510022020.space",
-    "10022020newfolder1002-0144251002202035.site"
+    "10022020newfolder1002-0144251002202035.site",
   ],
-  "y15": [
+  y15: [
     "yuidfgxcvbxc.ru",
     "yasamkocutr.com",
     "yduocsonla.info",
@@ -30266,9 +30263,9 @@
     "yohtkc.ddns.net",
     "yellowstudio.pl",
     "youla-dlvr.site",
-    "ytgyuityuity.ru"
+    "ytgyuityuity.ru",
   ],
-  "q27": [
+  q27: [
     "qfjhpgbefuhenjp7.1e1jbc.top",
     "qfjhpgbefuhenjp7.17ipn9.top",
     "qualitystaffingservices.net",
@@ -30294,23 +30291,23 @@
     "qfjhpgbefuhenjp7.1e1y8p.top",
     "qfjhpgbefuhenjp7.1225wj.top",
     "qfjhpgbefuhenjp7.18rkju.top",
-    "qfjhpgbefuhenjp7.1mkwry.top"
+    "qfjhpgbefuhenjp7.1mkwry.top",
   ],
-  "232": [
+  232: [
     "27lelchgcvs2wpm7.laverhants.link",
     "27lelchgcvs2wpm7.redefined.click",
-    "27lelchgcvs2wpm7.liopakerb.black"
+    "27lelchgcvs2wpm7.liopakerb.black",
   ],
-  "r30": [
+  r30: [
     "rent-guarantee-insurance.co.uk",
     "registerer2.f4npage-confr1m.cf",
     "rashhgames4u.000webhostapp.com",
     "rulletedonut.000webhostapp.com",
     "rawbeenthapa.000webhostapp.com",
-    "romasshved41.000webhostapp.com"
+    "romasshved41.000webhostapp.com",
   ],
-  "510": ["5llion.com", "553496.top", "51wmys.com", "5.39.76.12", "52soca.com"],
-  "c23": [
+  510: ["5llion.com", "553496.top", "51wmys.com", "5.39.76.12", "52soca.com"],
+  c23: [
     "coronavirusstatus.space",
     "caferestaurantnador.com",
     "cuisineontheroadspr.com",
@@ -30349,15 +30346,15 @@
     "cardmusical.com.sapo.pt",
     "cvasajhsjkls00pro.co.uk",
     "centraldafestarj.com.br",
-    "chefadomiciliopadova.it"
+    "chefadomiciliopadova.it",
   ],
-  "t32": [
+  t32: [
     "topsaller31213.000webhostapp.com",
     "tezaureetnoistoricebucovinene.ro",
-    "thewordrelianceinternational.org"
+    "thewordrelianceinternational.org",
   ],
-  "q31": ["quehacercuandoestasaburrido.net"],
-  "y11": [
+  q31: ["quehacercuandoestasaburrido.net"],
+  y11: [
     "ybsd360.net",
     "youspeak.pt",
     "yeessol.com",
@@ -30375,9 +30372,9 @@
     "yourmdb.com",
     "yuzemin.com",
     "yunhali.net",
-    "yifruit.com"
+    "yifruit.com",
   ],
-  "a7": [
+  a7: [
     "atso.pt",
     "asmm.ro",
     "amcc.fr",
@@ -30389,17 +30386,17 @@
     "auwm.ru",
     "ajja.co",
     "atez.vn",
-    "adj3.pt"
+    "adj3.pt",
   ],
-  "x20": [
+  x20: [
     "xn--d1albnc.xn--p1ai",
     "xpertwebinfotech.com",
     "x86tpkujgu1ksoky.com",
     "xn--enseales-g3a.com",
-    "xn--odka862xw00d.com"
+    "xn--odka862xw00d.com",
   ],
-  "t46": ["tudychnesqudusisabadassniggainthetubmx.ydns.eu"],
-  "s7": [
+  t46: ["tudychnesqudusisabadassniggainthetubmx.ydns.eu"],
+  s7: [
     "sag.ceo",
     "sc9v.cn",
     "sgpf.eu",
@@ -30412,37 +30409,30 @@
     "skgs.nl",
     "snor.it",
     "sv-r.ru",
-    "seaf.ch"
+    "seaf.ch",
   ],
-  "u8": [
-    "uatsa.cl",
-    "umelo.ga",
-    "uwwv.org",
-    "uzoma.ru",
-    "upav.org",
-    "uxvvm.us"
-  ],
-  "o36": [
+  u8: ["uatsa.cl", "umelo.ga", "uwwv.org", "uzoma.ru", "upav.org", "uxvvm.us"],
+  o36: [
     "ostseeurlaub-tk.homepage.t-online.de",
     "onlinesecure.we11sfargo.spantrdg.com",
-    "orangeconsultingin.000webhostapp.com"
+    "orangeconsultingin.000webhostapp.com",
   ],
-  "f29": [
+  f29: [
     "film-online.bejbiblues.cba.pl",
     "fkedkf0o4tr.000webhostapp.com",
     "fboffensive.000webhostapp.com",
-    "find-me-an-english-book.co.uk"
+    "find-me-an-english-book.co.uk",
   ],
-  "d32": [
+  d32: [
     "dwvabfcrpzwinoaoaytgkphzea.space",
     "discaredforftp.000webhostapp.com",
     "digitalmarketingstrategies.today",
     "dwodjwqwjdqijd.tapdevtesting.xyz",
     "directoriodecomercioexterior.net",
-    "dvsdfssffsssd.markeysgallery.com"
+    "dvsdfssffsssd.markeysgallery.com",
   ],
-  "o30": ["ommienetwork.000webhostapp.com"],
-  "q17": [
+  o30: ["ommienetwork.000webhostapp.com"],
+  q17: [
     "qigong-gironde.fr",
     "quynhhanhphuc.com",
     "quangcaovnstar.vn",
@@ -30451,17 +30441,17 @@
     "quwasolutions.com",
     "qualcommmedia.com",
     "queenannehair.com",
-    "quelle-balance.fr"
+    "quelle-balance.fr",
   ],
-  "h30": [
+  h30: [
     "hr-management-dimensions.co.uk",
     "humortadelacartoes.com.sapo.pt",
     "hvhlegendpro.000webhostapp.com",
     "hatihat55159.000webhostapp.com",
     "hdajaeger.homepage.t-online.de",
-    "huesosinaebanayanahuiblyat.xyz"
+    "huesosinaebanayanahuiblyat.xyz",
   ],
-  "o18": [
+  o18: [
     "oussema.mywire.org",
     "onderzoeksteam.com",
     "oclidesanriquez.cl",
@@ -30499,9 +30489,9 @@
     "over-vita.ddns.net",
     "ozzcleanenergy.com",
     "oguzhanplastik.net",
-    "old.advisegroup.ru"
+    "old.advisegroup.ru",
   ],
-  "e29": [
+  e29: [
     "eystathiosluxuryapartments.gr",
     "evonline.liceoriosdechile.com",
     "electricfence.levsantronic.ro",
@@ -30511,9 +30501,9 @@
     "exploreafricatourssafaris.com",
     "eyadaboali.freedynamicdns.org",
     "entree22.homepage.t-online.de",
-    "edtrust.katehuntwebdesign.com"
+    "edtrust.katehuntwebdesign.com",
   ],
-  "z9": [
+  z9: [
     "zhsml.com",
     "zxczxf.ru",
     "zagool.nl",
@@ -30531,10 +30521,10 @@
     "zasm.info",
     "zver.tech",
     "zmxrm.net",
-    "zjscs.org"
+    "zjscs.org",
   ],
-  "b62": ["brdjbk4daam647jak4vf4ue7xtg5flympsujyup2xbci2npxrjxgujyd.onion"],
-  "r23": [
+  b62: ["brdjbk4daam647jak4vf4ue7xtg5flympsujyup2xbci2npxrjxgujyd.onion"],
+  r23: [
     "restaurant.vuonphap.com",
     "redmeteordigitalseo.com",
     "radheshyamcityhomes.com",
@@ -30554,9 +30544,9 @@
     "richmondtowservices.com",
     "recomobilesolutions.com",
     "rechnungr.servegame.com",
-    "resolutionhomesales.com"
+    "resolutionhomesales.com",
   ],
-  "s34": [
+  s34: [
     "securityteam4655.000webhostapp.com",
     "securityuirterms.000webhostapp.com",
     "sreesevuganannamalaicollege.org.in",
@@ -30568,23 +30558,23 @@
     "securitytermsjam.000webhostapp.com",
     "securitytumterms.000webhostapp.com",
     "sven-jaenecke.homepage.t-online.de",
-    "securityteam4657.000webhostapp.com"
+    "securityteam4657.000webhostapp.com",
   ],
-  "m33": [
+  m33: [
     "marquisediamondengagementring.com",
     "mobile-free.instantformulaire.com",
     "microsoftupdate.dynamicdns.org.uk",
     "moviewordpress.thandarayethein.me",
     "mod-presumption.000webhostapp.com",
-    "malchiki-po-vyzovu-moskva.company"
+    "malchiki-po-vyzovu-moskva.company",
   ],
-  "o31": [
+  o31: [
     "outlookupdate.dynamicdns.org.uk",
     "orquestajoaquinylosbandidos.com",
-    "online01-capitalhelp24.da-ar.ru"
+    "online01-capitalhelp24.da-ar.ru",
   ],
-  "326": ["32kl2rwsjvqjeui7.onion.cab"],
-  "312": [
+  326: ["32kl2rwsjvqjeui7.onion.cab"],
+  312: [
     "37.139.2.214",
     "34er.website",
     "31.41.44.130",
@@ -30599,10 +30589,10 @@
     "3.ihenan.com",
     "37.139.27.52",
     "300tomoli.it",
-    "3rdperson.ml"
+    "3rdperson.ml",
   ],
-  "y27": ["yuniomy88.000webhostapp.com"],
-  "o26": [
+  y27: ["yuniomy88.000webhostapp.com"],
+  o26: [
     "onlinecheck.hussanways.com",
     "onlinedatingusersguide.com",
     "oakwoodparkassociation.com",
@@ -30612,34 +30602,34 @@
     "oskarshamn.myfreesites.net",
     "okumachiryouin.yu-yake.com",
     "offside2.000webhostapp.com",
-    "ofcoursesports.web.fc2.com"
+    "ofcoursesports.web.fc2.com",
   ],
-  "f33": ["flowersgalleryevents.ayansaha.com"],
-  "634": ["639827382.linuxzone146.grserver.gr"],
-  "t36": [
+  f33: ["flowersgalleryevents.ayansaha.com"],
+  634: ["639827382.linuxzone146.grserver.gr"],
+  t36: [
     "terapiaderegresionreconstructiva.com",
     "thebaptistfoundationofcalifornia.net",
-    "thebaptistfoundationofcalifornia.com"
+    "thebaptistfoundationofcalifornia.com",
   ],
-  "o29": [
+  o29: [
     "ojmekzw4mujvqeju.dreamtest.at",
     "okfdjsdlfjdlsjfds.duckdns.org",
     "owncloud.weber-rechtenbach.de",
     "olalekan419.000webhostapp.com",
-    "olivier.coroenne.perso.sfr.fr"
+    "olivier.coroenne.perso.sfr.fr",
   ],
-  "n33": ["ni1282360-1.web11.nitrado.hosting"],
-  "334": ["3435gfdsgsh34525vfdsgrdsg45235.xyz"],
-  "w34": [
+  n33: ["ni1282360-1.web11.nitrado.hosting"],
+  334: ["3435gfdsgsh34525vfdsgrdsg45235.xyz"],
+  w34: [
     "wajirmaternityandnursinghome.co.ke",
     "www.jansen-consultancy-machines.be",
     "www.trauchgauer-weihnachtsmarkt.de",
     "www.weddingsonthefrenchriviera.com",
     "www.shadyacresminis.bravepages.com",
     "www.qualityacoustic.comcastbiz.net",
-    "webofficesignature.myfreesites.net"
+    "webofficesignature.myfreesites.net",
   ],
-  "227": [
+  227: [
     "27lelchgcvs2wpm7.9ildst.top",
     "27lelchgcvs2wpm7.tankbe.pro",
     "27lelchgcvs2wpm7.ag082d.top",
@@ -30662,10 +30652,10 @@
     "27lelchgcvs2wpm7.h9ihx3.top",
     "27lelchgcvs2wpm7.adevf4.top",
     "27lelchgcvs2wpm7.rt4e34.win",
-    "27lelchgcvs2wpm7.fm0cga.top"
+    "27lelchgcvs2wpm7.fm0cga.top",
   ],
-  "s42": ["sportpferde-weihmayer.homepage.t-online.de"],
-  "y9": [
+  s42: ["sportpferde-weihmayer.homepage.t-online.de"],
+  y9: [
     "yinyin.nl",
     "yosle.net",
     "yzwle.com",
@@ -30684,51 +30674,51 @@
     "yskjz.xyz",
     "yyw114.cn",
     "ydacha.ug",
-    "yakata.ga"
+    "yakata.ga",
   ],
-  "917": ["9hrds.wolfcrap.at"],
-  "a43": ["acount-cheks0912.suport-acount-confrim12.gq"],
-  "122": ["122980data.danzer.site"],
-  "q22": ["qqkzfkax24p4elax.onion"],
-  "g38": [
+  917: ["9hrds.wolfcrap.at"],
+  a43: ["acount-cheks0912.suport-acount-confrim12.gq"],
+  122: ["122980data.danzer.site"],
+  q22: ["qqkzfkax24p4elax.onion"],
+  g38: [
     "gwe32fdr74bhfsyujb34gfszfv.zatcurr.com",
     "globalsharesecurefilesgood.duckdns.org",
-    "gc-hubbelrath.server1.hostingforyou.de"
+    "gc-hubbelrath.server1.hostingforyou.de",
   ],
-  "125": [
+  125: [
     "1greatrealestatesales.com",
     "121-psychic-reading.co.uk",
-    "12qkm.r.ah.d.sendibm4.com"
+    "12qkm.r.ah.d.sendibm4.com",
   ],
-  "517": ["59secondmedia.com", "5designradioa.com"],
-  "a35": [
+  517: ["59secondmedia.com", "5designradioa.com"],
+  a35: [
     "ac4ce06cc0865634050b9eef6851d644.tk",
     "anthonycarducci.lawyerpublicity.com",
-    "americandeofertasimperdivel2017.com"
+    "americandeofertasimperdivel2017.com",
   ],
-  "714": ["72clothing.com", "7travel.online"],
-  "e39": [
+  714: ["72clothing.com", "7travel.online"],
+  e39: [
     "elektrotechnikagrimmb.000webhostapp.com",
-    "ebay-kleinanzeigen.de-item188522644.com"
+    "ebay-kleinanzeigen.de-item188522644.com",
   ],
-  "r32": [
+  r32: [
     "rolx.wolrdcaresolidarityfund.xyz",
     "radioqhantatiboliviasaopaulo.net",
     "romantschenko.grafi-offshore.com",
     "rohrreinigung-wiener-neustadt.at",
-    "rzss2zfue73dfvmj.onlinerpgame.ch"
+    "rzss2zfue73dfvmj.onlinerpgame.ch",
   ],
-  "89": [
+  89: [
     "81552.com",
     "85szv.com",
     "88fpw.com",
     "8m8cm.com",
     "86mld.com",
-    "84ers.com"
+    "84ers.com",
   ],
-  "c55": ["cest-pas-sorcierstreamflv.eurorscg.customers.artful.net"],
-  "310": ["3-50-90.ru", "3618dh.xyz"],
-  "r27": [
+  c55: ["cest-pas-sorcierstreamflv.eurorscg.customers.artful.net"],
+  310: ["3-50-90.ru", "3618dh.xyz"],
+  r27: [
     "revokocha.000webhostapp.com",
     "revoltfootballeducation.com",
     "ranonlinedominationep7.site",
@@ -30736,52 +30726,52 @@
     "rebolyschool.iso.karelia.ru",
     "restauranteelveintiseis.com",
     "royaltyreigninvestments.com",
-    "revivafotografiaescolar.com"
+    "revivafotografiaescolar.com",
   ],
-  "411": [
+  411: [
     "4vetcbd.com",
     "45tuyr.site",
     "4kmatch.net",
     "4drakona.ru",
-    "46.4.239.76"
+    "46.4.239.76",
   ],
-  "o64": ["online.dropbox.com.reload.access.check.now.latrobevillage.com.au"],
+  o64: ["online.dropbox.com.reload.access.check.now.latrobevillage.com.au"],
   "010": [
     "00zyku.com",
     "027tzx.com",
     "024fpv.com",
     "013nat.net",
     "000359.xyz",
-    "0fflce.xyz"
+    "0fflce.xyz",
   ],
-  "k33": ["kiziltepedemirdogramacilareso.org"],
-  "212": [
+  k33: ["kiziltepedemirdogramacilareso.org"],
+  212: [
     "2020bill.com",
     "24bizhub.com",
     "218.228.19.9",
     "211.18.200.4",
     "213.32.66.16",
-    "2.top4top.io"
+    "2.top4top.io",
   ],
-  "721": ["7-eleven-handbags.com", "7continents7lawns.com"],
-  "q20": [
+  721: ["7-eleven-handbags.com", "7continents7lawns.com"],
+  q20: [
     "qureshijewellery.com",
     "quranclassonline.net",
     "queda212.duckdns.org",
     "qwq7urac09jbde96.com",
     "qsbfwgtedexirbyoq.pw",
-    "questadaptations.com"
+    "questadaptations.com",
   ],
-  "g30": [
+  g30: [
     "geladinhogourmetoficial.com.br",
     "gravyshop111.000webhostapp.com",
     "gravyshop228.000webhostapp.com",
     "globalpassionentertainment.com",
     "gtxlpfirefly.000webhostapp.com",
-    "get-free-btc.000webhostapp.com"
+    "get-free-btc.000webhostapp.com",
   ],
-  "n31": ["new-standart-outsourcing.com.ua", "name242215315.000webhostapp.com"],
-  "o24": [
+  n31: ["new-standart-outsourcing.com.ua", "name242215315.000webhostapp.com"],
+  o24: [
     "oldenburgertransport.com",
     "ourdailybreadspokane.com",
     "office.horussolution.com",
@@ -30789,18 +30779,18 @@
     "onlinesecuritycenter.xyz",
     "odtahova-sluzba-praha.eu",
     "ovomaltineforever.com.br",
-    "orfhjmuotuucidiorcsv.com"
+    "orfhjmuotuucidiorcsv.com",
   ],
-  "i41": ["informationsecurity1323.000webhostapp.com"],
-  "319": ["3053-325-43-253.com"],
-  "y23": [
+  i41: ["informationsecurity1323.000webhostapp.com"],
+  319: ["3053-325-43-253.com"],
+  y23: [
     "youbtube59920.hopto.org",
     "yourlearningnetwork.net",
     "yasarkemalplatformu.org",
     "yumurtasiorganikkoy.com",
-    "youthmediaagency.org.uk"
+    "youthmediaagency.org.uk",
   ],
-  "914": [
+  914: [
     "91.228.239.216",
     "91.191.184.158",
     "93.170.131.108",
@@ -30813,53 +30803,46 @@
     "91.229.188.178",
     "91.230.211.103",
     "95.213.195.123",
-    "91.223.180.240"
+    "91.223.180.240",
   ],
-  "219": [
+  219: [
     "24hourprintshop.com",
     "2bdfb.spinakrosa.at",
     "2gdb4.leoraorage.at",
     "2012.rikschataxi.ch",
-    "23606.xc.wenpie.com"
+    "23606.xc.wenpie.com",
   ],
-  "q23": [
+  q23: [
     "queenslandworldwide.com",
     "quatest.sixstarsent.com",
     "quintaesencialghero.com",
     "queensaccessories.co.za",
     "queimaaivagaba.ddns.net",
-    "quentinconstruction.com"
+    "quentinconstruction.com",
   ],
-  "m38": ["microsoftonlinedocuments.onlyoffice.eu"],
-  "r36": [
+  m38: ["microsoftonlinedocuments.onlyoffice.eu"],
+  r36: [
     "rapport-de-stage-tevai-sallaberry.fr",
     "rapidosec-mauertrockenlegung-graz.at",
-    "roadstercrew-nw.homepage.t-online.de"
+    "roadstercrew-nw.homepage.t-online.de",
   ],
-  "c45": ["christinailoveyousomuchyoumyheart.duckdns.org"],
-  "h48": [
+  c45: ["christinailoveyousomuchyoumyheart.duckdns.org"],
+  h48: [
     "hgygbgfazoruthyshbcfzjzkdgbzbdzzsddfxfsa.ydns.eu",
-    "hncbeyghfsbvcuabgsbncvzgaioiuyegdbhabbbw.ydns.eu"
+    "hncbeyghfsbvcuabgsbncvzgaioiuyegdbhabbbw.ydns.eu",
   ],
-  "415": ["4wereareyou.icu"],
-  "f38": ["f4dsbjhb45wfiuqeib4fkqeg.meccaledgy.at"],
-  "119": ["12hourenergy.com.au", "1mfromthefuture.com", "1minutelifehack.com"],
-  "x8": [
-    "xvga.org",
-    "x16.life",
-    "x-vpn.ug",
-    "xfjt.org",
-    "xcpx.xyz",
-    "xfarm.co"
-  ],
-  "c34": [
+  415: ["4wereareyou.icu"],
+  f38: ["f4dsbjhb45wfiuqeib4fkqeg.meccaledgy.at"],
+  119: ["12hourenergy.com.au", "1mfromthefuture.com", "1minutelifehack.com"],
+  x8: ["xvga.org", "x16.life", "x-vpn.ug", "xfjt.org", "xcpx.xyz", "xfarm.co"],
+  c34: [
     "chasesecurityzone.oldcityhouse.com",
     "casadecamporealestatebyidarmis.com",
     "cmck4vve6e24wdktsc9n8l1izi7eb9.biz",
-    "camschlampen.notgeile-amateure.com"
+    "camschlampen.notgeile-amateure.com",
   ],
-  "x6": ["xmo.gr"],
-  "b7": [
+  x6: ["xmo.gr"],
+  b7: [
     "bg-n.nl",
     "bfz.biz",
     "brut.uz",
@@ -30868,17 +30851,17 @@
     "bwsr.eu",
     "bk01.ru",
     "badu.sk",
-    "bqsc.pt"
+    "bqsc.pt",
   ],
-  "u29": [
+  u29: [
     "updates-windows-10-184623.com",
     "unocl45trpuoefft.knowhands.us",
     "u2319351.plsk.regruhosting.ru",
     "uegenesaret.000webhostapp.com",
     "unocl45trpuoefft.metpast.date",
-    "uscentral17.myserverhosts.com"
+    "uscentral17.myserverhosts.com",
   ],
-  "t7": [
+  t7: [
     "tioq.ga",
     "to46.ru",
     "tin.exe",
@@ -30886,22 +30869,22 @@
     "tych.pe",
     "tg-h.ru",
     "t-mk.me",
-    "tjfr.tk"
+    "tjfr.tk",
   ],
-  "g29": [
+  g29: [
     "glendoradrivingandtraffic.com",
     "garagedoorcompanylosgatos.com",
     "gardendoctorconsulting.com.au",
-    "grindelwald.ferienimboden.com"
+    "grindelwald.ferienimboden.com",
   ],
-  "l40": ["ledger.com.downloads.update-server16.com"],
-  "j28": ["johngalvin.debutinfotech.com", "jimmysbait.haroocreative.com"],
-  "z23": ["zakelijkwebsitegemak.nl", "ziguratconstructora.com"],
-  "r34": [
+  l40: ["ledger.com.downloads.update-server16.com"],
+  j28: ["johngalvin.debutinfotech.com", "jimmysbait.haroocreative.com"],
+  z23: ["zakelijkwebsitegemak.nl", "ziguratconstructora.com"],
+  r34: [
     "recovery-fanpage1662.suport7288.gq",
-    "racingturtlesg07.000webhostapp.com"
+    "racingturtlesg07.000webhostapp.com",
   ],
-  "b24": [
+  b24: [
     "baraderoteinforma.com.ar",
     "boothbabeswithbrainz.com",
     "batchenangmuasieuben.com",
@@ -30930,14 +30913,14 @@
     "bombeirobianchini.com.br",
     "britneyspears.website.pl",
     "bygoogledotcom.hopto.org",
-    "bymixterix22.duckdns.org"
+    "bymixterix22.duckdns.org",
   ],
-  "217": ["2014.taktik-id.ch", "23243.xc.05cg.com", "2y-americanas.com"],
-  "z35": [
+  217: ["2014.taktik-id.ch", "23243.xc.05cg.com", "2y-americanas.com"],
+  z35: [
     "zyrstststzzxccxccddfgdd.duckdns.org",
-    "zerozerozeronullexploit.duckdns.org"
+    "zerozerozeronullexploit.duckdns.org",
   ],
-  "n24": [
+  n24: [
     "newindraprasthagroup.com",
     "nigeriatbpartnership.org",
     "naturalcode-thailand.com",
@@ -30956,33 +30939,33 @@
     "novactistoncklinkerv.xyz",
     "nxhkfxqivqfxmirdxiny.com",
     "newsmediainvestigasi.com",
-    "noingoaithatthanhnam.com"
+    "noingoaithatthanhnam.com",
   ],
-  "c33": [
+  c33: [
     "cosale.peluqueriacaninamorocha.cl",
     "chaoswarprivate.000webhostapp.com",
     "capitalcutexecutivebarbershop.com",
-    "chamboncaytrong.marigoldcatba.com"
+    "chamboncaytrong.marigoldcatba.com",
   ],
-  "38": ["365ia.cf", "3rock.ie", "3pan.com", "30bil.us"],
-  "k7": ["kbta.kr", "kneb.pl", "kaso.cf", "kvav.in", "k-t.icu", "kuvo.cl"],
-  "918": ["9kbgftfr82z4.space"],
-  "b29": [
+  38: ["365ia.cf", "3rock.ie", "3pan.com", "30bil.us"],
+  k7: ["kbta.kr", "kneb.pl", "kaso.cf", "kvav.in", "k-t.icu", "kuvo.cl"],
+  918: ["9kbgftfr82z4.space"],
+  b29: [
     "blog.broadcast-technology.com",
     "bbmalayalam.000webhostapp.com",
     "brandieburrillphotography.com",
     "benzemahaha.000webhostapp.com",
     "bocaratongaragedoorrepair.net",
     "bascii.education.gomoveup.com",
-    "babkastilak.000webhostapp.com"
+    "babkastilak.000webhostapp.com",
   ],
-  "h28": [
+  h28: [
     "haumaguerraevoceoalvo.com.br",
     "hale-jewish-community.org.uk",
-    "hialeahslidingdoorrepair.com"
+    "hialeahslidingdoorrepair.com",
   ],
-  "q52": ["qeeeeewwswsweerwwerwerwrwerwerwerwere.warzonedns.com"],
-  "k22": [
+  q52: ["qeeeeewwswsweerwwerwerwrwerwerwerwere.warzonedns.com"],
+  k22: [
     "kingsombra04.myftp.org",
     "kerui.designmehair.net",
     "krishnendutest.website",
@@ -30997,36 +30980,36 @@
     "kgeorucowkmhugt.usa.cc",
     "kathrin18.edv-kamue.de",
     "k9centersofamerica.com",
-    "kocamanmuhendislik.com"
+    "kocamanmuhendislik.com",
   ],
-  "710": ["741963.icu", "747big.com", "717720.com"],
-  "719": ["7medsatour.ddns.net", "75733.prohoster.biz"],
-  "l37": [
+  710: ["741963.icu", "747big.com", "717720.com"],
+  719: ["7medsatour.ddns.net", "75733.prohoster.biz"],
+  l37: [
     "lvps212-67-205-60.vps.webfusion.co.uk",
-    "lojasamericanas-ofertasimpediveis.com"
+    "lojasamericanas-ofertasimpediveis.com",
   ],
-  "g6": ["gzk.by", "ggq.kr", "gui.cl"],
-  "67": ["6hu.xyz"],
-  "w43": [
+  g6: ["gzk.by", "ggq.kr", "gui.cl"],
+  67: ["6hu.xyz"],
+  w43: [
     "whyuneedcrackfakesitehaha.000webhostapp.com",
     "www.isleofwightcomputerrepairs.talktalk.net",
-    "w6bfg4hahn5bfnlsafgchkvg5fwsfvrt.hareuna.at"
+    "w6bfg4hahn5bfnlsafgchkvg5fwsfvrt.hareuna.at",
   ],
-  "u30": [
+  u30: [
     "unocl45trpuoefft.meetsface.win",
     "unocl45trpuoefft.thanreal.link",
     "unocl45trpuoefft.ageshere.club",
-    "uslugitransportowe-warszawa.pl"
+    "uslugitransportowe-warszawa.pl",
   ],
-  "n46": ["nevertudywalkachinese2loneinlifektugwq.ydns.eu"],
-  "w47": ["windowsdefenderserversecuresofficew.duckdns.org"],
-  "u31": [
+  n46: ["nevertudywalkachinese2loneinlifektugwq.ydns.eu"],
+  w47: ["windowsdefenderserversecuresofficew.duckdns.org"],
+  u31: [
     "unitypestcontrolandservices.com",
     "ultragameshow.000webhostapp.com",
-    "unocl45trpuoefft.freshsdog.loan"
+    "unocl45trpuoefft.freshsdog.loan",
   ],
-  "614": ["64.207.144.148", "66.147.244.210"],
-  "j8": [
+  614: ["64.207.144.148", "66.147.244.210"],
+  j8: [
     "jett.com",
     "joovy.ga",
     "jajar.ru",
@@ -31038,55 +31021,55 @@
     "jawar.eu",
     "juran.pl",
     "jofre.eu",
-    "jambe.in"
+    "jambe.in",
   ],
-  "k28": [
+  k28: [
     "kingdomrealityministries.org",
     "kkd47eh4hdjshb5t.angortra.at",
     "kewagamangdentalclinic.co.bw",
     "karamelka1.000webhostapp.com",
     "karnatakatoursandtravels.com",
-    "kentengsari-grobogan.desa.id"
+    "kentengsari-grobogan.desa.id",
   ],
-  "x40": ["xyskyewhitedevilexploitgreat.duckdns.org"],
-  "i29": [
+  x40: ["xyskyewhitedevilexploitgreat.duckdns.org"],
+  i29: [
     "isumisilvergarden.web.fc2.com",
     "internationalamateurgames.com",
     "igniteinternationalschool.com",
     "itserviceemailupdate.sitey.me",
-    "ieexploreinternet.duckdns.org"
+    "ieexploreinternet.duckdns.org",
   ],
-  "x37": ["xn----7sbabegkij8byaeq9c3hpc.xn--p1ai"],
+  x37: ["xn----7sbabegkij8byaeq9c3hpc.xn--p1ai"],
   "017": ["030architects.com"],
-  "c47": [
+  c47: [
     "chnfsub2manglobalbusinessexytwosndy.duckdns.org",
-    "caribbeanrealestate.luxuryvilladestinations.com"
+    "caribbeanrealestate.luxuryvilladestinations.com",
   ],
-  "c48": [
+  c48: [
     "chneswsdy8wealthandorganisationjokbo.duckdns.org",
     "chneswealstdy8thandorganisationjokbo.duckdns.org",
-    "chnfsub2manglobalsndy2businessexytwo.duckdns.org"
+    "chnfsub2manglobalsndy2businessexytwo.duckdns.org",
   ],
-  "s48": ["secure01chasewebauthdashboard.electoralshock.com"],
-  "z31": ["zabilogha.ehost-services204.com", "zippywaytest.toppermaterial.com"],
-  "v7": ["veen.pw", "vbni.pw", "vata.pw"],
-  "m31": [
+  s48: ["secure01chasewebauthdashboard.electoralshock.com"],
+  z31: ["zabilogha.ehost-services204.com", "zippywaytest.toppermaterial.com"],
+  v7: ["veen.pw", "vbni.pw", "vata.pw"],
+  m31: [
     "materialsscienceconferences.com",
     "maawikdimuaro.000webhostapp.com",
     "makalelisiteler.ayakkabilar.org",
     "m-fb-security.000webhostapp.com",
     "mail010.applestore-id-apple.com",
-    "megaofertadospaisamericanas.com"
+    "megaofertadospaisamericanas.com",
   ],
-  "z27": [
+  z27: [
     "zashkvars.000webhostapp.com",
     "zvirinaal.000webhostapp.com",
     "zsn5qtrgfpu4tmpg.tor2web.fi",
     "zoeticbuildingandsupply.com",
-    "ztuw5bvuuapzdfya.klimbim.pl"
+    "ztuw5bvuuapzdfya.klimbim.pl",
   ],
-  "120": ["11011020.web.fc2.com"],
-  "r28": [
+  120: ["11011020.web.fc2.com"],
+  r28: [
     "rswiljbxvjipodakcfotx.online",
     "rentadeplantaselectricas.com",
     "resourcefamilyministries.com",
@@ -31094,34 +31077,34 @@
     "rootleadershipstrategies.com",
     "romantis.penghasilan.website",
     "racoonestlehomia.myq-see.com",
-    "richarddrakeconstruction.com"
+    "richarddrakeconstruction.com",
   ],
-  "d31": [
+  d31: [
     "de2nuvwegoo32oqv.torminimals.li",
     "dasproject.homepage.t-online.de",
-    "deciduate-pot.000webhostapp.com"
+    "deciduate-pot.000webhostapp.com",
   ],
-  "z5": ["zh.sg"],
-  "231": [
+  z5: ["zh.sg"],
+  231: [
     "27lelchgcvs2wpm7.wishsends.mobi",
     "27lelchgcvs2wpm7.apperloads.win",
-    "27lelchgcvs2wpm7.bonbestal.asia"
+    "27lelchgcvs2wpm7.bonbestal.asia",
   ],
-  "p30": [
+  p30: [
     "pmenboeqhyrpvomq.shutlazy.casa",
     "professionalyearcourses.com.au",
     "pmenboeqhyrpvomq.paypoints.red",
     "pmenboeqhyrpvomq.factordo.site",
-    "paypal.com.trueskinbysusan.com"
+    "paypal.com.trueskinbysusan.com",
   ],
-  "v24": [
+  v24: [
     "vitaliberatatraining.com",
     "vjjwuegyajqtiqmalkqv.com",
     "vastuvidyaarchitects.com",
     "vauodyrnlktmtobamdkd.com",
-    "vinhomesgoldenriver.info"
+    "vinhomesgoldenriver.info",
   ],
-  "v28": [
+  v28: [
     "vncservtec.000webhostapp.com",
     "vincity-oceanpark-gialam.com",
     "villasroofingcontractors.com",
@@ -31129,63 +31112,60 @@
     "vyhoang.airaworldtourism.com",
     "vrympoqs5ra34nfo.bigclear.at",
     "vrympoqs5ra34nfo.smartbus.at",
-    "videos-for-your-business.com"
+    "videos-for-your-business.com",
   ],
-  "526": [
+  526: [
     "52uo5k3t73ypjije.das34.com",
     "52uo5k3t73ypjije.kas17.com",
-    "52uo5k3t73ypjije.pop81.com"
+    "52uo5k3t73ypjije.pop81.com",
   ],
-  "o28": [
+  o28: [
     "online.bank.com.hostreme.com",
     "olanasouce.000webhostapp.com",
     "online3130.000webhostapp.com",
-    "ojmekzw4mujvqeju.minitili.at"
+    "ojmekzw4mujvqeju.minitili.at",
   ],
-  "516": ["5techexplore.com", "5ineprojects.com", "5eta5jd58hb4.top"],
-  "o7": [
+  516: ["5techexplore.com", "5ineprojects.com", "5eta5jd58hb4.top"],
+  o7: [
     "ozzu.de",
     "otsn.se",
     "osdc.eu",
     "odzs.cz",
     "ozka.ro",
     "ovsz.ru",
-    "o2x9.ml"
+    "o2x9.ml",
   ],
-  "b35": [
+  b35: [
     "blogdovarejo.campanhamartins.com.br",
-    "bank-of-america-logon-online.usa.cc"
+    "bank-of-america-logon-online.usa.cc",
   ],
-  "j27": [
+  j27: [
     "jaiminishikshansansthan.org",
     "jddjj4j4j.000webhostapp.com",
     "joxax.privatedocuments.site",
     "jiyasweetsandrestaurant.com",
-    "jimbramblettproductions.com"
+    "jimbramblettproductions.com",
   ],
-  "y35": ["yaroslavdimitriev.000webhostapp.com"],
-  "x51": ["xn--5--6kcli1co1a1g.xn--4-ctbbkbb9af1aqi5c.xn--p1ai"],
-  "e6": ["esp.jp", "eor.ir", "etn.fm", "egd.jp", "euk.lt", "emg.su"],
+  y35: ["yaroslavdimitriev.000webhostapp.com"],
+  x51: ["xn--5--6kcli1co1a1g.xn--4-ctbbkbb9af1aqi5c.xn--p1ai"],
+  e6: ["esp.jp", "eor.ir", "etn.fm", "egd.jp", "euk.lt", "emg.su"],
   "020": ["00005ik.rcomhost.com", "07739354761.ddns.net"],
-  "y33": ["yyre45dbvn2nhbefbmh.begumvelic.at"],
-  "u81": [
-    "update-account-information.com.cgi-bin.cgi-bin.webscrcmd-login-submit.ipds.org.np"
+  y33: ["yyre45dbvn2nhbefbmh.begumvelic.at"],
+  u81: [
+    "update-account-information.com.cgi-bin.cgi-bin.webscrcmd-login-submit.ipds.org.np",
   ],
-  "x7": ["xgmb.ga", "xpto.ga", "x4r7.ru", "x-f.fun"],
-  "618": ["6g4ds.froekuge.com", "67ytfffyt.ddns.net"],
-  "j30": ["juliannas957.000webhostapp.com"],
-  "a37": ["allochthonous-stare.000webhostapp.com"],
-  "h32": [
-    "hairflicksmodelphotography.co.uk",
-    "hoiquanarsenal.000webhostapp.com"
-  ],
-  "u34": [
+  x7: ["xgmb.ga", "xpto.ga", "x4r7.ru", "x-f.fun"],
+  618: ["6g4ds.froekuge.com", "67ytfffyt.ddns.net"],
+  j30: ["juliannas957.000webhostapp.com"],
+  a37: ["allochthonous-stare.000webhostapp.com"],
+  h32: ["hairflicksmodelphotography.co.uk", "hoiquanarsenal.000webhostapp.com"],
+  u34: [
     "unsurmised-pecks.000webhostapp.com",
-    "unconfessed-seam.000webhostapp.com"
+    "unconfessed-seam.000webhostapp.com",
   ],
   "#3": ["###"],
-  "b6": ["bst.tw", "bvn.lt", "biu.ac", "bsm.sk"],
-  "p29": [
+  b6: ["bst.tw", "bvn.lt", "biu.ac", "bsm.sk"],
+  p29: [
     "puskesmas-sungaitabuk2.online",
     "psychicmediumsylviamullan.com",
     "presentedopapaiamericanas.com",
@@ -31195,54 +31175,51 @@
     "pmenboeqhyrpvomq.loopsay.link",
     "projetoaberto2019.duckdns.org",
     "pemudasumbersewumarketing.com",
-    "panel.pkbmlambefoundation.com"
+    "panel.pkbmlambefoundation.com",
   ],
-  "e49": ["espace.freemobile-particulier.nawfalk1.beget.tech"],
-  "322": ["36scanniointeriors.com"],
-  "l32": [
-    "licenciamentotraumaclinic.com.br",
-    "luissalamanca.tarjetavirtual.biz"
-  ],
-  "c39": [
+  e49: ["espace.freemobile-particulier.nawfalk1.beget.tech"],
+  322: ["36scanniointeriors.com"],
+  l32: ["licenciamentotraumaclinic.com.br", "luissalamanca.tarjetavirtual.biz"],
+  c39: [
     "cheeksfanpage1222.plischeksfansspage.cf",
-    "checkpoint-info330211.000webhostapp.com"
+    "checkpoint-info330211.000webhostapp.com",
   ],
-  "x19": [
+  x19: [
     "xn--90avpa.xn--p1ai",
     "xchange.duckdns.org",
     "xn--bimain-j17b.com",
     "xddark187x.ddns.net",
     "xcnn.datapath-uk.gq",
-    "xhrnfffaixawpuob.pw"
+    "xhrnfffaixawpuob.pw",
   ],
-  "w31": [
+  w31: [
     "wwwclplonline.000webhostapp.com",
     "www.association-julescatoire.fr",
     "www.fastbikesusa.comcastbiz.net",
     "www.ccnprodusenaturiste.home.ro",
     "wordpresswebmasterworkshops.com",
-    "www.closecombat.mynetcologne.de"
+    "www.closecombat.mynetcologne.de",
   ],
-  "e34": ["einfachwalter.homepage.t-online.de"],
-  "128": ["10presidentesparavoce.com.br"],
-  "w42": [
+  e34: ["einfachwalter.homepage.t-online.de"],
+  128: ["10presidentesparavoce.com.br"],
+  w42: [
     "webmailserveurmailings01.000webhostapp.com",
-    "webmailserveurmailings08.000webhostapp.com"
+    "webmailserveurmailings08.000webhostapp.com",
   ],
-  "h6": ["hsb.pw", "hlh.sk"],
-  "d34": [
+  h6: ["hsb.pw", "hlh.sk"],
+  d34: [
     "dichvuvesinhcongnghiepnhatminh.com",
     "dyslexic-picture.000webhostapp.com",
-    "deviceful-errors.000webhostapp.com"
+    "deviceful-errors.000webhostapp.com",
   ],
-  "r38": ["rbg4hfbilrf7to452p89hrfq.boonmower.com"],
-  "f31": ["free-mobile.reactivei-idfrs.com", "faucethubggrip.linkandzelda.com"],
-  "r52": [
+  r38: ["rbg4hfbilrf7to452p89hrfq.boonmower.com"],
+  f31: ["free-mobile.reactivei-idfrs.com", "faucethubggrip.linkandzelda.com"],
+  r52: [
     "russchine2specialstdy1plumbingmaterialsv.duckdns.org",
-    "russchine2specialstdy2plumbingmaterialgh.duckdns.org"
+    "russchine2specialstdy2plumbingmaterialgh.duckdns.org",
   ],
-  "47": ["4ix.com", "4you.by", "4vp.xyz"],
-  "211": [
+  47: ["4ix.com", "4you.by", "4vp.xyz"],
+  211: [
     "2mouses.com",
     "2magas.site",
     "2barazi.com",
@@ -31251,52 +31228,52 @@
     "24linux.com",
     "2rtt-2rm.ru",
     "2tor.com.mx",
-    "2511463.top"
+    "2511463.top",
   ],
-  "a34": [
+  a34: [
     "absorbent-spokes.000webhostapp.com",
-    "alorzeesmoneyone.000webhostapp.com"
+    "alorzeesmoneyone.000webhostapp.com",
   ],
-  "p35": [
+  p35: [
     "pmenboeqhyrpvomq.swissprogramms.bid",
     "psl-ecoleinterne.inscription.psl.eu",
     "protecaccountamik.000webhostapp.com",
     "pmenboeqhyrpvomq.hasterlyston.cloud",
-    "paypal.login.us.wahanadigital.co.id"
+    "paypal.login.us.wahanadigital.co.id",
   ],
-  "d51": ["domain.local-bd0fddf4c41ce0addf40701e8992c9bb.email"],
-  "h7": ["hksv.jp", "hdac.se", "hela.vn"],
-  "27": ["2d73.ru"],
-  "423": ["45-76-47-204.plesk.page"],
-  "r43": ["register-acunt-fanpage89.suportconfrim76.ml"],
-  "o58": ["ogrlhekhlaopphfohrjxvrmqqiekiuffoeiewvkszsmlapwtphntjv.xyz"],
-  "y28": [
+  d51: ["domain.local-bd0fddf4c41ce0addf40701e8992c9bb.email"],
+  h7: ["hksv.jp", "hdac.se", "hela.vn"],
+  27: ["2d73.ru"],
+  423: ["45-76-47-204.plesk.page"],
+  r43: ["register-acunt-fanpage89.suportconfrim76.ml"],
+  o58: ["ogrlhekhlaopphfohrjxvrmqqiekiuffoeiewvkszsmlapwtphntjv.xyz"],
+  y28: [
     "your-fanpagee1.regis-dev9.tk",
     "yourwellnessprescription.com",
     "yourfortressforwellbeing.com",
-    "yusaipek.dijitalmerdiven.com"
+    "yusaipek.dijitalmerdiven.com",
   ],
-  "u7": ["ugan.ga", "ulin.jp", "up6.org"],
-  "g33": [
+  u7: ["ugan.ga", "ulin.jp", "up6.org"],
+  g33: [
     "generatorsupercenterofatlanta.com",
     "gregor-weiss.business.t-online.de",
     "gloriabz.webrevolutionfactory.com",
-    "gate.mindblowserverdocnetwork.xyz"
+    "gate.mindblowserverdocnetwork.xyz",
   ],
-  "y29": ["yakugyoufukushikyousaikai.com"],
-  "132": ["189-211-177-171.static.axtel.net"],
-  "828": ["8fvchzuz.myutilitydomain.com", "8989898989.000webhostapp.com"],
-  "d33": [
+  y29: ["yakugyoufukushikyousaikai.com"],
+  132: ["189-211-177-171.static.axtel.net"],
+  828: ["8fvchzuz.myutilitydomain.com", "8989898989.000webhostapp.com"],
+  d33: [
     "decoratingideas.bozkurtfurkan.com",
     "de2nuvwegoo32oqv.tortelevision.li",
     "davidaredetoate.000webhostapp.com",
-    "documentational.000webhostapp.com"
+    "documentational.000webhostapp.com",
   ],
-  "B16": ["BenavidezHoy.com"],
-  "r6": ["r-s.us"],
-  "m6": ["mch.kz", "mbl.hk", "m3t.cz", "mo4.vn", "mcc.pe", "mib.tn"],
-  "612": ["64.22.100.95", "66586658.com", "69.61.11.216", "60708090.xyz"],
-  "19": [
+  B16: ["BenavidezHoy.com"],
+  r6: ["r-s.us"],
+  m6: ["mch.kz", "mbl.hk", "m3t.cz", "mo4.vn", "mcc.pe", "mib.tn"],
+  612: ["64.22.100.95", "66586658.com", "69.61.11.216", "60708090.xyz"],
+  19: [
     "1pro.club",
     "12azar.ir",
     "1miras.ru",
@@ -31307,15 +31284,15 @@
     "11vet.com",
     "11moo.com",
     "13r.lg.ua",
-    "1gouw.com"
+    "1gouw.com",
   ],
-  "x75": [
+  x75: [
     "xfinity.com--------phone--confirmation---service-86362368.antiochian.org.nz",
-    "xfinity.com--------phone--confirmation---service-11601574.antiochian.org.nz"
+    "xfinity.com--------phone--confirmation---service-11601574.antiochian.org.nz",
   ],
-  "z51": ["zerodayv3startedexploitpcwithexcelgreat.duckdns.org"],
-  "224": ["2625886-0.web-hosting.es"],
-  "812": [
+  z51: ["zerodayv3startedexploitpcwithexcelgreat.duckdns.org"],
+  224: ["2625886-0.web-hosting.es"],
+  812: [
     "85868585.com",
     "8501sanl.com",
     "82.196.6.154",
@@ -31327,13 +31304,13 @@
     "83.217.8.234",
     "81.177.27.36",
     "80.87.202.49",
-    "83.217.8.127"
+    "83.217.8.127",
   ],
-  "e35": [
+  e35: [
     "edufoxconsultancy.000webhostapp.com",
-    "ejerciciosantonio.000webhostapp.com"
+    "ejerciciosantonio.000webhostapp.com",
   ],
-  "g27": [
+  g27: [
     "garagedoorrepairteaneck.com",
     "grupoajedrecisticoaleph.com",
     "giftedhands-association.com",
@@ -31342,10 +31319,10 @@
     "growmybusinessfinancing.com",
     "gangbanghangchang.myftp.biz",
     "gigatelibertadores.ddns.net",
-    "garciniacambogiascience.com"
+    "garciniacambogiascience.com",
   ],
-  "f28": ["fotouniek.grafi-offshore.com", "foroanticorrupcion.sytes.net"],
-  "r26": [
+  f28: ["fotouniek.grafi-offshore.com", "foroanticorrupcion.sytes.net"],
+  r26: [
     "reachingblackconsumers.com",
     "rdinformatique.akeonet.com",
     "rizelol-51335.portmap.host",
@@ -31358,114 +31335,111 @@
     "redrhinomakeuptrailers.com",
     "redm1az1.000webhostapp.com",
     "register-90.d3v-fanpag3.tk",
-    "redwingdemo.dukaafrica.com"
+    "redwingdemo.dukaafrica.com",
   ],
-  "x30": [
+  x30: [
     "xindetrading.000webhostapp.com",
     "xn--12cu0blb1czcya6b9a5i0e.com",
-    "xn--d1ahebikdfcgr7jsa.xn--p1ai"
+    "xn--d1ahebikdfcgr7jsa.xn--p1ai",
   ],
-  "910": ["91ise.info", "917flw.com", "92jobz.com", "95photo.cn"],
-  "e30": [
+  910: ["91ise.info", "917flw.com", "92jobz.com", "95photo.cn"],
+  e30: [
     "electricienlarocheparis3eme.fr",
     "emagrecendocomsaude2019.online",
     "elotakarekossag.konnyuhitel.hu",
     "errictandalex.kenaidanceta.com",
     "edenvalehotelgh.bulletbean.com",
-    "escolabarretodejiujitsu.com.br"
+    "escolabarretodejiujitsu.com.br",
   ],
-  "o32": [
-    "observatoriodagastronomia.com.br",
-    "online.tdbank.com.profiremgt.com"
-  ],
-  "123": ["11jamesjacksondrive.com", "1stop-entertainment.com"],
-  "s6": ["sp.exe"],
-  "m34": [
+  o32: ["observatoriodagastronomia.com.br", "online.tdbank.com.profiremgt.com"],
+  123: ["11jamesjacksondrive.com", "1stop-entertainment.com"],
+  s6: ["sp.exe"],
+  m34: [
     "makanankhasjogya.000webhostapp.com",
     "mudanzasycargasinternacionales.com",
     "match.mynewmatchpictureprofile.com",
     "martin-decker.homepage.t-online.de",
     "mechthild-hettich.neagoeandrei.com",
-    "mailgoi001.applestore-id-apple.com"
+    "mailgoi001.applestore-id-apple.com",
   ],
-  "417": ["4rebaopfgrewe.top"],
-  "w52": [
+  417: ["4rebaopfgrewe.top"],
+  w52: [
     "windowsdefendersecurefilesofficesnetwork.duckdns.org",
-    "webxpotechnologystdy2hardsoftwareshopers.duckdns.org"
+    "webxpotechnologystdy2hardsoftwareshopers.duckdns.org",
   ],
-  "o34": [
+  o34: [
     "ofertasupresadospaisamericanas.com",
-    "order-now.yourdailyassignments.com"
+    "order-now.yourdailyassignments.com",
   ],
-  "a38": [
+  a38: [
     "aspsensewiretransfergoogle.duckdns.org",
     "acunt-fanpage00.plis-suport2-center.ga",
     "apple.com-webbrowsing-security.science",
-    "africabootcampacademy.influencetec.net"
+    "africabootcampacademy.influencetec.net",
   ],
-  "n28": [
+  n28: [
     "nationalnutritionnetwork.com",
     "nathangetyournadscutoff.life",
     "nnedvegetables-seller148.com",
     "natural-anxiety-remedies.com",
     "ntservicepack-mcrosoft.rocks",
     "nasirmanzoortechnologies.com",
-    "northquestinvestments.london"
+    "northquestinvestments.london",
   ],
-  "r47": ["russchine2sndymapanxmenischangednetsncm.ydns.eu"],
-  "c52": [
+  r47: ["russchine2sndymapanxmenischangednetsncm.ydns.eu"],
+  c52: [
     "chnfrndwsdy1securityandgorvermentsocialf.duckdns.org",
     "chnwsdy3threewealthandreinforcementagenc.duckdns.org",
     "chnfrndsub1inteligentangencysndy4project.duckdns.org",
     "chnsndyglobalwealthandreinforcementagenc.duckdns.org",
-    "chnwsdyglobalwealthandreinforcementagenc.duckdns.org"
+    "chnwsdyglobalwealthandreinforcementagenc.duckdns.org",
   ],
-  "c49": [
+  c49: [
     "chnftwosndymanglobalbusinessexyandjps.duckdns.org",
-    "chnfthdytwomanglobalbusinessexyandjps.duckdns.org"
+    "chnfthdytwomanglobalbusinessexyandjps.duckdns.org",
   ],
-  "t34": [
+  t34: [
     "thecottagespsychotherapycenter.com",
-    "t54ndnku456ngkwsudqer.wallymac.com"
+    "t54ndnku456ngkwsudqer.wallymac.com",
   ],
-  "b33": [
+  b33: [
     "boticariovalepresent.home.sapo.pt",
     "bigislandhawaiihilorealestate.com",
-    "boutiquell.almteam-consulting.com"
+    "boutiquell.almteam-consulting.com",
   ],
-  "117": [
+  117: [
     "125ru.web.fc2.com",
     "185-24-53-218.com",
     "1natureresort.com",
-    "1337gang.ddns.net"
+    "1337gang.ddns.net",
   ],
-  "s41": [
+  s41: [
     "systemserverrootmapforfiletrn.duckdns.org",
     "silkonbusiness.matrixinfotechsolution.com",
     "sondr5344ygfweyjbfkw4fhsefv.heliofetch.at",
-    "sfghfsfjskdjkdfbvndcnfjskaklwrrfw.ydns.eu"
+    "sfghfsfjskdjkdfbvndcnfjskaklwrrfw.ydns.eu",
   ],
-  "228": [
+  228: [
     "23w4erdtfg.000webhostapp.com",
     "2018movies.000webhostapp.com",
-    "2idiotsandnobusinessplan.com"
+    "2idiotsandnobusinessplan.com",
   ],
-  "414": ["40999.ddns.net", "4006600592.com"],
-  "622": ["654tyfcdr4654fytfy.top"],
-  "916": ["989coworking.com"],
-  "s50": [
+  414: ["40999.ddns.net", "4006600592.com"],
+  622: ["654tyfcdr4654fytfy.top"],
+  916: ["989coworking.com"],
+  s50: [
     "shgshgnstdy7ationalindustrialgoogleklm.duckdns.org",
-    "shgshgsndy6nationalindustrialgoogleklm.duckdns.org"
+    "shgshgsndy6nationalindustrialgoogleklm.duckdns.org",
   ],
-  "u37": [
+  u37: [
     "uninscribed-reservo.000webhostapp.com",
     "unoppressive-operat.000webhostapp.com",
-    "unobscured-evaluati.000webhostapp.com"
+    "unobscured-evaluati.000webhostapp.com",
   ],
   "014": ["0793mobile.com", "0day4today.com"],
-  "n40": ["newyearddnsaddressupdatelink.duckdns.org"],
-  "z28": ["zsn5qtrgfpu4tmpg.tor2web.org", "zjfq4lnfbs7pncr5.tor2web.org"],
-  "814": [
+  n40: ["newyearddnsaddressupdatelink.duckdns.org"],
+  z28: ["zsn5qtrgfpu4tmpg.tor2web.org", "zjfq4lnfbs7pncr5.tor2web.org"],
+  814: [
     "89186304545.ru",
     "81.218.219.227",
     "88.214.236.182",
@@ -31475,117 +31449,117 @@
     "82.202.221.108",
     "88.150.144.236",
     "83.220.172.182",
-    "86.104.134.144"
+    "86.104.134.144",
   ],
-  "528": ["529265.swh.strato-hosting.eu"],
-  "A14": ["AVTORESURS.NET"],
-  "b37": ["b4youfred5485jgsa3453f.italazudda.com"],
-  "715": ["7de3.shandow.ru", "789456123.space"],
-  "q8": ["qhemp.io", "qsyzf.cn", "qisa.xyz"],
-  "a31": [
+  528: ["529265.swh.strato-hosting.eu"],
+  A14: ["AVTORESURS.NET"],
+  b37: ["b4youfred5485jgsa3453f.italazudda.com"],
+  715: ["7de3.shandow.ru", "789456123.space"],
+  q8: ["qhemp.io", "qsyzf.cn", "qisa.xyz"],
+  a31: [
     "amex-webcards.000webhostapp.com",
     "a2plvcpnl14118.atendclients.com",
-    "affordablebatonrougebraces.site"
+    "affordablebatonrougebraces.site",
   ],
-  "816": ["888ghostbaca.com", "8e3d.duckdns.org", "866appliance.com"],
-  "a41": ["a64gfdsjhb4htbiwaysbdvukyft5q.zobodine.at"],
-  "z69": [
-    "zyncxxcciidiiudfisuifsiufusdfisdisifidfisuifisfisifisu.warzonedns.com"
+  816: ["888ghostbaca.com", "8e3d.duckdns.org", "866appliance.com"],
+  a41: ["a64gfdsjhb4htbiwaysbdvukyft5q.zobodine.at"],
+  z69: [
+    "zyncxxcciidiiudfisuifsiufusdfisdisifidfisuifisfisifisu.warzonedns.com",
   ],
-  "e40": ["educationalistaptechnn.000webhostapp.com"],
-  "p43": ["prest54538hnksjn4kjfwdbhwere.hotchunman.com"],
-  "711": ["7-medya.com", "7hdfilm.xyz"],
-  "d30": [
+  e40: ["educationalistaptechnn.000webhostapp.com"],
+  p43: ["prest54538hnksjn4kjfwdbhwere.hotchunman.com"],
+  711: ["7-medya.com", "7hdfilm.xyz"],
+  d30: [
     "deathsun1337.000webhostapp.com",
     "davidosik228.000webhostapp.com",
     "damiano.modexcommunications.eu",
     "darren.galactictechnologies.in",
     "drommtoinononcechangerrer.info",
-    "dev.gdia.com.vhost.zerolag.com"
+    "dev.gdia.com.vhost.zerolag.com",
   ],
-  "a33": [
+  a33: [
     "americanas-ofertasimperdiveis.com",
     "arki.trusecudosdeslyinvoicsed.top",
-    "account.paypal-inc.tribesiren.com"
+    "account.paypal-inc.tribesiren.com",
   ],
-  "b38": ["blessedstudiodigital.000webhostapp.com"],
-  "j26": [
+  b38: ["blessedstudiodigital.000webhostapp.com"],
+  j26: [
     "jurasik.serveminecraft.net",
     "josephcarterministries.com",
     "jiemoh13.000webhostapp.com",
     "judowattrelos.perso.sfr.fr",
     "judgedeborahshallcross.com",
-    "jayacoat-industries.com.my"
+    "jayacoat-industries.com.my",
   ],
-  "n34": [
+  n34: [
     "nnrtsdf34dsjhb23rsdf.spannflow.com",
-    "nelsonhostingcom.000webhostapp.com"
+    "nelsonhostingcom.000webhostapp.com",
   ],
-  "942": ["94dbhbj3l4blaeyfgl7q45glbaer.giponfeste.at"],
-  "87": ["8vs.com"],
-  "a51": ["amazon.com-ordercancellation.fatihelektronik.com.tr"],
-  "o6": ["ots.sd", "ozz.su"],
-  "w48": ["windowsdefenderserversecuresofficeiq.duckdns.org"],
-  "k35": [
+  942: ["94dbhbj3l4blaeyfgl7q45glbaer.giponfeste.at"],
+  87: ["8vs.com"],
+  a51: ["amazon.com-ordercancellation.fatihelektronik.com.tr"],
+  o6: ["ots.sd", "ozz.su"],
+  w48: ["windowsdefenderserversecuresofficeiq.duckdns.org"],
+  k35: [
     "kinkier-safeguard.000webhostapp.com",
-    "kreisfeuerwehrverband-euskirchen.de"
+    "kreisfeuerwehrverband-euskirchen.de",
   ],
-  "426": ["4kqd3hmqgptupi3p.asfall.in", "4kqd3hmqgptupi3p.athere.in"],
-  "r41": ["ransomware-alert.secure-server-alert.info"],
-  "s61": ["snowagainfearfreezesagainagainitfeelslikeiceisinmyhands.space"],
-  "k30": ["kknk-shop.dev.onnetdigital.com", "keloa97w2.fanpage-serviese2.cf"],
-  "68": ["68h7.com", "6pak.xyz", "69po.com", "67ms.top"],
-  "w44": ["windowsfirewallsecurityauthorise.duckdns.org"],
-  "x39": ["xn--12cs3ad5a6alt7c1a6cva8byhn4hnno.com"],
-  "u35": ["unitedstatesonlinesportsbetting.com"],
-  "l78": [
-    "login.linkedin.update.secure.login.security.com-linkedin.login.pucknopener.com"
+  426: ["4kqd3hmqgptupi3p.asfall.in", "4kqd3hmqgptupi3p.athere.in"],
+  r41: ["ransomware-alert.secure-server-alert.info"],
+  s61: ["snowagainfearfreezesagainagainitfeelslikeiceisinmyhands.space"],
+  k30: ["kknk-shop.dev.onnetdigital.com", "keloa97w2.fanpage-serviese2.cf"],
+  68: ["68h7.com", "6pak.xyz", "69po.com", "67ms.top"],
+  w44: ["windowsfirewallsecurityauthorise.duckdns.org"],
+  x39: ["xn--12cs3ad5a6alt7c1a6cva8byhn4hnno.com"],
+  u35: ["unitedstatesonlinesportsbetting.com"],
+  l78: [
+    "login.linkedin.update.secure.login.security.com-linkedin.login.pucknopener.com",
   ],
-  "g48": ["globaltransfersecurefilethroughcloud.duckdns.org"],
-  "a47": ["antipiracytudydetectorganisationfftugpb.ydns.eu"],
-  "m37": [
+  g48: ["globaltransfersecurefilethroughcloud.duckdns.org"],
+  a47: ["antipiracytudydetectorganisationfftugpb.ydns.eu"],
+  m37: [
     "mobile.integritylandscapeservices.com",
     "maypinnoidianhat.daocatdongphuong.com",
     "manhattanluxuryrealestatelistings.com",
-    "mozillamaintenanceservice.duckdns.org"
+    "mozillamaintenanceservice.duckdns.org",
   ],
-  "w37": ["water-cooled-cycles.000webhostapp.com"],
-  "c56": ["customer-bankofamerica-login-auth-verify.c8.ixsecure.com"],
-  "434": [
+  w37: ["water-cooled-cycles.000webhostapp.com"],
+  c56: ["customer-bankofamerica-login-auth-verify.c8.ixsecure.com"],
+  434: [
     "4kqd3hmqgptupi3p.gletterstan.trade",
-    "4kqd3hmqgptupi3p.barberryshin.casa"
+    "4kqd3hmqgptupi3p.barberryshin.casa",
   ],
-  "f7": ["fshr.al", "fu-k.jp", "fnk.exe"],
-  "p39": [
+  f7: ["fshr.al", "fu-k.jp", "fnk.exe"],
+  p39: [
     "po4dbsjbneljhrlbvaueqrgveatv.bonmawp.at",
-    "pagesecurityinbox5621.000webhostapp.com"
+    "pagesecurityinbox5621.000webhostapp.com",
   ],
-  "l38": ["londonmarathon2019.kevinmiller66.co.uk"],
-  "c38": ["chennaiadvancedwoundcareconference.com"],
-  "c57": ["cancel.transaction.73891347.itunes.apple.semsyayinevi.com"],
-  "t35": [
+  l38: ["londonmarathon2019.kevinmiller66.co.uk"],
+  c38: ["chennaiadvancedwoundcareconference.com"],
+  c57: ["cancel.transaction.73891347.itunes.apple.semsyayinevi.com"],
+  t35: [
     "tes543berda73i48fsdfsd.keratadze.at",
     "taking-technician.000webhostapp.com",
-    "the-bombay-summit.000webhostapp.com"
+    "the-bombay-summit.000webhostapp.com",
   ],
-  "g41": ["googlecentreservices.rockhillrealtytx.com"],
-  "519": ["50engineersroad.com", "5brightsiblings.com"],
-  "z30": ["zahidahmedtk.000webhostapp.com"],
-  "a52": [
+  g41: ["googlecentreservices.rockhillrealtytx.com"],
+  519: ["50engineersroad.com", "5brightsiblings.com"],
+  z30: ["zahidahmedtk.000webhostapp.com"],
+  a52: [
     "antipiracy1sndydetectorganisationforfilm.duckdns.org",
     "antipiracydetectorganisationforwsdy3film.duckdns.org",
-    "antipiracydetectandorganisationforfilmhs.duckdns.org"
+    "antipiracydetectandorganisationforfilmhs.duckdns.org",
   ],
-  "v32": ["verificasih11.f4npage-confr1m.gq"],
-  "m69": [
-    "microsfotgooglegmailoutlook365mailallaregoodformailing.warzonedns.com"
+  v32: ["verificasih11.f4npage-confr1m.gq"],
+  m69: [
+    "microsfotgooglegmailoutlook365mailallaregoodformailing.warzonedns.com",
   ],
-  "n41": ["neu.hansmuennich.de.baugebiet-stadlhof.de"],
-  "y8": ["yarpa.lt", "ymams.cf", "yual.top", "ydona.ru", "ycgrp.jp"],
-  "v36": ["verifikasi9888.regis-from-alert32.tk"],
-  "137": ["13453765871837679316.googlegroups.com"],
-  "46": ["4im.us"],
-  "410": [
+  n41: ["neu.hansmuennich.de.baugebiet-stadlhof.de"],
+  y8: ["yarpa.lt", "ymams.cf", "yual.top", "ydona.ru", "ycgrp.jp"],
+  v36: ["verifikasi9888.regis-from-alert32.tk"],
+  137: ["13453765871837679316.googlegroups.com"],
+  46: ["4im.us"],
+  410: [
     "4celia.com",
     "4k-iptv.eu",
     "46.8.45.18",
@@ -31593,23 +31567,23 @@
     "46.8.44.39",
     "4office.pl",
     "4llion.com",
-    "4turka.com"
+    "4turka.com",
   ],
-  "j41": ["jago-computerservice.homepage.t-online.de"],
-  "142": [
+  j41: ["jago-computerservice.homepage.t-online.de"],
+  142: [
     "10022020test481-service1002012510022020.ru",
-    "10022020test51-service1002012510022020.xyz"
+    "10022020test51-service1002012510022020.xyz",
   ],
-  "g47": [
+  g47: [
     "gfkuwflbhsjdabnu4nfukerfqwlfwr4rw.ringbalor.com",
-    "globalinvestmentgooglewebdnsaddress.duckdns.org"
+    "globalinvestmentgooglewebdnsaddress.duckdns.org",
   ],
-  "c50": ["chnfsub1manglobalbusinessexysndyandone.duckdns.org"],
-  "k51": [
+  c50: ["chnfsub1manglobalbusinessexysndyandone.duckdns.org"],
+  k51: [
     "kkr4hbwdklf234bfl84uoqleflqwrfqwuelfh.brazabaya.com",
-    "kh5jfnvkk5twerfnku5twuilrnglnuw45yhlw.vealsithe.com"
+    "kh5jfnvkk5twerfnku5twuilrnglnuw45yhlw.vealsithe.com",
   ],
-  "a32": [
+  a32: [
     "app-1541815294.000webhostapp.com",
     "allan.multimediedesignerskive.dk",
     "allinautomatic.allinautomatic.nl",
@@ -31619,279 +31593,271 @@
     "astonisher1209.000webhostapp.com",
     "app-1502132339.000webhostapp.com",
     "abrirmeiportaldoempreendedor.com",
-    "abcbureautique.abc.perso.neuf.fr"
+    "abcbureautique.abc.perso.neuf.fr",
   ],
-  "t6": ["tta.jo", "tuu.nu"],
-  "628": ["6306481-0.alojamiento-web.es"],
-  "z24": [
+  t6: ["tta.jo", "tuu.nu"],
+  628: ["6306481-0.alojamiento-web.es"],
+  z24: [
     "zekisincarproduction.com",
     "zharifsofiaexchanger.com",
-    "zylokk.000webhostapp.com"
+    "zylokk.000webhostapp.com",
   ],
-  "m48": [
+  m48: [
     "metadefenderinternationalsolutionfor.duckdns.org",
     "msofficecloudtransferfileprotocolsys.duckdns.org",
-    "msofficesecuredfiletransferinfocloud.duckdns.org"
+    "msofficesecuredfiletransferinfocloud.duckdns.org",
   ],
-  "f34": ["fredrickfrank200.000webhostapp.com"],
-  "g34": ["google-chrome-updating.duckdns.org"],
-  "l6": ["lfc.by"],
-  "h34": ["haganelectronics.rubickdesigns.com"],
-  "121": ["1worlditsolutions.com", "142.ip-164-132-197.eu"],
-  "422": ["4advice-interactive.be"],
-  "x35": ["xn--80ajahcbcdpeycafhi6j5d.xn--p1ai"],
-  "q7": ["qvam.gr"],
-  "p36": ["particuliers-lcl2.acountactivity5.fr"],
-  "p34": [
+  f34: ["fredrickfrank200.000webhostapp.com"],
+  g34: ["google-chrome-updating.duckdns.org"],
+  l6: ["lfc.by"],
+  h34: ["haganelectronics.rubickdesigns.com"],
+  121: ["1worlditsolutions.com", "142.ip-164-132-197.eu"],
+  422: ["4advice-interactive.be"],
+  x35: ["xn--80ajahcbcdpeycafhi6j5d.xn--p1ai"],
+  q7: ["qvam.gr"],
+  p36: ["particuliers-lcl2.acountactivity5.fr"],
+  p34: [
     "pramodkumarsingh.000webhostapp.com",
     "pmenboeqhyrpvomq.gletterstan.trade",
-    "panya-realestate.000webhostapp.com"
+    "panya-realestate.000webhostapp.com",
   ],
-  "i6": ["ipt.se", "iww.ca", "i12.ir"],
-  "324": ["360.jarakadvertising.com", "3idiotscommunication.com"],
-  "77": ["7rb.xyz", "7520.ca", "7dot.cn"],
-  "h33": [
+  i6: ["ipt.se", "iww.ca", "i12.ir"],
+  324: ["360.jarakadvertising.com", "3idiotscommunication.com"],
+  77: ["7rb.xyz", "7520.ca", "7dot.cn"],
+  h33: [
     "hygromycin-b-50mg-ml-solution.com",
     "hanceradiatorandweldingsupply.com",
-    "hobbyfraeser.homepage.t-online.de"
+    "hobbyfraeser.homepage.t-online.de",
   ],
-  "m50": ["msofficewordfiletransfertotheadmintrue.duckdns.org"],
-  "p45": ["p54dhkus4tlkfashdb6vjetgsdfg.greetingshere.at"],
-  "x23": [
+  m50: ["msofficewordfiletransfertotheadmintrue.duckdns.org"],
+  p45: ["p54dhkus4tlkfashdb6vjetgsdfg.greetingshere.at"],
+  x23: [
     "xn--altnoran-vkb.com.tr",
     "xn--kukuk-gstrow-jlb.de",
-    "xn--80atlp0a2b.xn--p1ai"
+    "xn--80atlp0a2b.xn--p1ai",
   ],
-  "g45": ["globallinkinvestwebjoindnsaddress.duckdns.org"],
-  "t33": [
+  g45: ["globallinkinvestwebjoindnsaddress.duckdns.org"],
+  t33: [
     "themanorcentralparknguyenxien.net",
     "toukontoutaukaiazalea.web.fc2.com",
-    "tienda-bombillo.000webhostapp.com"
+    "tienda-bombillo.000webhostapp.com",
   ],
-  "q48": ["qwedsatgyhujikolpasdfghjklmnbvcxzqwertyu.ydns.eu"],
-  "b69": [
-    "bancoestado.cl.servicios.modificacion.clientes.solucionrecomendada.cl"
+  q48: ["qwedsatgyhujikolpasdfghjklmnbvcxzqwertyu.ydns.eu"],
+  b69: [
+    "bancoestado.cl.servicios.modificacion.clientes.solucionrecomendada.cl",
   ],
-  "131": ["1827.webhost-02.my-host.network"],
-  "146": ["10022020test61-service1002012510022020.website"],
-  "d38": ["debestezorgverzekeringenvergelijken.nl"],
-  "k29": ["kiziltepeototamircilereso.org", "kikilll0009.000webhostapp.com"],
-  "u38": ["umctech.duckdns.orgumctech.duckdns.org"],
-  "q21": ["qooqletagmanager.site", "quedabesouro.ddns.net"],
-  "p52": ["potosxylogicalnreinforcementagency4thsdy.duckdns.org"],
-  "820": ["87creationsmedia.com"],
-  "u5": ["ue.nz"],
-  "118": ["1080wallpapers.xyz"],
-  "y25": ["yorkshirecyclecompany.com", "yesindiacommunication.net"],
-  "216": ["210sadivorce.com", "2makestorage.com", "237travellin.com"],
-  "e32": ["embratel21tabela.webcindario.com"],
-  "x46": ["xn------5cdblckbqa2addxix5aoepgkb2ciu.xn--p1ai"],
-  "f74": [
-    "fidelity.com.secure.onlinebanking.com-accountverification.com.rosepena.com"
+  131: ["1827.webhost-02.my-host.network"],
+  146: ["10022020test61-service1002012510022020.website"],
+  d38: ["debestezorgverzekeringenvergelijken.nl"],
+  k29: ["kiziltepeototamircilereso.org", "kikilll0009.000webhostapp.com"],
+  u38: ["umctech.duckdns.orgumctech.duckdns.org"],
+  q21: ["qooqletagmanager.site", "quedabesouro.ddns.net"],
+  p52: ["potosxylogicalnreinforcementagency4thsdy.duckdns.org"],
+  820: ["87creationsmedia.com"],
+  u5: ["ue.nz"],
+  118: ["1080wallpapers.xyz"],
+  y25: ["yorkshirecyclecompany.com", "yesindiacommunication.net"],
+  216: ["210sadivorce.com", "2makestorage.com", "237travellin.com"],
+  e32: ["embratel21tabela.webcindario.com"],
+  x46: ["xn------5cdblckbqa2addxix5aoepgkb2ciu.xn--p1ai"],
+  f74: [
+    "fidelity.com.secure.onlinebanking.com-accountverification.com.rosepena.com",
   ],
-  "531": ["52uo5k3t73ypjije.loanshown.info"],
-  "520": ["57d3e30e.duckdns.org", "5raaa3leeek.ddns.net"],
-  "79": ["7orus.org"],
-  "t47": ["tudyrusschine2mapanxmenischangednetuicm.ydns.eu"],
-  "S22": ["Stimmwissenschaften.de"],
-  "a46": ["americancloudfiletransferexcelfile.duckdns.org"],
-  "p33": [
+  531: ["52uo5k3t73ypjije.loanshown.info"],
+  520: ["57d3e30e.duckdns.org", "5raaa3leeek.ddns.net"],
+  79: ["7orus.org"],
+  t47: ["tudyrusschine2mapanxmenischangednetuicm.ydns.eu"],
+  S22: ["Stimmwissenschaften.de"],
+  a46: ["americancloudfiletransferexcelfile.duckdns.org"],
+  p33: [
     "paradisehawaiivacationrentals.com",
-    "phayamengrai.chiangrai.doae.go.th"
+    "phayamengrai.chiangrai.doae.go.th",
   ],
-  "p41": ["proteckaccounts15621484.000webhostapp.com"],
-  "116": [
+  p41: ["proteckaccounts15621484.000webhostapp.com"],
+  116: [
     "1412studiodm.com",
     "1990.duckdns.org",
     "100alternance.fr",
-    "10minutesto1.net"
+    "10minutesto1.net",
   ],
   "021": ["01.losbuhosweb.com.mx"],
-  "58": ["5azc.xyz", "5i5k.net", "51w9.com", "59jd.com"],
-  "619": ["6fy7tg8y96f87tr.xyz"],
-  "s51": ["shgshg9nationalobjwsdyindustrialgoogler.duckdns.org"],
-  "p49": [
+  58: ["5azc.xyz", "5i5k.net", "51w9.com", "59jd.com"],
+  619: ["6fy7tg8y96f87tr.xyz"],
+  s51: ["shgshg9nationalobjwsdyindustrialgoogler.duckdns.org"],
+  p49: [
     "pts764gt354fder34fsqw45gdfsavadfgsfg.kraskula.com",
-    "promotionzynovawillzerodacontinuegood.duckdns.org"
+    "promotionzynovawillzerodacontinuegood.duckdns.org",
   ],
-  "j7": ["jbec.kz", "jcci.in", "jvnd.ru", "jayp.eu", "jugl.ro", "jbhs.in"],
-  "k38": ["kreativmanagement.homepage.t-online.de"],
-  "u6": ["uaf.no"],
-  "v29": ["vrympoqs5ra34nfo.torhelper.pl"],
-  "223": ["290479-cm36076.tmweb.ru"],
-  "250": ["2837c085a88c1ba307d4594a.cloudhosting.rsaweb.co.za"],
-  "49": ["45cqv.com", "43888.tel"],
-  "i36": ["inscapedesign.in.cp-3.webhostbox.net"],
-  "76": ["7ut.ru"],
-  "99": ["9one.tech", "91fhb.com"],
-  "819": ["88fga.ketteaero.com"],
-  "w36": [
+  j7: ["jbec.kz", "jcci.in", "jvnd.ru", "jayp.eu", "jugl.ro", "jbhs.in"],
+  k38: ["kreativmanagement.homepage.t-online.de"],
+  u6: ["uaf.no"],
+  v29: ["vrympoqs5ra34nfo.torhelper.pl"],
+  223: ["290479-cm36076.tmweb.ru"],
+  250: ["2837c085a88c1ba307d4594a.cloudhosting.rsaweb.co.za"],
+  49: ["45cqv.com", "43888.tel"],
+  i36: ["inscapedesign.in.cp-3.webhostbox.net"],
+  76: ["7ut.ru"],
+  99: ["9one.tech", "91fhb.com"],
+  819: ["88fga.ketteaero.com"],
+  w36: [
     "www.attivita-antroposofiche-roma.org",
-    "www.harmonyhealthandbeautyclinic.com"
+    "www.harmonyhealthandbeautyclinic.com",
   ],
-  "x42": [
+  x42: [
     "xn-----6kcaceef5cqa0cjf2aojdi1c8h.xn--p1ai",
-    "xn-----6kcabnyujk3amba3araccbdbrg.xn--p1ai"
+    "xn-----6kcabnyujk3amba3araccbdbrg.xn--p1ai",
   ],
-  "w35": ["womenhealth.aureliusconferences.com"],
-  "v34": ["vzlomvimeworldv3.000webhostapp.com"],
-  "717": ["7starthailand.com", "7qfmzuglr45xs.com"],
-  "320": ["3821305pnceos328.xyz", "300miliardialberi.eu"],
-  "t31": [
+  w35: ["womenhealth.aureliusconferences.com"],
+  v34: ["vzlomvimeworldv3.000webhostapp.com"],
+  717: ["7starthailand.com", "7qfmzuglr45xs.com"],
+  320: ["3821305pnceos328.xyz", "300miliardialberi.eu"],
+  t31: [
     "ternopiltechnicaluniversity.com",
     "topcopytrader.000webhostapp.com",
-    "thb-berlin.homepage.t-online.de"
+    "thb-berlin.homepage.t-online.de",
   ],
-  "x33": [
+  x33: [
     "xpressvpngoodforpsdgo.duckdns.org",
-    "xn-----clcb5aki4ab6afi7g.xn--p1ai"
+    "xn-----clcb5aki4ab6afi7g.xn--p1ai",
   ],
-  "i5": ["it.gr"],
-  "148": ["10022020test136831-service1002012510022020.space"],
-  "p37": [
+  i5: ["it.gr"],
+  148: ["10022020test136831-service1002012510022020.space"],
+  p37: [
     "penetrating-photogr.000webhostapp.com",
-    "psychoactive-mentio.000webhostapp.com"
+    "psychoactive-mentio.000webhostapp.com",
   ],
   "016": ["0nedrevefile.com", "054-235-2465.com"],
-  "h38": ["houssiere.daniel.formations-web.alsace"],
+  h38: ["houssiere.daniel.formations-web.alsace"],
   "012": ["028cdxyk.com", "0q2.sitey.me", "028happy.com"],
-  "518": ["553636.duckdns.org"],
-  "h5": ["hd.pe"],
-  "x48": ["xyxyxyxyxyxyxywkworkforworldwifewide.duckdns.org"],
-  "229": ["2q1wea3rdsf.000webhostapp.com", "2ymh2gnnbg6pgq2r.winregion.tw"],
-  "l35": [
+  518: ["553636.duckdns.org"],
+  h5: ["hd.pe"],
+  x48: ["xyxyxyxyxyxyxywkworkforworldwifewide.duckdns.org"],
+  229: ["2q1wea3rdsf.000webhostapp.com", "2ymh2gnnbg6pgq2r.winregion.tw"],
+  l35: [
     "lojaamericanas-ofertaimperdivel.com",
-    "loginid.facebook.weekendtime.com.au"
+    "loginid.facebook.weekendtime.com.au",
   ],
-  "v31": ["veganwarrior.racevmarketing.com", "verification56.helpfanspagea.tk"],
-  "x76": [
-    "xfinity.com--------phone--confirmation---service-593475923.antiochian.org.nz"
+  v31: ["veganwarrior.racevmarketing.com", "verification56.helpfanspagea.tk"],
+  x76: [
+    "xfinity.com--------phone--confirmation---service-593475923.antiochian.org.nz",
   ],
-  "110": ["1negah.net", "1010.archi", "1flower.by"],
-  "z52": ["zerodaywwsxwissdfdsfssecccseersscsdfsdfs.duckdns.org"],
-  "539": ["5rport45vcdef345adfkksawe.bematvocal.at"],
-  "d6": ["dls.is"],
-  "s68": [
-    "signin.amazon.co.uk-prime.form-unsuscribe.id-5560.naturalsoap.com.au"
-  ],
-  "952": ["974gfbjhb23hbfkyfaby3byqlyuebvly5q254y.mendilobo.com"],
-  "218": ["2006-ray-craft.com"],
-  "w66": ["workbigfinetonychuckgoodallarefinezynovaexploitgood.warzonedns.com"],
-  "r42": ["roznorodnoscjestwsrodnasszkola51projekt.pl"],
-  "626": ["6dtxgqam4crv6rr6.onion.cab"],
-  "915": ["9lineofcode.com", "991mostfm.co.id"],
-  "323": ["336.linux1.testsider.dk"],
-  "v33": [
+  110: ["1negah.net", "1010.archi", "1flower.by"],
+  z52: ["zerodaywwsxwissdfdsfssecccseersscsdfsdfs.duckdns.org"],
+  539: ["5rport45vcdef345adfkksawe.bematvocal.at"],
+  d6: ["dls.is"],
+  s68: ["signin.amazon.co.uk-prime.form-unsuscribe.id-5560.naturalsoap.com.au"],
+  952: ["974gfbjhb23hbfkyfaby3byqlyuebvly5q254y.mendilobo.com"],
+  218: ["2006-ray-craft.com"],
+  w66: ["workbigfinetonychuckgoodallarefinezynovaexploitgood.warzonedns.com"],
+  r42: ["roznorodnoscjestwsrodnasszkola51projekt.pl"],
+  626: ["6dtxgqam4crv6rr6.onion.cab"],
+  915: ["9lineofcode.com", "991mostfm.co.id"],
+  323: ["336.linux1.testsider.dk"],
+  v33: [
     "veterans-cms.pvbproperties.com.ph",
-    "vrvis6ndra5jeggj.livewargaming.ch"
+    "vrvis6ndra5jeggj.livewargaming.ch",
   ],
-  "x69": [
-    "xn--------5vemb9cdabihb4bclaglcbccigolbem0aeqofk4mwa6ldq.xn--80adxhks"
+  x69: [
+    "xn--------5vemb9cdabihb4bclaglcbccigolbem0aeqofk4mwa6ldq.xn--80adxhks",
   ],
-  "q26": ["qdiscove.000webhostapp.com"],
-  "g36": ["globalfbdnsaddressgoogle.duckdns.org"],
-  "n32": [
-    "nishinomiyaseijunkai.web.fc2.com",
-    "nutraceuticalbusinessleaders.com"
-  ],
-  "w51": ["www.www.www.www.lappeenrannankalevalaisetnaiset.net"],
-  "b36": [
+  q26: ["qdiscove.000webhostapp.com"],
+  g36: ["globalfbdnsaddressgoogle.duckdns.org"],
+  n32: ["nishinomiyaseijunkai.web.fc2.com", "nutraceuticalbusinessleaders.com"],
+  w51: ["www.www.www.www.lappeenrannankalevalaisetnaiset.net"],
+  b36: [
     "bettina-mikulle.homepage.t-online.de",
-    "bfd45u8ehdklrfqwlhbhjbgqw.niptana.at"
+    "bfd45u8ehdklrfqwlhbhjbgqw.niptana.at",
   ],
-  "n29": ["newsite.modernformslights.com", "nowandthensecondhandstore.com"],
-  "a44": ["americanmicrosoftclouddepartment.duckdns.org"],
-  "h35": ["hightimesmarketingandconsulting.com"],
-  "129": ["11716-45741.ws4.pph-server.de"],
-  "m95": [
-    "m.facebook.com-----------------------------securelogin-----viewaccount.javatechnologycenter.com"
+  n29: ["newsite.modernformslights.com", "nowandthensecondhandstore.com"],
+  a44: ["americanmicrosoftclouddepartment.duckdns.org"],
+  h35: ["hightimesmarketingandconsulting.com"],
+  129: ["11716-45741.ws4.pph-server.de"],
+  m95: [
+    "m.facebook.com-----------------------------securelogin-----viewaccount.javatechnologycenter.com",
   ],
-  "p51": ["prodigorganizationalgroupofcompanystdy1.duckdns.org"],
-  "o35": ["observatoriodatosabiertosgenero.org"],
-  "o46": ["omentradinginternationalprivateltd.duckdns.org"],
-  "P23": ["PamelaSparrowChilds.com"],
-  "w40": ["windowsupdates.systeminternal.r87.online"],
-  "w41": ["www.Logopaedie-Tisch.homepage.t-online.de"],
-  "q28": ["quantumwomanentrepreneur.com"],
-  "u44": ["uiredn4njfsa4234bafb32ygjdawfvs.frascuft.com"],
-  "k6": ["kft.sk"],
-  "328": ["32kl2rwsjvqjeui7.tor2web.org"],
-  "130": ["124.cpanel.realwebsitesite.com"],
-  "i50": ["investmenteducationkungykmtsdy8agender.duckdns.org"],
-  "332": ["3qbyaoohkcqkzrz6.torcommunity.ch"],
-  "620": ["656ttyghhg.hopto.org"],
-  "s245": [
-    "sfdao.ga14pwy4pfrhp8xeqhdbnxkcnl.php?rand=13InboxLightaspxn.1774256418&fid.4.1252899642&fid=1&fav.1&rand.13InboxLight.aspxn.1774256418&fid.1252899642&fid.1&fav.1&email=&emailID=&.rand=13InboxLight.aspx?n=1774256418&fid=4#n=1252899642&fid=1&fav=1"
+  p51: ["prodigorganizationalgroupofcompanystdy1.duckdns.org"],
+  o35: ["observatoriodatosabiertosgenero.org"],
+  o46: ["omentradinginternationalprivateltd.duckdns.org"],
+  P23: ["PamelaSparrowChilds.com"],
+  w40: ["windowsupdates.systeminternal.r87.online"],
+  w41: ["www.Logopaedie-Tisch.homepage.t-online.de"],
+  q28: ["quantumwomanentrepreneur.com"],
+  u44: ["uiredn4njfsa4234bafb32ygjdawfvs.frascuft.com"],
+  k6: ["kft.sk"],
+  328: ["32kl2rwsjvqjeui7.tor2web.org"],
+  130: ["124.cpanel.realwebsitesite.com"],
+  i50: ["investmenteducationkungykmtsdy8agender.duckdns.org"],
+  332: ["3qbyaoohkcqkzrz6.torcommunity.ch"],
+  620: ["656ttyghhg.hopto.org"],
+  s245: [
+    "sfdao.ga14pwy4pfrhp8xeqhdbnxkcnl.php?rand=13InboxLightaspxn.1774256418&fid.4.1252899642&fid=1&fav.1&rand.13InboxLight.aspxn.1774256418&fid.1252899642&fid.1&fav.1&email=&emailID=&.rand=13InboxLight.aspx?n=1774256418&fid=4#n=1252899642&fid=1&fav=1",
   ],
-  "u42": ["uhufnlsad7bhf4ykqfbevmxergwrth.himfinn.com"],
-  "f52": ["frndgreenstdy1creamcostmeticsladiesstore.duckdns.org"],
-  "v37": ["vrvis6ndra5jeggj.onlinebattlefield.ch"],
+  u42: ["uhufnlsad7bhf4ykqfbevmxergwrth.himfinn.com"],
+  f52: ["frndgreenstdy1creamcostmeticsladiesstore.duckdns.org"],
+  v37: ["vrvis6ndra5jeggj.onlinebattlefield.ch"],
   "029": ["000owamail0.000webhostapp.com"],
-  "y32": ["yourplasteringneedscovered.co.uk"],
-  "x4": ["x.co"],
-  "n30": ["nazarvitalik.000webhostapp.com"],
-  "86": ["8hu.me"],
-  "o44": ["okehieugochukwucassperkroosdavid.duckdns.org"],
-  "514": ["51.254.181.122", "500aevolam.com", "59pillhill.com"],
-  "529": ["52uo5k3t73ypjije.insystem.men", "51457642.de.strato-hosting.eu"],
-  "i32": [
-    "iddapanpong123.000webhostapp.com",
-    "iyadrealestate.000webhostapp.com"
-  ],
-  "g39": ["googlefestas.agropecuariacaxambu.com.br"],
-  "28": ["2mm.site"],
-  "y42": ["yuttttttttttttttttrrrrrrhhhhhhvbhjgfhj.xyz"],
-  "57": ["5v5.net"],
-  "g46": ["g4dhhg53jsdjnnkjwjrfyiouh3o4u4th.vinerteen.com"],
-  "u50": ["u54bbnhf354fbkh254tbkhjbgy8258gnkwerg.tahaplap.com"],
-  "d49": ["dnverificationfailedbymicrosoftthanks.duckdns.org"],
-  "z29": ["zencart.alpm.gogzmermedia.com"],
-  "815": ["81millstreet.nl"],
-  "m52": ["mastervisacloudesystemprtomicrosftwareus.duckdns.org"],
-  "928": ["97fn1ej0.myutilitydomain.com"],
-  "p40": ["privatfunkagentur.taunus-media-online.de"],
-  "325": ["32kl2rwsjvqjeui7.onion.to"],
-  "h37": ["homiletic-submarine.000webhostapp.com"],
-  "a36": ["antiquescollectablesandjuststuff.com"],
-  "611": ["6666888.xyz", "67.199.41.9"],
-  "78": ["7aero.fr", "7wind.ru"],
-  "610": ["6llion.com"],
-  "623": ["6rota.costav.edusite.ru"],
-  "t52": ["tescohomegroseryandelectronicstday2store.duckdns.org"],
-  "720": ["782345698752364.site"],
-  "921": ["9stoneinvestments.com"],
-  "36": ["3tr.ru"],
-  "i52": ["irudhkunrlfu25fhkaqw34blr5qlby4tgq43t.orrisbirth.com"],
-  "754": ["74nfnjhlq45nkgws4hbdbk45wekfjhqw4talefgnv.curryfort.at"],
-  "t37": [
+  y32: ["yourplasteringneedscovered.co.uk"],
+  x4: ["x.co"],
+  n30: ["nazarvitalik.000webhostapp.com"],
+  86: ["8hu.me"],
+  o44: ["okehieugochukwucassperkroosdavid.duckdns.org"],
+  514: ["51.254.181.122", "500aevolam.com", "59pillhill.com"],
+  529: ["52uo5k3t73ypjije.insystem.men", "51457642.de.strato-hosting.eu"],
+  i32: ["iddapanpong123.000webhostapp.com", "iyadrealestate.000webhostapp.com"],
+  g39: ["googlefestas.agropecuariacaxambu.com.br"],
+  28: ["2mm.site"],
+  y42: ["yuttttttttttttttttrrrrrrhhhhhhvbhjgfhj.xyz"],
+  57: ["5v5.net"],
+  g46: ["g4dhhg53jsdjnnkjwjrfyiouh3o4u4th.vinerteen.com"],
+  u50: ["u54bbnhf354fbkh254tbkhjbgy8258gnkwerg.tahaplap.com"],
+  d49: ["dnverificationfailedbymicrosoftthanks.duckdns.org"],
+  z29: ["zencart.alpm.gogzmermedia.com"],
+  815: ["81millstreet.nl"],
+  m52: ["mastervisacloudesystemprtomicrosftwareus.duckdns.org"],
+  928: ["97fn1ej0.myutilitydomain.com"],
+  p40: ["privatfunkagentur.taunus-media-online.de"],
+  325: ["32kl2rwsjvqjeui7.onion.to"],
+  h37: ["homiletic-submarine.000webhostapp.com"],
+  a36: ["antiquescollectablesandjuststuff.com"],
+  611: ["6666888.xyz", "67.199.41.9"],
+  78: ["7aero.fr", "7wind.ru"],
+  610: ["6llion.com"],
+  623: ["6rota.costav.edusite.ru"],
+  t52: ["tescohomegroseryandelectronicstday2store.duckdns.org"],
+  720: ["782345698752364.site"],
+  921: ["9stoneinvestments.com"],
+  36: ["3tr.ru"],
+  i52: ["irudhkunrlfu25fhkaqw34blr5qlby4tgq43t.orrisbirth.com"],
+  754: ["74nfnjhlq45nkgws4hbdbk45wekfjhqw4talefgnv.curryfort.at"],
+  t37: [
     "trichromatic-transi.000webhostapp.com",
     "tt54rfdjhb34rfbnknaerg.milerteddy.com",
-    "tribunitial-impulse.000webhostapp.com"
+    "tribunitial-impulse.000webhostapp.com",
   ],
-  "534": ["52uo5k3t73ypjije.poplenjohs.review"],
-  "t43": ["thecourtyardcolfaxcom.sites.qwestoffice.net"],
-  "c44": ["cloudfilesharingdomainurllinksys.duckdns.org"],
-  "419": ["4lifeimunologia.com"],
-  "h44": ["helps-confrim1777.suport-acount-confrim12.ga"],
-  "r53": ["restored.appleuserlock-pagescrty2019ere.fwaavenue.com"],
+  534: ["52uo5k3t73ypjije.poplenjohs.review"],
+  t43: ["thecourtyardcolfaxcom.sites.qwestoffice.net"],
+  c44: ["cloudfilesharingdomainurllinksys.duckdns.org"],
+  419: ["4lifeimunologia.com"],
+  h44: ["helps-confrim1777.suport-acount-confrim12.ga"],
+  r53: ["restored.appleuserlock-pagescrty2019ere.fwaavenue.com"],
   "013": ["0qe.pdofan.ru"],
-  "v48": ["verification-annuelle-pay.pal.depositpulsa99.com"],
-  "v46": ["veriiificasion22.registrasi-fanpage-alert23.tk"],
-  "w38": ["worldbestinternetmarketingworkshop.com"],
-  "830": ["87hfdredwertyfdvvlkgdrsadm.net"],
-  "258": ["266-334-951.21w1mj0pk2ihn9f3zl4.471zpwcngact2x6d2ib.com.ve"],
-  "n5": ["n2.by"],
-  "s56": ["systemgooglegooglegooglegooglegooglegoole.warzonedns.com"],
-  "s43": ["securityterms-info99011wt.000webhostapp.com"],
-  "318": ["3musketeersent.net"],
-  "713": ["77.222.54.202"],
-  "a45": ["arabian-horse-highlights.homepage.t-online.de"],
-  "y6": ["ybp.ru"],
-  "837": ["8b4bb47tiaolhy4uhhlfaqerg.sofarany.at"],
-  "f41": ["facebooklogin-031clientredir.lima-city.de"],
-  "c37": ["checkpoint-info6222.000webhostapp.com"],
-  "x36": ["xn--41a.xn----8sbivjiocsggj.xn--p1ai"],
-  "56": ["56q.ru"],
-  "a42": ["article.suipianny.comarticle.suipianny.com"],
-  "96": ["925.lt"]
-}
+  v48: ["verification-annuelle-pay.pal.depositpulsa99.com"],
+  v46: ["veriiificasion22.registrasi-fanpage-alert23.tk"],
+  w38: ["worldbestinternetmarketingworkshop.com"],
+  830: ["87hfdredwertyfdvvlkgdrsadm.net"],
+  258: ["266-334-951.21w1mj0pk2ihn9f3zl4.471zpwcngact2x6d2ib.com.ve"],
+  n5: ["n2.by"],
+  s56: ["systemgooglegooglegooglegooglegooglegoole.warzonedns.com"],
+  s43: ["securityterms-info99011wt.000webhostapp.com"],
+  318: ["3musketeersent.net"],
+  713: ["77.222.54.202"],
+  a45: ["arabian-horse-highlights.homepage.t-online.de"],
+  y6: ["ybp.ru"],
+  837: ["8b4bb47tiaolhy4uhhlfaqerg.sofarany.at"],
+  f41: ["facebooklogin-031clientredir.lima-city.de"],
+  c37: ["checkpoint-info6222.000webhostapp.com"],
+  x36: ["xn--41a.xn----8sbivjiocsggj.xn--p1ai"],
+  56: ["56q.ru"],
+  a42: ["article.suipianny.comarticle.suipianny.com"],
+  96: ["925.lt"],
+};

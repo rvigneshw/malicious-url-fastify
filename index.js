@@ -1,9 +1,15 @@
-import { db } from "./db.js";
-import Fastify from "fastify";
+// Require the framework and instantiate it
+// const fastify = require("fastify")({ logger: true });
+// const db = require("./db.json");
+// import { db } from "./db.js";
+// import Fastify from "fastify";
 
-const fastify = Fastify({
-  logger: true,
-});
+// // Instantiate Fastify with some config
+// const fastify = Fastify({
+//   logger: true,
+// });
+const db = require("./db");
+const fastify = require("fastify")({ logger: true });
 
 fastify.route({
   method: "GET",
@@ -37,6 +43,7 @@ fastify.route({
 const generateHashKey = (url) => {
   return `${url.charAt(0)}${url.length}`;
 };
+
 const start = async () => {
   try {
     await fastify.listen(3000);
@@ -45,4 +52,5 @@ const start = async () => {
     process.exit(1);
   }
 };
+
 start();

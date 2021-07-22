@@ -1,4 +1,4 @@
-export const db = {
+module.exports.db = {
   h12: [
     "hussein.shop",
     "holinamet.us",
